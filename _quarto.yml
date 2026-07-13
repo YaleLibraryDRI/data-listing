@@ -2,6 +2,10 @@ project:
   type: website
   output-dir: docs
 
+resources:
+  - data/yale_library_data_listing.json
+  - data/yale_library_data_listing.yml
+
 website:
   title: "Yale Library Data Listing"
   site-url: "https://yalelibrarydri.github.io/data-listing/"
