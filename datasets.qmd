@@ -1,5 +1,5 @@
 ---
-title: "Datasets & Databases"
+title: "Data Resources"
 page-layout: full
 ---
 ```{=html}
