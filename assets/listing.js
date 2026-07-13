@@ -46,15 +46,27 @@ function cardTemplate(item) {
     <div class="dataset-card">
       <div class="card-body">
 
-        <h3>${tile.title || "Untitled"}</h3>
+        <h3 class="card-title">
+          ${tile.title || "Untitled"}
+        </h3>
 
-        <p>${tile.description || ""}</p>
+        <p class="card-description">
+          ${tile.description || ""}
+        </p>
 
         ${
           tile.site
-            ? `${tile.site}
-                 Access Resource
-               </a>`
+            ? `
+              <div class="card-footer">
+                <a
+                  href="${tile.site}"
+                  target="_blank"
+                  rel="noopener"
+                  class="card-link primary">
+                  Access Resource
+                </a>
+              </div>
+            `
             : ""
         }
 
@@ -62,6 +74,7 @@ function cardTemplate(item) {
     </div>
   `;
 }
+``
 
 function searchableText(item) {
   const tile = item.tile || {};
