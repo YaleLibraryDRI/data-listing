@@ -8,12 +8,14 @@ page-layout: full
 </div>
 
 <div id="listing-controls" class="listing-controls" aria-label="Listing filters">
+
   <div class="filter-block search-block">
     <label for="listing-search">Search</label>
-    <input type="search"
-           id="listing-search"
-           placeholder="Search by title, provider, topic, or description"
-           autocomplete="off">
+    <input
+      type="search"
+      id="listing-search"
+      placeholder="Search by title, provider, topic, or description"
+      autocomplete="off">
   </div>
 
   <div class="filter-block">
@@ -40,6 +42,7 @@ page-layout: full
   <button id="clear-filters" type="button">
     Clear filters
   </button>
+
 </div>
 
 <div id="result-count" class="result-count" aria-live="polite"></div>
