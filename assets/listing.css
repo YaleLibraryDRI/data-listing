@@ -148,6 +148,16 @@
   flex: 1;
 }
 
+.featured-card {
+  min-height: auto;
+  padding: 0.75rem;
+}
+
+.featured-card p {
+  font-size: 0.85rem;
+  margin-bottom: 0.5rem;
+}
+
 .featured-label {
   align-self: flex-start;
   background: #e8eef8;
