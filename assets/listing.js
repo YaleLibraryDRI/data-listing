@@ -52,7 +52,9 @@ function cardTemplate(item) {
 
         ${
           tile.site
-            ? `${tile.site}Access Resource</a>`
+            ? `${tile.site}
+                 Access Resource
+               </a>`
             : ""
         }
 
