@@ -12,7 +12,7 @@
         "Market Research"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required"
       ],
       "tile": {
         "title": "ABI/Inform",
@@ -20,7 +20,9 @@
         "image": "../Images/Datasets/abi-inform.png",
         "topic": "Company & Organization Data, Financial & Market Data, Market Research",
         "provider": "ProQuest",
-        "site": "https://www.proquest.com/abicomplete/index?accountid=15172"
+        "site": "https://www.proquest.com/abicomplete/index?accountid=15172",
+        "detail": "datasets/abi-inform.html",
+        "slug": "abi-inform"
       }
     },
     {
@@ -34,7 +36,7 @@
         "Historical Archives"
       ],
       "categories3": [
-        "Open access"
+        "Individual Account Required"
       ],
       "tile": {
         "title": "Ad*Access",
@@ -42,7 +44,9 @@
         "image": "../Images/Datasets/ad-access.png",
         "topic": "Market Research, Historical Archives",
         "site": "https://repository.duke.edu/dc/adaccess",
-        "access-note": "Requires users to register for an account with a valid Yale email address.\n"
+        "access-note": "Requires users to register for an account with a valid Yale email address.\n",
+        "detail": "datasets/ad-access.html",
+        "slug": "ad-access"
       }
     },
     {
@@ -56,14 +60,17 @@
         "Government & International Statistics"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Advertising Age",
         "description": "News and analysis platform covering advertising, marketing, media, agencies, and brand\nstrategy. Supports research on marketing trends, campaign strategy, and advertising\nindustry developments.\n",
         "image": "../Images/Datasets/advertising-age.png",
         "topic": "Market Research, News & Current Events, Government & International Statistics",
-        "site": "https://library.yale.edu/eresources/access/access-ad-age?_ga=2.49974048.788554764.1679317615-416833816.1675090855"
+        "site": "https://library.yale.edu/eresources/access/access-ad-age?_ga=2.49974048.788554764.1679317615-416833816.1675090855",
+        "detail": "datasets/advertising-age.html",
+        "slug": "advertising-age"
       }
     },
     {
@@ -78,7 +85,9 @@
         "Government & International Statistics"
       ],
       "categories3": [
-        "External platform"
+        "Request Required",
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "American City Business Journals",
@@ -86,7 +95,9 @@
         "image": "../Images/Datasets/american-city-business-journals.png",
         "topic": "Company & Organization Data, News & Current Events, Government & International Statistics",
         "site": "https://library.yale.edu/eresources/access/access-american-city-business-journals",
-        "access-note": "Requires users to request an individual account with a Yale email address.\n"
+        "access-note": "Requires users to request an individual account with a Yale email address.\n",
+        "detail": "datasets/american-city-business-journals.html",
+        "slug": "american-city-business-journals"
       }
     },
     {
@@ -101,7 +112,8 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "American Energy Society",
@@ -109,7 +121,9 @@
         "image": "../Images/Datasets/american-energy-society.png",
         "topic": "News & Current Events, ESG & Sustainability Data, Data Platform",
         "site": "https://library.yale.edu/eresources/access/access-american-energy-society",
-        "access-note": "New users will need to register for an individual account using a valid Yale email address\n.\n"
+        "access-note": "New users will need to register for an individual account using a valid Yale email address\n.\n",
+        "detail": "datasets/american-energy-society.html",
+        "slug": "american-energy-society"
       }
     },
     {
@@ -122,7 +136,8 @@
         "Workforce & Career Data"
       ],
       "categories3": [
-        "External platform"
+        "Request Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Associations Unlimited",
@@ -131,7 +146,9 @@
         "topic": "Company & Organization Data, Trade & Supply Chain Data, Workforce & Career Data",
         "provider": "Gale",
         "site": "https://yale.idm.oclc.org/login?URL=https://go.gale.com/ps/i.do?p=GDL&sw=w&u=29002&v=2.1&pg=BasicSearch&it=static&sid=bookmark-GDL",
-        "access-note": "Descriptions and contact information for over 500 membership organizations from around the\nworld, including professional and trade associations, labor unions, and cultural\norganizations. Included titles: Encyclopedia of Associations: National Organizations of\nthe U.S., Encyclopedia of Associations: International Organizations, and Encyclopedia of\nAssociations: Regional, State & Local Associations .\n"
+        "access-note": "Descriptions and contact information for over 500 membership organizations from around the\nworld, including professional and trade associations, labor unions, and cultural\norganizations. Included titles: Encyclopedia of Associations: National Organizations of\nthe U.S., Encyclopedia of Associations: International Organizations, and Encyclopedia of\nAssociations: Regional, State & Local Associations .\n",
+        "detail": "datasets/associations-unlimited.html",
+        "slug": "associations-unlimited"
       }
     },
     {
@@ -145,7 +162,9 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "WRDS Account Required",
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Audit Analytics",
@@ -153,7 +172,9 @@
         "image": "../Images/Datasets/audit-analytics.png",
         "topic": "Financial & Market Data, News & Current Events, Data Platform",
         "site": "https://search.library.yale.edu/catalog/16525201",
-        "access-note": "Available via WRDS or the Audit Analytics website. Both options require users to register\nfor an account with a valid Yale email address.\n"
+        "access-note": "Available via WRDS or the Audit Analytics website. Both options require users to register\nfor an account with a valid Yale email address.\n",
+        "detail": "datasets/audit-analytics.html",
+        "slug": "audit-analytics"
       }
     },
     {
@@ -168,14 +189,16 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "BBC Research",
         "description": "Market research platform covering emerging technologies, healthcare, energy, materials,\nbiotechnology, and industrial sectors. Useful for technology forecasting, industry\nanalysis, and market assessment.\n",
         "image": "../Images/Datasets/bbc-research.png",
         "topic": "Market Research, Health & Biomedical Data, Data Platform",
-        "site": "http://hdl.handle.net/10079/yuldb/yuldb1766"
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb1766",
+        "detail": "datasets/bbc-research.html",
+        "slug": "bbc-research"
       }
     },
     {
@@ -189,7 +212,8 @@
         "News & Current Events"
       ],
       "categories3": [
-        "Workstation access"
+        "Workstation Access",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Bloomberg Terminal",
@@ -198,7 +222,9 @@
         "topic": "Company & Organization Data, Financial & Market Data, News & Current Events",
         "provider": "Bloomberg",
         "site": "https://guides.library.yale.edu/Bloomberg",
-        "access-note": "Available on dedicated workstations located at Marx Library and the School of Management.\n"
+        "access-note": "Available on dedicated workstations located at Marx Library and the School of Management.\n",
+        "detail": "datasets/bloomberg-terminal.html",
+        "slug": "bloomberg-terminal"
       }
     },
     {
@@ -213,7 +239,8 @@
         "Real Estate & Property Data"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Bloomberg.com",
@@ -222,7 +249,9 @@
         "topic": "Financial & Market Data, News & Current Events, Real Estate & Property Data",
         "provider": "Bloomberg",
         "site": "https://web.library.yale.edu/access-bloombergcom",
-        "access-note": "Requires users to register for an individual account with a Yale email\naddress.Bloomberg.com accounts are reset annually after the spring semester. Returning\nusers may need to re-register with their @yale.edu address at that time.\n"
+        "access-note": "Requires users to register for an individual account with a Yale email\naddress.Bloomberg.com accounts are reset annually after the spring semester. Returning\nusers may need to re-register with their @yale.edu address at that time.\n",
+        "detail": "datasets/bloomberg-com.html",
+        "slug": "bloomberg-com"
       }
     },
     {
@@ -237,7 +266,8 @@
         "News & Current Events"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Business Insider",
@@ -245,7 +275,9 @@
         "image": "../Images/Datasets/business-insider.png",
         "topic": "Company & Organization Data, Financial & Market Data, News & Current Events",
         "site": "https://library.yale.edu/eresources/access/access-business-insider",
-        "access-note": "Requires users to register for an account with a Yale email address.\n"
+        "access-note": "Requires users to register for an account with a Yale email address.\n",
+        "detail": "datasets/business-insider.html",
+        "slug": "business-insider"
       }
     },
     {
@@ -258,7 +290,8 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Business of Fashion Professional",
@@ -266,7 +299,9 @@
         "image": "../Images/Datasets/business-of-fashion-professional.png",
         "topic": "Company & Organization Data, Market Research, Data Platform",
         "site": "https://library.yale.edu/eresources/access/access-business-fashion?_ga=2.228768796.1813429910.1685970342-141142974.1682704224",
-        "access-note": "Requires users to register for an account with a Yale email address. The campus\nsubscription does not include access to BoF Insights reports.\n"
+        "access-note": "Requires users to register for an account with a Yale email address. The campus\nsubscription does not include access to BoF Insights reports.\n",
+        "detail": "datasets/business-of-fashion-professional.html",
+        "slug": "business-of-fashion-professional"
       }
     },
     {
@@ -280,7 +315,8 @@
         "Trade & Supply Chain Data"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Business Source Ultimate",
@@ -288,7 +324,9 @@
         "image": "../Images/Datasets/business-source-ultimate.png",
         "topic": "Company & Organization Data, Scholarly Indexes & Literature, Trade & Supply Chain Data",
         "provider": "EBSCO",
-        "site": "https://yale.idm.oclc.org/login?URL=https://research-ebsco-com.yale.idm.oclc.org/c/bygvhg/topics"
+        "site": "https://yale.idm.oclc.org/login?URL=https://research-ebsco-com.yale.idm.oclc.org/c/bygvhg/topics",
+        "detail": "datasets/business-source-ultimate.html",
+        "slug": "business-source-ultimate"
       }
     },
     {
@@ -302,7 +340,8 @@
         "News & Current Events"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Caixin Global",
@@ -310,7 +349,9 @@
         "image": "../Images/Datasets/caixin-global.png",
         "topic": "Financial & Market Data, News & Current Events",
         "site": "https://web.library.yale.edu/access-caixin-global",
-        "access-note": "Requires users to register for an individual account with a Yale email address for access.\n"
+        "access-note": "Requires users to register for an individual account with a Yale email address for access.\n",
+        "detail": "datasets/caixin-global.html",
+        "slug": "caixin-global"
       }
     },
     {
@@ -323,7 +364,8 @@
         "News & Current Events"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Calcbench",
@@ -331,7 +373,9 @@
         "image": "../Images/Datasets/calcbench.png",
         "topic": "Company & Organization Data, Financial & Market Data, News & Current Events",
         "site": "https://web.library.yale.edu/access-calcbench",
-        "access-note": "Requires users to register for an individual account with a Yale email address for access.\n"
+        "access-note": "Requires users to register for an individual account with a Yale email address for access.\n",
+        "detail": "datasets/calcbench.html",
+        "slug": "calcbench"
       }
     },
     {
@@ -344,7 +388,8 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Capital IQ",
@@ -353,7 +398,9 @@
         "topic": "Company & Organization Data, Financial & Market Data, Data Platform",
         "provider": "S&P",
         "site": "https://library.yale.edu/eresources/access/access-capital-iq, https://guides.library.yale.edu/capiq",
-        "access-note": "Requires registering an individual account with a Yale email address. Individuals who do\nnot want to create an individual account can use S&P NetAdvantage for similar\nfunctionality.\n"
+        "access-note": "Requires registering an individual account with a Yale email address. Individuals who do\nnot want to create an individual account can use S&P NetAdvantage for similar\nfunctionality.\n",
+        "detail": "datasets/capital-iq.html",
+        "slug": "capital-iq"
       }
     },
     {
@@ -368,7 +415,8 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Carbon Pulse",
@@ -376,7 +424,9 @@
         "image": "../Images/Datasets/carbon-pulse.png",
         "topic": "News & Current Events, ESG & Sustainability Data, Data Platform",
         "site": "https://library.yale.edu/eresources/access/access-carbon-pulse",
-        "access-note": "Requires users to register for an individual account with a Yale email address for access.\n"
+        "access-note": "Requires users to register for an individual account with a Yale email address for access.\n",
+        "detail": "datasets/carbon-pulse.html",
+        "slug": "carbon-pulse"
       }
     },
     {
@@ -390,7 +440,8 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "CB Insights",
@@ -398,7 +449,9 @@
         "image": "../Images/Datasets/cb-insights.png",
         "topic": "Financial & Market Data, Market Research, Data Platform",
         "site": "https://library.yale.edu/eresources/access/access-cb-insights",
-        "access-note": "Requires users to register for an account using a Yale email address. Note: Expert\nIntelligence reports are not available with academic or university accounts.\n"
+        "access-note": "Requires users to register for an account using a Yale email address. Note: Expert\nIntelligence reports are not available with academic or university accounts.\n",
+        "detail": "datasets/cb-insights.html",
+        "slug": "cb-insights"
       }
     },
     {
@@ -411,14 +464,16 @@
         "ESG & Sustainability Data"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "CDP Climate Data",
         "description": "Company-reported environmental and climate disclosure data covering emissions,\nsustainability practices, and supply-chain activity. Supports ESG, climate risk, and\ncorporate sustainability research.\n",
         "image": "../Images/Datasets/cdp-climate-data.png",
         "topic": "Company & Organization Data, ESG & Sustainability Data",
-        "site": "https://library.yale.edu/eresources/access/access-carbon-disclosure-project-public-climate-change-data?_ga=2.105318723.1326972826.1556550690-1266232307.1547737145"
+        "site": "https://library.yale.edu/eresources/access/access-carbon-disclosure-project-public-climate-change-data?_ga=2.105318723.1326972826.1556550690-1266232307.1547737145",
+        "detail": "datasets/cdp-climate-data.html",
+        "slug": "cdp-climate-data"
       }
     },
     {
@@ -431,14 +486,16 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "CEIC Data",
         "description": "Global economic and financial database containing macroeconomic, sector, regional, and\nalternative data from official and commercial sources. Supports comparative economic and\npolicy research.\n",
         "image": "../Images/Datasets/ceic-data.png",
         "topic": "Financial & Market Data, Data Platform",
-        "site": "https://library.yale.edu/eresources/access/access-ceic-data"
+        "site": "https://library.yale.edu/eresources/access/access-ceic-data",
+        "detail": "datasets/ceic-data.html",
+        "slug": "ceic-data"
       }
     },
     {
@@ -450,14 +507,16 @@
         "Financial & Market Data"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Centralbanking.com",
         "description": "Information resource focused on central banking, monetary policy, financial stability,\nbanking regulation, and financial technologies. Useful for research on economic policy and\nfinancial systems.\n",
         "image": "../Images/Datasets/centralbanking-com.png",
         "topic": "Financial & Market Data",
-        "site": "https://yale.idm.oclc.org/login?URL=https://www.centralbanking.com/"
+        "site": "https://yale.idm.oclc.org/login?URL=https://www.centralbanking.com/",
+        "detail": "datasets/centralbanking-com.html",
+        "slug": "centralbanking-com"
       }
     },
     {
@@ -471,7 +530,8 @@
         "Government & International Statistics"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Conference Board",
@@ -479,7 +539,9 @@
         "image": "../Images/Datasets/conference-board.png",
         "topic": "Company & Organization Data, Market Research, Government & International Statistics",
         "site": "https://library.yale.edu/eresources/access/access-conference-board",
-        "access-note": "Off-campus users must be logged in to Yale’s VPN OR must create an account with their\n@yale.edu email address.\n"
+        "access-note": "Off-campus users must be logged in to Yale’s VPN OR must create an account with their\n@yale.edu email address.\n",
+        "detail": "datasets/conference-board.html",
+        "slug": "conference-board"
       }
     },
     {
@@ -493,7 +555,8 @@
         "Real Estate & Property Data"
       ],
       "categories3": [
-        "Locally hosted at Yale"
+        "Request Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "CoreLogic",
@@ -501,7 +564,9 @@
         "image": "../Images/Datasets/corelogic.png",
         "topic": "Financial & Market Data, Survey & Polling Data, Real Estate & Property Data",
         "site": "https://search.library.yale.edu/catalog/99149180943408651",
-        "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUMVJTT1BXNDdHVVAyREk5N09BWVdCVFE5RiQlQCN0PWcu&route=shorturl"
+        "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUMVJTT1BXNDdHVVAyREk5N09BWVdCVFE5RiQlQCN0PWcu&route=shorturl",
+        "detail": "datasets/corelogic.html",
+        "slug": "corelogic"
       }
     },
     {
@@ -515,7 +580,8 @@
         "Data Platform"
       ],
       "categories3": [
-        "Locally hosted at Yale"
+        "Request Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Crunchbase",
@@ -524,7 +590,9 @@
         "topic": "Company & Organization Data, Financial & Market Data, Data Platform",
         "site": "https://search.library.yale.edu/catalog/99159676243408651",
         "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUQTVRTE40N1kwVk5FTzJTNjJOVzRPWU5IUCQlQCN0PWcu&route=shorturl",
-        "access-note": "Data is available by request. Use the access link in the Quicksearch record to get\nstarted.\n"
+        "access-note": "Data is available by request. Use the access link in the Quicksearch record to get\nstarted.\n",
+        "detail": "datasets/crunchbase.html",
+        "slug": "crunchbase"
       }
     },
     {
@@ -539,14 +607,17 @@
         "Geospatial & Mapping Data"
       ],
       "categories3": [
-        "External platform"
+        "WRDS Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Data Axle",
         "description": "Business directory containing current and historical information on millions of U.S. and\nCanadian companies. Useful for business demographics, market analysis, and geographic\nresearch.\n",
         "image": "../Images/Datasets/data-axle.png",
         "topic": "Company & Organization Data, News & Current Events, Geospatial & Mapping Data",
-        "site": "https://library.yale.edu/eresources/access/access-data-axle-reference-solutions"
+        "site": "https://library.yale.edu/eresources/access/access-data-axle-reference-solutions",
+        "detail": "datasets/data-axle.html",
+        "slug": "data-axle"
       }
     },
     {
@@ -561,7 +632,8 @@
         "Historical Archives"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Data Explr",
@@ -569,7 +641,9 @@
         "image": "../Images/Datasets/data-explr.png",
         "topic": "Company & Organization Data, Geospatial & Mapping Data, Historical Archives",
         "site": "http://hdl.handle.net/10079/yuldb/yuldb2852",
-        "access-note": "Data for 1981 and 1984 are not available. An individual Data Exlpr account is required to\naccess this data.\n"
+        "access-note": "Data for 1981 and 1984 are not available. An individual Data Exlpr account is required to\naccess this data.\n",
+        "detail": "datasets/data-explr.html",
+        "slug": "data-explr"
       }
     },
     {
@@ -581,7 +655,8 @@
         "Data Platform"
       ],
       "categories3": [
-        "Locally hosted at Yale"
+        "Request Required",
+        "Individual Account Required"
       ],
       "tile": {
         "title": "Datacenter Knowledgebase (451 Research)",
@@ -589,7 +664,9 @@
         "image": "../Images/Datasets/datacenter-knowledgebase-451-research.png",
         "topic": "Data Platform",
         "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUQTFTSEtMRk84SVJTSUVBT0RDSzZSWkQ0WSQlQCN0PWcu&route=shorturl",
-        "access-note": "Requires users to request an individual account with a Yale email address.\n"
+        "access-note": "Requires users to request an individual account with a Yale email address.\n",
+        "detail": "datasets/datacenter-knowledgebase-451-research.html",
+        "slug": "datacenter-knowledgebase-451-research"
       }
     },
     {
@@ -603,7 +680,9 @@
         "Historical Archives"
       ],
       "categories3": [
-        "Locally hosted at Yale"
+        "WRDS Account Required",
+        "Request Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Datastream",
@@ -612,7 +691,9 @@
         "topic": "Financial & Market Data, Government & International Statistics, Historical Archives",
         "provider": "LSEG",
         "site": "https://guides.library.yale.edu/Workspace/Datastream",
-        "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVURDdNSUpFT0JDMEw2WlNCOEQ4NE1KSklNUyQlQCN0PWcu&route=shorturl"
+        "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVURDdNSUpFT0JDMEw2WlNCOEQ4NE1KSklNUyQlQCN0PWcu&route=shorturl",
+        "detail": "datasets/datastream.html",
+        "slug": "datastream"
       }
     },
     {
@@ -626,7 +707,8 @@
         "Workforce & Career Data"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Dewey Data",
@@ -634,7 +716,9 @@
         "image": "../Images/Datasets/dewey-data.png",
         "topic": "Market Research, Health & Biomedical Data, Workforce & Career Data",
         "site": "https://www.deweydata.io/",
-        "access-note": "Click \"Sign in\" and enter your yale.edu email address.\n"
+        "access-note": "Click \"Sign in\" and enter your yale.edu email address.\n",
+        "detail": "datasets/dewey-data.html",
+        "slug": "dewey-data"
       }
     },
     {
@@ -648,7 +732,7 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "eCommerceDB",
@@ -656,7 +740,9 @@
         "image": "../Images/Datasets/ecommercedb.png",
         "topic": "Market Research, Government & International Statistics, Data Platform",
         "site": "https://library.yale.edu/eresources/access/access-ecommercedb",
-        "access-note": "Also accessible via Statista.\n"
+        "access-note": "Also accessible via Statista.\n",
+        "detail": "datasets/ecommercedb.html",
+        "slug": "ecommercedb"
       }
     },
     {
@@ -669,7 +755,8 @@
         "Scholarly Indexes & Literature"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "EconLit",
@@ -677,7 +764,9 @@
         "image": "../Images/Datasets/econlit.png",
         "topic": "Scholarly Indexes & Literature",
         "provider": "ProQuest",
-        "site": "https://yale.idm.oclc.org/login?URL=http://search.proquest.com/econlit?accountid=15172"
+        "site": "https://yale.idm.oclc.org/login?URL=http://search.proquest.com/econlit?accountid=15172",
+        "detail": "datasets/econlit.html",
+        "slug": "econlit"
       }
     },
     {
@@ -691,14 +780,16 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "EIU Viewpoint",
         "description": "Political and economic intelligence platform providing country analysis, forecasts, policy\ninsights, and risk assessments. Useful for international business, public policy, and\nglobal market research.\n",
         "image": "../Images/Datasets/eiu-viewpoint.png",
         "topic": "Market Research, Government & International Statistics, Data Platform",
-        "site": "https://viewpoint-eiu-com.yale.idm.oclc.org/"
+        "site": "https://viewpoint-eiu-com.yale.idm.oclc.org/",
+        "detail": "datasets/eiu-viewpoint.html",
+        "slug": "eiu-viewpoint"
       }
     },
     {
@@ -713,14 +804,16 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "eMarketer",
         "description": "Market data and analysis platform focused on digital advertising, social media,\ne-commerce, retail, and consumer technology. Supports research on digital markets and\nmedia trends.\n",
         "image": "../Images/Datasets/emarketer.png",
         "topic": "Financial & Market Data, Market Research, Data Platform",
-        "site": "http://hdl.handle.net/10079/yuldb/yuldb1980"
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb1980",
+        "detail": "datasets/emarketer.html",
+        "slug": "emarketer"
       }
     },
     {
@@ -734,7 +827,7 @@
         "Government & International Statistics"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "EMIS",
@@ -742,7 +835,9 @@
         "image": "../Images/Datasets/emis.png",
         "topic": "Company & Organization Data, News & Current Events, Government & International Statistics",
         "site": "https://library.yale.edu/eresources/access/access-emis",
-        "access-note": "If you are prompted to login, select the Guest Access option.\n"
+        "access-note": "If you are prompted to login, select the Guest Access option.\n",
+        "detail": "datasets/emis.html",
+        "slug": "emis"
       }
     },
     {
@@ -757,7 +852,9 @@
         "Workforce & Career Data"
       ],
       "categories3": [
-        "External platform"
+        "Request Required",
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Esri Business Analyst",
@@ -766,7 +863,9 @@
         "topic": "Market Research, Geospatial & Mapping Data, Workforce & Career Data",
         "provider": "Esri",
         "site": "https://guides.library.yale.edu/onlinemapping/BA",
-        "access-note": "Requires an individual account. For more information and to request an account, visit:\nOnline Mapping Resources: Esri Business Analyst Web Apps.\n"
+        "access-note": "Requires an individual account. For more information and to request an account, visit:\nOnline Mapping Resources: Esri Business Analyst Web Apps.\n",
+        "detail": "datasets/esri-business-analyst.html",
+        "slug": "esri-business-analyst"
       }
     },
     {
@@ -781,7 +880,7 @@
         "Real Estate & Property Data"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Factiva",
@@ -790,7 +889,9 @@
         "topic": "Company & Organization Data, News & Current Events, Real Estate & Property Data",
         "provider": "EBSCO",
         "site": "https://yale.idm.oclc.org/login?URL=http://hdl.handle.net/10079/yuldb/yuldb493",
-        "access-note": "Per our license agreement, Factiva may not be used for text mining projects.\n"
+        "access-note": "Per our license agreement, Factiva may not be used for text mining projects.\n",
+        "detail": "datasets/factiva.html",
+        "slug": "factiva"
       }
     },
     {
@@ -803,7 +904,8 @@
         "Data Platform"
       ],
       "categories3": [
-        "Workstation access"
+        "Workstation Access",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "FactSet",
@@ -812,7 +914,9 @@
         "topic": "Company & Organization Data, Financial & Market Data, Data Platform",
         "provider": "FactSet",
         "site": "http://guides.library.yale.edu/factset",
-        "access-note": "Access to FactSet is made possible by Yale School of Management. FactSet Workstation is\navailable for Faculty & PhD Students.\n"
+        "access-note": "Access to FactSet is made possible by Yale School of Management. FactSet Workstation is\navailable for Faculty & PhD Students.\n",
+        "detail": "datasets/factset.html",
+        "slug": "factset"
       }
     },
     {
@@ -826,7 +930,7 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Finaeon",
@@ -834,7 +938,9 @@
         "image": "../Images/Datasets/finaeon.png",
         "topic": "Financial & Market Data, Historical Archives, Data Platform",
         "provider": "United Nations",
-        "site": "http://web.library.yale.edu/access-global-financial-data"
+        "site": "http://web.library.yale.edu/access-global-financial-data",
+        "detail": "datasets/finaeon.html",
+        "slug": "finaeon"
       }
     },
     {
@@ -849,14 +955,16 @@
         "Government & International Statistics"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Financial Times",
         "description": "Digital news source covering global business, finance, economics, politics, and markets.\nUseful for current awareness and research on international business and economic issues.\n",
         "image": "../Images/Datasets/financial-times.png",
         "topic": "Financial & Market Data, News & Current Events, Government & International Statistics",
-        "site": "https://yale.idm.oclc.org/login?URL=https://library.yale.edu/eresources/access/access-financial-times"
+        "site": "https://yale.idm.oclc.org/login?URL=https://library.yale.edu/eresources/access/access-financial-times",
+        "detail": "datasets/financial-times.html",
+        "slug": "financial-times"
       }
     },
     {
@@ -868,14 +976,16 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Foundation Directory Online Professional",
         "description": "Database of U.S. foundations, grantmakers, corporate giving programs, public charities,\ngrants, and IRS filings. Supports philanthropy, nonprofit, and funding research.\n",
         "image": "../Images/Datasets/foundation-directory-online-professional.png",
         "topic": "Company & Organization Data, Data Platform",
-        "site": "https://yale.idm.oclc.org/login?URL=http://hdl.handle.net/10079/yuldb/yuldb515"
+        "site": "https://yale.idm.oclc.org/login?URL=http://hdl.handle.net/10079/yuldb/yuldb515",
+        "detail": "datasets/foundation-directory-online-professional.html",
+        "slug": "foundation-directory-online-professional"
       }
     },
     {
@@ -890,14 +1000,16 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Open Access"
       ],
       "tile": {
         "title": "Frost and Sullivan",
         "description": "Market research platform covering technology, healthcare, transportation, defense,\nchemicals, electronics, communications, and other industries. Useful for industry analysis\nand market forecasting.\n",
         "image": "../Images/Datasets/frost-and-sullivan.png",
         "topic": "Market Research, Health & Biomedical Data, Data Platform",
-        "site": "https://member.frost.com/login"
+        "site": "https://member.frost.com/login",
+        "detail": "datasets/frost-and-sullivan.html",
+        "slug": "frost-and-sullivan"
       }
     },
     {
@@ -910,7 +1022,7 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Gale Business Insights",
@@ -918,7 +1030,9 @@
         "image": "../Images/Datasets/gale-business-insights.png",
         "topic": "Company & Organization Data, Market Research, Data Platform",
         "provider": "Gale",
-        "site": "https://yale.idm.oclc.org/login?URL=http://infotrac.galegroup.com/itweb/29002?db=BIG"
+        "site": "https://yale.idm.oclc.org/login?URL=http://infotrac.galegroup.com/itweb/29002?db=BIG",
+        "detail": "datasets/gale-business-insights.html",
+        "slug": "gale-business-insights"
       }
     },
     {
@@ -930,7 +1044,9 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Request Required",
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Gallup Analytics",
@@ -938,7 +1054,9 @@
         "image": "../Images/Datasets/gallup-analytics.png",
         "topic": "Survey & Polling Data, Data Platform",
         "site": "https://yale.idm.oclc.org/login?URL=https://library.yale.edu/eresources/access/access-gallup-analytics",
-        "form": "Yale subscribes to individual response data contact researchdata@yale.edu for access."
+        "form": "Yale subscribes to individual response data contact researchdata@yale.edu for access.",
+        "detail": "datasets/gallup-analytics.html",
+        "slug": "gallup-analytics"
       }
     },
     {
@@ -950,14 +1068,16 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Open Access"
       ],
       "tile": {
         "title": "Gartner",
         "description": "Information technology research platform providing reports, analysis, and trends on IT\nmarkets, vendors, and strategy. Supports technology management and digital transformation\nresearch.\n",
         "image": "../Images/Datasets/gartner.png",
         "topic": "Data Platform",
-        "site": "http://business.yale.edu/gartner/go"
+        "site": "http://business.yale.edu/gartner/go",
+        "detail": "datasets/gartner.html",
+        "slug": "gartner"
       }
     },
     {
@@ -969,7 +1089,7 @@
         "Government & International Statistics"
       ],
       "categories3": [
-        "Open access"
+        "Open Access"
       ],
       "tile": {
         "title": "Global Development Finance",
@@ -977,7 +1097,9 @@
         "image": "../Images/Datasets/global-development-finance.png",
         "topic": "Financial & Market Data, Government & International Statistics",
         "provider": "World Bank",
-        "site": "http://data.worldbank.org/data-catalog/global-financial-development"
+        "site": "http://data.worldbank.org/data-catalog/global-financial-development",
+        "detail": "datasets/global-development-finance.html",
+        "slug": "global-development-finance"
       }
     },
     {
@@ -991,14 +1113,16 @@
         "Health & Biomedical Data"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "GlobalData Medical and Pharmaceutical Intelligence Centers",
         "description": "Market research platform covering medical device and pharmaceutical industries. Supports\nresearch on healthcare markets, drug development, competitive intelligence, and industry\ntrends.\n",
         "image": "../Images/Datasets/globaldata-medical-and-pharmaceutical-intelligence-centers.png",
         "topic": "Market Research, Government & International Statistics, Health & Biomedical Data",
-        "site": "https://library.yale.edu/eresources/access/access-globaldata"
+        "site": "https://library.yale.edu/eresources/access/access-globaldata",
+        "detail": "datasets/globaldata-medical-and-pharmaceutical-intelligence-centers.html",
+        "slug": "globaldata-medical-and-pharmaceutical-intelligence-centers"
       }
     },
     {
@@ -1012,14 +1136,16 @@
         "Workforce & Career Data"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "GoinGlobal",
         "description": "Career and employment information platform with country guides, job search resources, visa\ninformation, salary data, and workplace advice. Supports global career and labor market\nresearch.\n",
         "image": "../Images/Datasets/goinglobal.png",
         "topic": "Market Research, Government & International Statistics, Workforce & Career Data",
-        "site": "https://yale.idm.oclc.org/login?url=http://online.goinglobal.com/default.aspx"
+        "site": "https://yale.idm.oclc.org/login?url=http://online.goinglobal.com/default.aspx",
+        "detail": "datasets/goinglobal.html",
+        "slug": "goinglobal"
       }
     },
     {
@@ -1033,7 +1159,9 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Request Required",
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "GuideStar Pro",
@@ -1041,7 +1169,9 @@
         "image": "../Images/Datasets/guidestar-pro.png",
         "topic": "Company & Organization Data, Financial & Market Data, Data Platform",
         "site": "https://library.yale.edu/eresources/access/access-guidestar",
-        "access-note": "For assistance with downloading lists with more than 1000 results, please contact\nbusiness.reference@yale.edu.\n"
+        "access-note": "For assistance with downloading lists with more than 1000 results, please contact\nbusiness.reference@yale.edu.\n",
+        "detail": "datasets/guidestar-pro.html",
+        "slug": "guidestar-pro"
       }
     },
     {
@@ -1055,7 +1185,7 @@
         "Scholarly Indexes & Literature"
       ],
       "categories3": [
-        "External platform"
+        "Open Access"
       ],
       "tile": {
         "title": "Handbooks in Economics",
@@ -1063,7 +1193,9 @@
         "image": "../Images/Datasets/handbooks-in-economics.png",
         "topic": "Financial & Market Data, Scholarly Indexes & Literature",
         "provider": "Elsevier",
-        "site": "https://www.sciencedirect.com/browse/journals-and-books?subject=economics-econometrics-and-finance"
+        "site": "https://www.sciencedirect.com/browse/journals-and-books?subject=economics-econometrics-and-finance",
+        "detail": "datasets/handbooks-in-economics.html",
+        "slug": "handbooks-in-economics"
       }
     },
     {
@@ -1076,7 +1208,7 @@
         "Scholarly Indexes & Literature"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Harvard Business Publishing eBooks Collection",
@@ -1084,7 +1216,9 @@
         "image": "../Images/Datasets/harvard-business-publishing-ebooks-collection.png",
         "topic": "Company & Organization Data, Government & International Statistics, Scholarly Indexes & Literature",
         "provider": "EBSCO",
-        "site": "https://yale.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&custid=s5164239&groupid=main&profile=ehost&defaultdb=e076mww"
+        "site": "https://yale.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&custid=s5164239&groupid=main&profile=ehost&defaultdb=e076mww",
+        "detail": "datasets/harvard-business-publishing-ebooks-collection.html",
+        "slug": "harvard-business-publishing-ebooks-collection"
       }
     },
     {
@@ -1097,7 +1231,7 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "IBISWorld",
@@ -1105,7 +1239,9 @@
         "image": "../Images/Datasets/ibisworld.png",
         "topic": "Company & Organization Data, Market Research, Data Platform",
         "site": "https://library.yale.edu/eresources/access/access-ibisworld",
-        "access-note": "Due to licensing restrictions with IBISWorld, users are limited to fewer than 50 downloads\nper session. Exceeding this limit may result in a university-wide loss of access to this\nresource.\n"
+        "access-note": "Due to licensing restrictions with IBISWorld, users are limited to fewer than 50 downloads\nper session. Exceeding this limit may result in a university-wide loss of access to this\nresource.\n",
+        "detail": "datasets/ibisworld.html",
+        "slug": "ibisworld"
       }
     },
     {
@@ -1119,14 +1255,16 @@
         "Government & International Statistics"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "IEA Statistics Package",
         "description": "Energy statistics resource from the International Energy Agency. Supports research on\nenergy production, consumption, trade, prices, and energy policy across countries.\n",
         "image": "../Images/Datasets/iea-statistics-package.png",
         "topic": "Financial & Market Data, Market Research, Government & International Statistics",
-        "site": "https://guides.library.yale.edu/iea"
+        "site": "https://guides.library.yale.edu/iea",
+        "detail": "datasets/iea-statistics-package.html",
+        "slug": "iea-statistics-package"
       }
     },
     {
@@ -1141,7 +1279,8 @@
         "ESG & Sustainability Data"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "ImpactAlpha",
@@ -1149,7 +1288,9 @@
         "image": "../Images/Datasets/impactalpha.png",
         "topic": "Financial & Market Data, News & Current Events, ESG & Sustainability Data",
         "site": "https://library.yale.edu/eresources/access/access-impactalpha",
-        "access-note": "Requires users to register for an individual account with a Yale email address.\n"
+        "access-note": "Requires users to register for an individual account with a Yale email address.\n",
+        "detail": "datasets/impactalpha.html",
+        "slug": "impactalpha"
       }
     },
     {
@@ -1164,14 +1305,16 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Indiastat",
         "description": "Statistical database providing India-specific socioeconomic, industry, demographic, and\ngovernment data. Supports regional, policy, development, and market research on India.\n",
         "image": "../Images/Datasets/indiastat.png",
         "topic": "Market Research, Government & International Statistics, Data Platform",
-        "site": "https://library.yale.edu/eresources/access/access-indiastat"
+        "site": "https://library.yale.edu/eresources/access/access-indiastat",
+        "detail": "datasets/indiastat.html",
+        "slug": "indiastat"
       }
     },
     {
@@ -1185,7 +1328,8 @@
         "Workforce & Career Data"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Inside Philanthropy",
@@ -1193,7 +1337,9 @@
         "image": "../Images/Datasets/inside-philanthropy.png",
         "topic": "Company & Organization Data, News & Current Events, Workforce & Career Data",
         "site": "https://library.yale.edu/eresources/access/access-inside-philanthropy",
-        "access-note": "Requires users to register for an individual account.\n"
+        "access-note": "Requires users to register for an individual account.\n",
+        "detail": "datasets/inside-philanthropy.html",
+        "slug": "inside-philanthropy"
       }
     },
     {
@@ -1207,7 +1353,7 @@
         "Government & International Statistics"
       ],
       "categories3": [
-        "Open access"
+        "Individual Account Required"
       ],
       "tile": {
         "title": "International Financial Statistics - IMF",
@@ -1215,7 +1361,9 @@
         "image": "../Images/Datasets/international-financial-statistics-imf.png",
         "topic": "Financial & Market Data, Market Research, Government & International Statistics",
         "provider": "IMF",
-        "site": "http://data.imf.org/IFS"
+        "site": "http://data.imf.org/IFS",
+        "detail": "datasets/international-financial-statistics-imf.html",
+        "slug": "international-financial-statistics-imf"
       }
     },
     {
@@ -1229,7 +1377,7 @@
         "Historical Archives"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "JSTOR",
@@ -1237,7 +1385,9 @@
         "image": "../Images/Datasets/jstor.png",
         "topic": "Scholarly Indexes & Literature, Historical Archives",
         "provider": "JSTOR",
-        "site": "http://hdl.handle.net/10079/yuldb/yuldb1517"
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb1517",
+        "detail": "datasets/jstor.html",
+        "slug": "jstor"
       }
     },
     {
@@ -1248,14 +1398,16 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Kanopy",
         "description": "Streaming video platform offering educational films and documentaries across a range of\nsubject areas. Useful for teaching, course support, and media-based research.\n",
         "image": "../Images/Datasets/kanopy.png",
         "topic": "Data Platform",
-        "site": "https://search.library.yale.edu/catalog/12778063"
+        "site": "https://search.library.yale.edu/catalog/12778063",
+        "detail": "datasets/kanopy.html",
+        "slug": "kanopy"
       }
     },
     {
@@ -1269,7 +1421,9 @@
         "Geospatial & Mapping Data"
       ],
       "categories3": [
-        "External platform"
+        "Request Required",
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Leadership Connect",
@@ -1277,7 +1431,9 @@
         "image": "../Images/Datasets/leadership-connect.png",
         "topic": "Company & Organization Data, Geospatial & Mapping Data",
         "site": "https://library.yale.edu/eresources/access/access-leadership-connect",
-        "access-note": "Requires users to sign in with an @Yale.edu email address. Users will be directed to the\nYale CAS sign-in page. Note: The export function is not available with our subscription.\n"
+        "access-note": "Requires users to sign in with an @Yale.edu email address. Users will be directed to the\nYale CAS sign-in page. Note: The export function is not available with our subscription.\n",
+        "detail": "datasets/leadership-connect.html",
+        "slug": "leadership-connect"
       }
     },
     {
@@ -1290,7 +1446,8 @@
         "Market Research"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "LSEG",
@@ -1299,7 +1456,9 @@
         "topic": "Company & Organization Data, Financial & Market Data, Market Research",
         "provider": "LSEG",
         "site": "https://guides.library.yale.edu/Workspace/",
-        "access-note": "Requires users to register for an individual account.\n"
+        "access-note": "Requires users to register for an individual account.\n",
+        "detail": "datasets/lseg.html",
+        "slug": "lseg"
       }
     },
     {
@@ -1312,7 +1471,9 @@
         "Historical Archives"
       ],
       "categories3": [
-        "External platform"
+        "Request Required",
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "LSEG Tick History",
@@ -1321,7 +1482,9 @@
         "topic": "Financial & Market Data, Historical Archives",
         "provider": "LSEG",
         "site": "https://guides.library.yale.edu/LSEG_Tick_History",
-        "access-note": "email to request access: business.reference@yale.edu\n"
+        "access-note": "email to request access: business.reference@yale.edu\n",
+        "detail": "datasets/lseg-tick-history.html",
+        "slug": "lseg-tick-history"
       }
     },
     {
@@ -1335,14 +1498,16 @@
         "Historical Archives"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Making of the Modern World",
         "description": "Digital archive of economic and business literature published from 1450 through 1850.\nSupports historical research on commerce, political economy, and social thought.\n",
         "image": "../Images/Datasets/making-of-the-modern-world.png",
         "topic": "Scholarly Indexes & Literature, Historical Archives",
-        "site": "http://hdl.handle.net/10079/yuldb/yuldb859"
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb859",
+        "detail": "datasets/making-of-the-modern-world.html",
+        "slug": "making-of-the-modern-world"
       }
     },
     {
@@ -1356,14 +1521,16 @@
         "Historical Archives"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Market Research & American Business, 1935-1965",
         "description": "Digital archive of market research reports and consumer studies from mid-twentieth-century\nAmerican business. Supports research on advertising, consumer culture, and business\nhistory.\n",
         "image": "../Images/Datasets/market-research-american-business-1935-1965.png",
         "topic": "Market Research, Historical Archives",
-        "site": "https://yale.idm.oclc.org/login?URL=http://www.consumerculture.amdigital.co.uk/"
+        "site": "https://yale.idm.oclc.org/login?URL=http://www.consumerculture.amdigital.co.uk/",
+        "detail": "datasets/market-research-american-business-1935-1965.html",
+        "slug": "market-research-american-business-1935-1965"
       }
     },
     {
@@ -1376,14 +1543,16 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "MarketResearch.com Academic",
         "description": "Market research platform providing reports on consumer, demographic, lifestyle,\nindustrial, and product markets. Supports industry analysis, market sizing, and consumer\nresearch.\n",
         "image": "../Images/Datasets/marketresearch-com-academic.png",
         "topic": "Market Research, Data Platform",
-        "site": "https://yale.idm.oclc.org/login?url=https://www.marketresearch.com/academic/"
+        "site": "https://yale.idm.oclc.org/login?url=https://www.marketresearch.com/academic/",
+        "detail": "datasets/marketresearch-com-academic.html",
+        "slug": "marketresearch-com-academic"
       }
     },
     {
@@ -1397,14 +1566,16 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Media Radar 360",
         "description": "Advertising intelligence platform covering advertising expenditures across television,\nradio, magazines, newspapers, and other media. Supports media planning and advertising\nmarket research.\n",
         "image": "../Images/Datasets/media-radar-360.png",
         "topic": "Market Research, News & Current Events, Data Platform",
-        "site": "https://yale.idm.oclc.org/login?URL=https://yale.idm.oclc.org/login?url=https://edu.app.vivvix.com"
+        "site": "https://yale.idm.oclc.org/login?URL=https://yale.idm.oclc.org/login?url=https://edu.app.vivvix.com",
+        "detail": "datasets/media-radar-360.html",
+        "slug": "media-radar-360"
       }
     },
     {
@@ -1418,14 +1589,16 @@
         "Historical Archives"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Mergent Archives",
         "description": "Historical corporate document archive including corporate manuals, municipal manuals, and\nannual reports. Supports company history, financial history, and archival business\nresearch.\n",
         "image": "../Images/Datasets/mergent-archives.png",
         "topic": "Company & Organization Data, Financial & Market Data, Historical Archives",
-        "site": "https://yale.idm.oclc.org/login?url=https://www.mergentarchives.com/search.php"
+        "site": "https://yale.idm.oclc.org/login?url=https://www.mergentarchives.com/search.php",
+        "detail": "datasets/mergent-archives.html",
+        "slug": "mergent-archives"
       }
     },
     {
@@ -1437,14 +1610,17 @@
         "Market Research"
       ],
       "categories3": [
-        "External platform"
+        "Request Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Mergent Intellect",
         "description": "Global business directory with public and private company data, executive contacts, and\nindustry research from D&B Hoovers. Supports company and market research.\n",
         "image": "../Images/Datasets/mergent-intellect.png",
         "topic": "Company & Organization Data, Market Research",
-        "site": "https://yale.idm.oclc.org/login?URL=https://yale.idm.oclc.org/login?URL=https://www.mergentintellect.com"
+        "site": "https://yale.idm.oclc.org/login?URL=https://yale.idm.oclc.org/login?URL=https://www.mergentintellect.com",
+        "detail": "datasets/mergent-intellect.html",
+        "slug": "mergent-intellect"
       }
     },
     {
@@ -1459,14 +1635,16 @@
         "Historical Archives"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Mergent Municipal Bond Database",
         "description": "Dataset of municipal bond attributes with historical coverage dating back several decades.\nSupports fixed income, public finance, and municipal market research.\n",
         "image": "../Images/Datasets/mergent-municipal-bond-database.png",
         "topic": "Financial & Market Data, Market Research, Historical Archives",
-        "site": "http://search.library.yale.edu/catalog/14077868"
+        "site": "http://search.library.yale.edu/catalog/14077868",
+        "detail": "datasets/mergent-municipal-bond-database.html",
+        "slug": "mergent-municipal-bond-database"
       }
     },
     {
@@ -1481,7 +1659,8 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Mintel GNPD",
@@ -1490,7 +1669,9 @@
         "topic": "Market Research, Health & Biomedical Data, Data Platform",
         "provider": "Mintel",
         "site": "https://library.yale.edu/eresources/access/access-mintel?_ga=2.202669273.931541240.1636380257-883986010.1630510795",
-        "access-note": "Requires users to create a profile using your @yale.edu email address. Find step-by-step\ninstructions for accessing Mintel GNPD in Yale Business Answers Now.\n"
+        "access-note": "Requires users to create a profile using your @yale.edu email address. Find step-by-step\ninstructions for accessing Mintel GNPD in Yale Business Answers Now.\n",
+        "detail": "datasets/mintel-gnpd.html",
+        "slug": "mintel-gnpd"
       }
     },
     {
@@ -1503,7 +1684,7 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Mintel Reports",
@@ -1511,7 +1692,9 @@
         "image": "../Images/Datasets/mintel-reports.png",
         "topic": "Market Research, Data Platform",
         "provider": "Mintel",
-        "site": "http://hdl.handle.net/10079/yuldb/yuldb902"
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb902",
+        "detail": "datasets/mintel-reports.html",
+        "slug": "mintel-reports"
       }
     },
     {
@@ -1525,7 +1708,9 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Request Required",
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Moody's CRE",
@@ -1535,7 +1720,9 @@
         "provider": "Moody's",
         "site": "https://library.yale.edu/eresources/access/access-moodys",
         "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUNlVINUhVVUZNMTJFRFgyNjdQM0lCMklNTiQlQCN0PWcu&route=shorturl",
-        "access-note": "Requires users to request an individual account with a Yale email address.\n"
+        "access-note": "Requires users to request an individual account with a Yale email address.\n",
+        "detail": "datasets/moody-s-cre.html",
+        "slug": "moody-s-cre"
       }
     },
     {
@@ -1547,7 +1734,9 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Request Required",
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Moody's Default & Recovery Database",
@@ -1557,7 +1746,9 @@
         "provider": "Moody's",
         "site": "https://library.yale.edu/eresources/access/access-moodys",
         "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUNlVINUhVVUZNMTJFRFgyNjdQM0lCMklNTiQlQCN0PWcu&route=shorturl",
-        "access-note": "Requires users to request an individual account with a Yale email address.\n"
+        "access-note": "Requires users to request an individual account with a Yale email address.\n",
+        "detail": "datasets/moody-s-default-recovery-database.html",
+        "slug": "moody-s-default-recovery-database"
       }
     },
     {
@@ -1570,7 +1761,8 @@
         "Data Platform"
       ],
       "categories3": [
-        "Workstation access"
+        "Workstation Access",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Morningstar Direct",
@@ -1578,7 +1770,9 @@
         "image": "../Images/Datasets/morningstar-direct.png",
         "topic": "Company & Organization Data, Financial & Market Data, Data Platform",
         "site": "https://guides.library.yale.edu/MorningstarDirect",
-        "access-note": "Available at Marx Library on a dedicated workstation.\n"
+        "access-note": "Available at Marx Library on a dedicated workstation.\n",
+        "detail": "datasets/morningstar-direct.html",
+        "slug": "morningstar-direct"
       }
     },
     {
@@ -1592,14 +1786,17 @@
         "Real Estate & Property Data"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "New York Times",
         "description": "Digital news source providing current and archival reporting on politics, business,\nculture, science, and global affairs. Supports current awareness and news research.\n",
         "image": "../Images/Datasets/new-york-times.png",
         "topic": "News & Current Events, Real Estate & Property Data",
-        "site": "https://library.yale.edu/eresources/access/access-nytcom"
+        "site": "https://library.yale.edu/eresources/access/access-nytcom",
+        "detail": "datasets/new-york-times.html",
+        "slug": "new-york-times"
       }
     },
     {
@@ -1613,14 +1810,16 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Nexis Uni",
         "description": "Full-text news, business, legal, and company information database. Supports research using\nnewspapers, magazines, transcripts, legal sources, and company profiles.\n",
         "image": "../Images/Datasets/nexis-uni.png",
         "topic": "Company & Organization Data, News & Current Events, Data Platform",
-        "site": "http://hdl.handle.net/10079/yuldb/yuldb2398"
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb2398",
+        "detail": "datasets/nexis-uni.html",
+        "slug": "nexis-uni"
       }
     },
     {
@@ -1635,7 +1834,7 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "OECD iLibrary",
@@ -1643,7 +1842,9 @@
         "image": "../Images/Datasets/oecd-ilibrary.png",
         "topic": "Government & International Statistics, Scholarly Indexes & Literature, Data Platform",
         "provider": "OECD",
-        "site": "http://hdl.handle.net/10079/yuldb/yuldb975"
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb975",
+        "detail": "datasets/oecd-ilibrary.html",
+        "slug": "oecd-ilibrary"
       }
     },
     {
@@ -1656,7 +1857,8 @@
         "Government & International Statistics"
       ],
       "categories3": [
-        "External platform"
+        "Request Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Orbis",
@@ -1665,7 +1867,9 @@
         "topic": "Company & Organization Data, Financial & Market Data, Government & International Statistics",
         "provider": "Moody's",
         "site": "https://yale.idm.oclc.org/login?url=https://orbis.bvdinfo.com/ip",
-        "access-note": "Point in-time historical data available by request\n"
+        "access-note": "Point in-time historical data available by request\n",
+        "detail": "datasets/orbis.html",
+        "slug": "orbis"
       }
     },
     {
@@ -1679,7 +1883,7 @@
         "Historical Archives"
       ],
       "categories3": [
-        "Locally hosted at Yale"
+        "Request Required"
       ],
       "tile": {
         "title": "Orbis Historical",
@@ -1687,7 +1891,9 @@
         "image": "../Images/Datasets/orbis-historical.png",
         "topic": "Company & Organization Data, Financial & Market Data, Historical Archives",
         "provider": "Moody's",
-        "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUQ0lDR1NIMkwxUVRPUVNIWTZMV1FCVzc2QSQlQCN0PWcu"
+        "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUQ0lDR1NIMkwxUVRPUVNIWTZMV1FCVzc2QSQlQCN0PWcu",
+        "detail": "datasets/orbis-historical.html",
+        "slug": "orbis-historical"
       }
     },
     {
@@ -1702,7 +1908,7 @@
         "Real Estate & Property Data"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Orbis Intellectual Property",
@@ -1710,7 +1916,9 @@
         "image": "../Images/Datasets/orbis-intellectual-property.png",
         "topic": "Company & Organization Data, Survey & Polling Data, Real Estate & Property Data",
         "provider": "Moody's",
-        "site": "https://yale.idm.oclc.org/login?URL=https://orbisip-r1.bvdinfo.com/ip"
+        "site": "https://yale.idm.oclc.org/login?URL=https://orbisip-r1.bvdinfo.com/ip",
+        "detail": "datasets/orbis-intellectual-property.html",
+        "slug": "orbis-intellectual-property"
       }
     },
     {
@@ -1723,7 +1931,8 @@
         "Data Platform"
       ],
       "categories3": [
-        "Locally hosted at Yale"
+        "Request Required",
+        "Individual Account Required"
       ],
       "tile": {
         "title": "Panjiva",
@@ -1731,7 +1940,9 @@
         "image": "../Images/Datasets/panjiva.png",
         "topic": "Market Research, Trade & Supply Chain Data, Data Platform",
         "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUNUxHUEEyOEI4WDNRRVhJMzI3SVA1M01QQyQlQCN0PWcu&route=shorturl",
-        "access-note": "Requires users to request an individual account with a Yale email address.\n"
+        "access-note": "Requires users to request an individual account with a Yale email address.\n",
+        "detail": "datasets/panjiva.html",
+        "slug": "panjiva"
       }
     },
     {
@@ -1744,7 +1955,7 @@
         "Government & International Statistics"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Passport",
@@ -1752,7 +1963,9 @@
         "image": "../Images/Datasets/passport.png",
         "topic": "Financial & Market Data, Market Research, Government & International Statistics",
         "provider": "Euromonitor",
-        "site": "http://web.library.yale.edu/access-passport"
+        "site": "http://web.library.yale.edu/access-passport",
+        "detail": "datasets/passport.html",
+        "slug": "passport"
       }
     },
     {
@@ -1767,7 +1980,8 @@
         "Government & International Statistics"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Pharmaprojects",
@@ -1775,7 +1989,9 @@
         "image": "../Images/Datasets/pharmaprojects.png",
         "topic": "Company & Organization Data, Market Research, Government & International Statistics",
         "site": "http://hdl.handle.net/10079/yuldb/yuldb2273",
-        "access-note": "Requires users to register for an individual account.\n"
+        "access-note": "Requires users to register for an individual account.\n",
+        "detail": "datasets/pharmaprojects.html",
+        "slug": "pharmaprojects"
       }
     },
     {
@@ -1788,7 +2004,8 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Pitchbook",
@@ -1796,7 +2013,9 @@
         "image": "../Images/Datasets/pitchbook.png",
         "topic": "Company & Organization Data, Financial & Market Data, Data Platform",
         "site": "https://library.yale.edu/eresources/access/access-pitchbook",
-        "access-note": "Requires users to sign in with an @Yale.edu email address. Users will be directed to the\nYale CAS sign-in page. Do not click \"Log in without SSO\" even if you had an individual\naccount previously. Commercial use is prohibited. Users are limited to 10 downloads per\nday and 25 downloads per month. (1 download = 1 row of data on an Excel file). Accounts\nwill automatically be reset annually on May 31.\n"
+        "access-note": "Requires users to sign in with an @Yale.edu email address. Users will be directed to the\nYale CAS sign-in page. Do not click \"Log in without SSO\" even if you had an individual\naccount previously. Commercial use is prohibited. Users are limited to 10 downloads per\nday and 25 downloads per month. (1 download = 1 row of data on an Excel file). Accounts\nwill automatically be reset annually on May 31.\n",
+        "detail": "datasets/pitchbook.html",
+        "slug": "pitchbook"
       }
     },
     {
@@ -1811,14 +2030,16 @@
         "Health & Biomedical Data"
       ],
       "categories3": [
-        "External platform"
+        "Open Access"
       ],
       "tile": {
         "title": "PolicyMap",
         "description": "Interactive mapping platform combining demographic, housing, health, economic, and policy\ndata from public and proprietary sources. Supports place-based research and spatial\nanalysis.\n",
         "image": "../Images/Datasets/policymap.png",
         "topic": "Geospatial & Mapping Data, Real Estate & Property Data, Health & Biomedical Data",
-        "site": "https://www.policymap.com/newmaps/e/yale"
+        "site": "https://www.policymap.com/newmaps/e/yale",
+        "detail": "datasets/policymap.html",
+        "slug": "policymap"
       }
     },
     {
@@ -1831,14 +2052,16 @@
         "Government & International Statistics"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Political Risk Yearbook",
         "description": "Country risk publication providing political, financial, and economic risk assessments for\ninternational business and investment. Supports global strategy and policy research.\n",
         "image": "../Images/Datasets/political-risk-yearbook.png",
         "topic": "Financial & Market Data, Government & International Statistics",
-        "site": "https://yale.idm.oclc.org/login?url=https://epub.prsgroup.com/customer/pry/"
+        "site": "https://yale.idm.oclc.org/login?url=https://epub.prsgroup.com/customer/pry/",
+        "detail": "datasets/political-risk-yearbook.html",
+        "slug": "political-risk-yearbook"
       }
     },
     {
@@ -1853,14 +2076,16 @@
         "Geospatial & Mapping Data"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Politico Pro",
         "description": "Policy intelligence platform covering legislative, regulatory, and political developments,\nincluding energy and environment news. Supports government, policy, and advocacy research.\n",
         "image": "../Images/Datasets/politico-pro.png",
         "topic": "News & Current Events, Government & International Statistics, Geospatial & Mapping Data",
-        "site": "http://hdl.handle.net/10079/yuldb/yuldb2498"
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb2498",
+        "detail": "datasets/politico-pro.html",
+        "slug": "politico-pro"
       }
     },
     {
@@ -1874,7 +2099,8 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "WRDS Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Preqin",
@@ -1882,7 +2108,9 @@
         "image": "../Images/Datasets/preqin.png",
         "topic": "Financial & Market Data, Real Estate & Property Data, Data Platform",
         "site": "http://web.library.yale.edu/access-preqin",
-        "access-note": "Private data from Preqin is available in WRDS.\n"
+        "access-note": "Private data from Preqin is available in WRDS.\n",
+        "detail": "datasets/preqin.html",
+        "slug": "preqin"
       }
     },
     {
@@ -1895,7 +2123,8 @@
         "Market Research"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "PrivCo",
@@ -1903,7 +2132,9 @@
         "image": "../Images/Datasets/privco.png",
         "topic": "Company & Organization Data, Financial & Market Data, Market Research",
         "site": "https://yale.idm.oclc.org/login?URL=http://hdl.handle.net/10079/yuldb/yuldb1801",
-        "access-note": "Requires users to sign up for an account using a Yale email address.\n"
+        "access-note": "Requires users to sign up for an account using a Yale email address.\n",
+        "detail": "datasets/privco.html",
+        "slug": "privco"
       }
     },
     {
@@ -1916,7 +2147,8 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "ProQuest Dissertations & Theses Global",
@@ -1924,7 +2156,9 @@
         "image": "../Images/Datasets/proquest-dissertations-theses-global.png",
         "topic": "Scholarly Indexes & Literature, Data Platform",
         "provider": "ProQuest",
-        "site": "https://yale.idm.oclc.org/login?URL=https://search.proquest.com/pqdtglobal/index?accountid=15172"
+        "site": "https://yale.idm.oclc.org/login?URL=https://search.proquest.com/pqdtglobal/index?accountid=15172",
+        "detail": "datasets/proquest-dissertations-theses-global.html",
+        "slug": "proquest-dissertations-theses-global"
       }
     },
     {
@@ -1939,7 +2173,7 @@
         "Historical Archives"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Proquest Historical Annual Reports",
@@ -1947,7 +2181,9 @@
         "image": "../Images/Datasets/proquest-historical-annual-reports.png",
         "topic": "Company & Organization Data, Financial & Market Data, Historical Archives",
         "provider": "ProQuest",
-        "site": "http://hdl.handle.net/10079/yuldb/yuldb648"
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb648",
+        "detail": "datasets/proquest-historical-annual-reports.html",
+        "slug": "proquest-historical-annual-reports"
       }
     },
     {
@@ -1962,7 +2198,7 @@
         "Historical Archives"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Proquest Statistical Abstract of the U.S.",
@@ -1970,7 +2206,9 @@
         "image": "../Images/Datasets/proquest-statistical-abstract-of-the-u-s.png",
         "topic": "Government & International Statistics, Scholarly Indexes & Literature, Historical Archives",
         "provider": "ProQuest",
-        "site": "https://yale.idm.oclc.org/login?url=https://statabs.proquest.com/sa"
+        "site": "https://yale.idm.oclc.org/login?url=https://statabs.proquest.com/sa",
+        "detail": "datasets/proquest-statistical-abstract-of-the-u-s.html",
+        "slug": "proquest-statistical-abstract-of-the-u-s"
       }
     },
     {
@@ -1983,14 +2221,16 @@
         "Data Platform"
       ],
       "categories3": [
-        "Locally hosted at Yale"
+        "Request Required"
       ],
       "tile": {
         "title": "Pyrra Discovery Platform",
         "description": "Research platform for monitoring online narratives, emerging communities, and digital\ninformation environments. Supports analysis of public discourse, media ecosystems, and\nonline activity.\n",
         "image": "../Images/Datasets/pyrra-discovery-platform.png",
         "topic": "Data Platform",
-        "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUMjVEOEYzTUVPMFJYOTdSNlQwTk4zSFFBVyQlQCN0PWcu&route=shorturl"
+        "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUMjVEOEYzTUVPMFJYOTdSNlQwTk4zSFFBVyQlQCN0PWcu&route=shorturl",
+        "detail": "datasets/pyrra-discovery-platform.html",
+        "slug": "pyrra-discovery-platform"
       }
     },
     {
@@ -2004,14 +2244,16 @@
         "Health & Biomedical Data"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "RKMA Market Research Handbook Series",
         "description": "Downloadable market research handbooks covering consumer behavior, media, travel, retail,\nfood, healthcare, sports, and related sectors. Supports industry and market analysis.\n",
         "image": "../Images/Datasets/rkma-market-research-handbook-series.png",
         "topic": "Market Research, Health & Biomedical Data",
-        "site": "http://yale.idm.oclc.org/login?url=http://www.rkma.com/yale/archive/"
+        "site": "http://yale.idm.oclc.org/login?url=http://www.rkma.com/yale/archive/",
+        "detail": "datasets/rkma-market-research-handbook-series.html",
+        "slug": "rkma-market-research-handbook-series"
       }
     },
     {
@@ -2025,14 +2267,16 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Roper iPOLL",
         "description": "Public opinion database of U.S. national survey questions and responses dating back to\n1935. Supports polling, political behavior, and social trends research.\n",
         "image": "../Images/Datasets/roper-ipoll.png",
         "topic": "Survey & Polling Data, Historical Archives, Data Platform",
-        "site": "http://hdl.handle.net/10079/yuldb/yuldb2725"
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb2725",
+        "detail": "datasets/roper-ipoll.html",
+        "slug": "roper-ipoll"
       }
     },
     {
@@ -2047,7 +2291,8 @@
         "Market Research"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "S&P Capital IQ Pro",
@@ -2056,7 +2301,9 @@
         "topic": "Company & Organization Data, Financial & Market Data, Market Research",
         "provider": "S&P",
         "site": "https://web.library.yale.edu/access-sp-capital-iq-pro?_ga=2.137089200.1253860179.1681413501-14721893.1681413501",
-        "access-note": "Requires users to register for an individual account. Current Capital IQ account holders\ncan access the platform directly using the S&P Capital IQ Pro link in the upper right\ncorner of the Captial IQ page.\n"
+        "access-note": "Requires users to register for an individual account. Current Capital IQ account holders\ncan access the platform directly using the S&P Capital IQ Pro link in the upper right\ncorner of the Captial IQ page.\n",
+        "detail": "datasets/s-p-capital-iq-pro.html",
+        "slug": "s-p-capital-iq-pro"
       }
     },
     {
@@ -2070,7 +2317,7 @@
         "Survey & Polling Data"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "S&P NetAdvantage",
@@ -2078,7 +2325,9 @@
         "image": "../Images/Datasets/s-p-netadvantage.png",
         "topic": "Company & Organization Data, Financial & Market Data, Survey & Polling Data",
         "provider": "S&P",
-        "site": "https://yale.idm.oclc.org/login?url=http://na.capitaliq.com/ip/yale"
+        "site": "https://yale.idm.oclc.org/login?url=http://na.capitaliq.com/ip/yale",
+        "detail": "datasets/s-p-netadvantage.html",
+        "slug": "s-p-netadvantage"
       }
     },
     {
@@ -2091,7 +2340,8 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "S&P RatingsDirect (Available through S&P Capital IQ)",
@@ -2100,7 +2350,9 @@
         "topic": "Financial & Market Data, Data Platform",
         "provider": "S&P",
         "site": "https://web.library.yale.edu/access-capital-iq",
-        "access-note": "To access, login to Capital IQ and select the Ratings Direct search option. Requires new\nusers to register for an account.\n"
+        "access-note": "To access, login to Capital IQ and select the Ratings Direct search option. Requires new\nusers to register for an account.\n",
+        "detail": "datasets/s-p-ratingsdirect-available-through-s-p-capital-iq.html",
+        "slug": "s-p-ratingsdirect-available-through-s-p-capital-iq"
       }
     },
     {
@@ -2113,7 +2365,7 @@
         "Health & Biomedical Data"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Sage Business Cases",
@@ -2121,7 +2373,9 @@
         "image": "../Images/Datasets/sage-business-cases.png",
         "topic": "Health & Biomedical Data",
         "site": "https://sk.sagepub.com/cases",
-        "access-note": "Sage Business Cases are licensed for all Yale affiliates and can be used for classroom\nteaching.\n"
+        "access-note": "Sage Business Cases are licensed for all Yale affiliates and can be used for classroom\nteaching.\n",
+        "detail": "datasets/sage-business-cases.html",
+        "slug": "sage-business-cases"
       }
     },
     {
@@ -2136,7 +2390,7 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Scopus",
@@ -2144,7 +2398,9 @@
         "image": "../Images/Datasets/scopus.png",
         "topic": "Scholarly Indexes & Literature, Health & Biomedical Data, Data Platform",
         "provider": "Elsevier",
-        "site": "http://hdl.handle.net/10079/yuldb/yuldb1190"
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb1190",
+        "detail": "datasets/scopus.html",
+        "slug": "scopus"
       }
     },
     {
@@ -2156,7 +2412,9 @@
         "Data Platform"
       ],
       "categories3": [
-        "Locally hosted at Yale"
+        "WRDS Account Required",
+        "Request Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "SDC Platinum",
@@ -2165,7 +2423,9 @@
         "topic": "Financial & Market Data, Data Platform",
         "site": "https://guides.library.yale.edu/Workspace/SDC",
         "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVURVFZWTdNSkxNR1JZV01ITjdPWElHUEo3SCQlQCN0PWcu&route=shorturl",
-        "access-note": "Available by request on LSEG Workpsace or WRDS.\n"
+        "access-note": "Available by request on LSEG Workpsace or WRDS.\n",
+        "detail": "datasets/sdc-platinum.html",
+        "slug": "sdc-platinum"
       }
     },
     {
@@ -2180,14 +2440,16 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "SimplyAnalytics",
         "description": "Web-based mapping and data platform with census, consumer, market, and local demographic\ndata. Supports geographic analysis, market research, and community studies.\n",
         "image": "../Images/Datasets/simplyanalytics.png",
         "topic": "Market Research, Geospatial & Mapping Data, Data Platform",
-        "site": "https://yale.idm.oclc.org/login?URL=http://hdl.handle.net/10079/yuldb/yuldb2326"
+        "site": "https://yale.idm.oclc.org/login?URL=http://hdl.handle.net/10079/yuldb/yuldb2326",
+        "detail": "datasets/simplyanalytics.html",
+        "slug": "simplyanalytics"
       }
     },
     {
@@ -2202,14 +2464,16 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Social Explorer",
         "description": "Interactive mapping and data platform providing demographic and census data for the United\nStates. Supports historical, spatial, and community-level research.\n",
         "image": "../Images/Datasets/social-explorer.png",
         "topic": "Geospatial & Mapping Data, Historical Archives, Data Platform",
-        "site": "https://yale.idm.oclc.org/login?URL=https://yale.idm.oclc.org/login?URL=http://www.socialexplorer.com/"
+        "site": "https://yale.idm.oclc.org/login?URL=https://yale.idm.oclc.org/login?URL=http://www.socialexplorer.com/",
+        "detail": "datasets/social-explorer.html",
+        "slug": "social-explorer"
       }
     },
     {
@@ -2224,14 +2488,17 @@
         "News & Current Events"
       ],
       "categories3": [
-        "Open access"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Social Science Research Network (SSRN)",
         "description": "Repository of working papers, accepted papers, and abstracts across social science\ndisciplines. Supports discovery of current research in accounting, economics, finance,\nmarketing, and law.\n",
         "image": "../Images/Datasets/social-science-research-network-ssrn.png",
         "topic": "Financial & Market Data, Market Research, News & Current Events",
-        "site": "http://hdl.handle.net/10079/yuldb/yuldb1208"
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb1208",
+        "detail": "datasets/social-science-research-network-ssrn.html",
+        "slug": "social-science-research-network-ssrn"
       }
     },
     {
@@ -2244,14 +2511,16 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Sports Business Research Network (SBRnet)",
         "description": "Sports market research platform with consumer, industry, participation, sponsorship, and\nexpenditure data. Supports sports business, marketing, and consumer behavior research.\n",
         "image": "../Images/Datasets/sports-business-research-network-sbrnet.png",
         "topic": "Market Research, Data Platform",
-        "site": "https://yale.idm.oclc.org/login?url=https://sportsmarketanalytics.com"
+        "site": "https://yale.idm.oclc.org/login?url=https://sportsmarketanalytics.com",
+        "detail": "datasets/sports-business-research-network-sbrnet.html",
+        "slug": "sports-business-research-network-sbrnet"
       }
     },
     {
@@ -2266,7 +2535,8 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "STAT+",
@@ -2274,7 +2544,9 @@
         "image": "../Images/Datasets/stat.png",
         "topic": "News & Current Events, Health & Biomedical Data, Data Platform",
         "site": "https://library.yale.edu/eresources/access/access-stat-plus",
-        "access-note": "Requires users to register for an individual account with a Yale email address.\n"
+        "access-note": "Requires users to register for an individual account with a Yale email address.\n",
+        "detail": "datasets/stat.html",
+        "slug": "stat"
       }
     },
     {
@@ -2286,7 +2558,7 @@
         "Government & International Statistics"
       ],
       "categories3": [
-        "External platform"
+        "Open Access"
       ],
       "tile": {
         "title": "Statista",
@@ -2294,7 +2566,9 @@
         "image": "../Images/Datasets/statista.png",
         "topic": "Market Research, Government & International Statistics",
         "provider": "Statista",
-        "site": "https://www.statista.com/login/campus/"
+        "site": "https://www.statista.com/login/campus/",
+        "detail": "datasets/statista.html",
+        "slug": "statista"
       }
     },
     {
@@ -2309,7 +2583,9 @@
         "ESG & Sustainability Data"
       ],
       "categories3": [
-        "External platform"
+        "Request Required",
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Sustainable Views",
@@ -2317,7 +2593,9 @@
         "image": "../Images/Datasets/sustainable-views.png",
         "topic": "Financial & Market Data, News & Current Events, ESG & Sustainability Data",
         "site": "https://search.library.yale.edu/catalog/17660885",
-        "access-note": "Requires users to request an individual account with a Yale email address.\n"
+        "access-note": "Requires users to request an individual account with a Yale email address.\n",
+        "detail": "datasets/sustainable-views.html",
+        "slug": "sustainable-views"
       }
     },
     {
@@ -2331,7 +2609,8 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "The Block Pro",
@@ -2339,7 +2618,9 @@
         "image": "../Images/Datasets/the-block-pro.png",
         "topic": "Company & Organization Data, Financial & Market Data, Data Platform",
         "site": "https://web.library.yale.edu/access-block-research?_ga=2.30752639.1512418643.1662507458-1442532518.1662507458",
-        "access-note": "Requires users to register for an account with a valid Yale email address.\n"
+        "access-note": "Requires users to register for an account with a valid Yale email address.\n",
+        "detail": "datasets/the-block-pro.html",
+        "slug": "the-block-pro"
       }
     },
     {
@@ -2354,7 +2635,8 @@
         "Real Estate & Property Data"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "The Economist",
@@ -2362,7 +2644,9 @@
         "image": "../Images/Datasets/the-economist.png",
         "topic": "News & Current Events, Government & International Statistics, Real Estate & Property Data",
         "site": "https://yale.idm.oclc.org/login?URL=https://yale.idm.oclc.org/login?URL=https://web.library.yale.edu/economist",
-        "access-note": "Requires users to register for an individual account with a Yale email address for access.\n"
+        "access-note": "Requires users to register for an individual account with a Yale email address for access.\n",
+        "detail": "datasets/the-economist.html",
+        "slug": "the-economist"
       }
     },
     {
@@ -2377,7 +2661,8 @@
         "News & Current Events"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "The Information",
@@ -2385,7 +2670,9 @@
         "image": "../Images/Datasets/the-information.png",
         "topic": "Company & Organization Data, Financial & Market Data, News & Current Events",
         "site": "https://library.yale.edu/eresources/access/access-theinformation",
-        "access-note": "Requires users to register for an individual account with a Yale email address. Please\nnote: The Information Pro content is not included with academic or university\nsubscriptions.\n"
+        "access-note": "Requires users to register for an individual account with a Yale email address. Please\nnote: The Information Pro content is not included with academic or university\nsubscriptions.\n",
+        "detail": "datasets/the-information.html",
+        "slug": "the-information"
       }
     },
     {
@@ -2398,7 +2685,7 @@
         "Data Platform"
       ],
       "categories3": [
-        "Open access"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "UN Comtrade Premium",
@@ -2406,7 +2693,9 @@
         "image": "../Images/Datasets/un-comtrade-premium.png",
         "topic": "Government & International Statistics, Trade & Supply Chain Data, Data Platform",
         "provider": "United Nations",
-        "site": "https://library.yale.edu/eresources/access/access-un-comtrade"
+        "site": "https://library.yale.edu/eresources/access/access-un-comtrade",
+        "detail": "datasets/un-comtrade-premium.html",
+        "slug": "un-comtrade-premium"
       }
     },
     {
@@ -2420,7 +2709,7 @@
         "Data Platform"
       ],
       "categories3": [
-        "Open access"
+        "Open Access"
       ],
       "tile": {
         "title": "UNdata",
@@ -2428,7 +2717,9 @@
         "image": "../Images/Datasets/undata.png",
         "topic": "Government & International Statistics, Data Platform",
         "provider": "United Nations",
-        "site": "http://data.un.org/Default.aspx"
+        "site": "http://data.un.org/Default.aspx",
+        "detail": "datasets/undata.html",
+        "slug": "undata"
       }
     },
     {
@@ -2442,7 +2733,7 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Open Access"
       ],
       "tile": {
         "title": "Vault",
@@ -2450,7 +2741,9 @@
         "image": "../Images/Datasets/vault.png",
         "topic": "Market Research, Workforce & Career Data, Data Platform",
         "site": "https://yale.firsthand.co/",
-        "access-note": "Current students, faculty, and staff can log in to Vault with their NetID.\n"
+        "access-note": "Current students, faculty, and staff can log in to Vault with their NetID.\n",
+        "detail": "datasets/vault.html",
+        "slug": "vault"
       }
     },
     {
@@ -2464,7 +2757,8 @@
         "Historical Archives"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "VitalLaw - Blue Chip Publications",
@@ -2472,7 +2766,9 @@
         "image": "../Images/Datasets/vitallaw-blue-chip-publications.png",
         "topic": "Financial & Market Data, Government & International Statistics, Historical Archives",
         "site": "https://library.yale.edu/eresources/access/access-blue-chip-economic-indicators?app=yalesites",
-        "access-note": "Requires users to register for an account with a Yale email address for access.\n"
+        "access-note": "Requires users to register for an account with a Yale email address for access.\n",
+        "detail": "datasets/vitallaw-blue-chip-publications.html",
+        "slug": "vitallaw-blue-chip-publications"
       }
     },
     {
@@ -2487,14 +2783,17 @@
         "Scholarly Indexes & Literature"
       ],
       "categories3": [
-        "External platform"
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Wall Street Journal Online",
         "description": "Digital newspaper covering business, finance, markets, politics, technology, and global\nnews. Supports current awareness and business news research.\n",
         "image": "../Images/Datasets/wall-street-journal-online.png",
         "topic": "Financial & Market Data, News & Current Events, Scholarly Indexes & Literature",
-        "site": "https://web.library.yale.edu/access-wall-street-journal"
+        "site": "https://web.library.yale.edu/access-wall-street-journal",
+        "detail": "datasets/wall-street-journal-online.html",
+        "slug": "wall-street-journal-online"
       }
     },
     {
@@ -2507,14 +2806,16 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "WARC",
         "description": "Advertising and marketing intelligence platform with case studies, best practices, brand\ninsights, and industry analysis. Supports marketing strategy, media, and consumer\nresearch.\n",
         "image": "../Images/Datasets/warc.png",
         "topic": "Market Research, Data Platform",
-        "site": "https://yale.idm.oclc.org/login?url=https://www.warc.com"
+        "site": "https://yale.idm.oclc.org/login?url=https://www.warc.com",
+        "detail": "datasets/warc.html",
+        "slug": "warc"
       }
     },
     {
@@ -2526,14 +2827,16 @@
         "Scholarly Indexes & Literature"
       ],
       "categories3": [
-        "External platform"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "Web of Science",
         "description": "Multidisciplinary citation index covering journals, conference proceedings, data sets, and\nscholarly resources. Supports literature review, citation analysis, and research impact\nassessment.\n",
         "image": "../Images/Datasets/web-of-science.png",
         "topic": "Scholarly Indexes & Literature",
-        "site": "https://hdl.handle.net/10079/yuldb/yuldb1332"
+        "site": "https://hdl.handle.net/10079/yuldb/yuldb1332",
+        "detail": "datasets/web-of-science.html",
+        "slug": "web-of-science"
       }
     },
     {
@@ -2546,7 +2849,7 @@
         "Data Platform"
       ],
       "categories3": [
-        "Open access"
+        "Yale Licensed"
       ],
       "tile": {
         "title": "World Development Indicators",
@@ -2554,7 +2857,9 @@
         "image": "../Images/Datasets/world-development-indicators.png",
         "topic": "Government & International Statistics, Data Platform",
         "provider": "World Bank",
-        "site": "http://hdl.handle.net/10079/yuldb/yuldb1387"
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb1387",
+        "detail": "datasets/world-development-indicators.html",
+        "slug": "world-development-indicators"
       }
     },
     {
@@ -2567,7 +2872,8 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "WRDS Account Required",
+        "Individual Account Required"
       ],
       "tile": {
         "title": "WRDS - Bank Regulatory Database",
@@ -2576,7 +2882,9 @@
         "topic": "Company & Organization Data, Data Platform",
         "provider": "WRDS",
         "site": "https://wrds-www.wharton.upenn.edu/login/?next=/pages/get-data/bank-regulatory/",
-        "access-note": "A WRDS account is required to access this data.\n"
+        "access-note": "A WRDS account is required to access this data.\n",
+        "detail": "datasets/wrds-bank-regulatory-database.html",
+        "slug": "wrds-bank-regulatory-database"
       }
     },
     {
@@ -2589,7 +2897,8 @@
         "Trade & Supply Chain Data"
       ],
       "categories3": [
-        "External platform"
+        "WRDS Account Required",
+        "Individual Account Required"
       ],
       "tile": {
         "title": "WRDS - Compustat",
@@ -2598,7 +2907,9 @@
         "topic": "Company & Organization Data, Financial & Market Data, Trade & Supply Chain Data",
         "provider": "WRDS",
         "site": "https://wrds-www.wharton.upenn.edu/login/?next=/pages/get-data/compustat-capital-iq-standard-poors/",
-        "access-note": "An individual WRDS account is required to access this data.\n"
+        "access-note": "An individual WRDS account is required to access this data.\n",
+        "detail": "datasets/wrds-compustat.html",
+        "slug": "wrds-compustat"
       }
     },
     {
@@ -2612,7 +2923,8 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "WRDS Account Required",
+        "Individual Account Required"
       ],
       "tile": {
         "title": "WRDS - CRSP",
@@ -2621,7 +2933,9 @@
         "topic": "Financial & Market Data, Historical Archives, Data Platform",
         "provider": "WRDS",
         "site": "https://wrds-www.wharton.upenn.edu/login/?next=/pages/get-data/center-research-security-prices-crsp/",
-        "access-note": "An individual WRDS account is required to access this data.\n"
+        "access-note": "An individual WRDS account is required to access this data.\n",
+        "detail": "datasets/wrds-crsp.html",
+        "slug": "wrds-crsp"
       }
     },
     {
@@ -2636,7 +2950,8 @@
         "Historical Archives"
       ],
       "categories3": [
-        "External platform"
+        "WRDS Account Required",
+        "Individual Account Required"
       ],
       "tile": {
         "title": "WRDS - Infogroup U.S. Historical Businesses Data",
@@ -2645,7 +2960,9 @@
         "topic": "Company & Organization Data, Geospatial & Mapping Data, Historical Archives",
         "provider": "WRDS",
         "site": "https://wrds-www.wharton.upenn.edu/login/?next=/pages/get-data/infogroup/",
-        "access-note": "An individual WRDS account is required to access this data. A subset of this data is\navailable in Data Axle (2003 - present). Previewing this data in Data Axle is encouraged.\n"
+        "access-note": "An individual WRDS account is required to access this data. A subset of this data is\navailable in Data Axle (2003 - present). Previewing this data in Data Axle is encouraged.\n",
+        "detail": "datasets/wrds-infogroup-u-s-historical-businesses-data.html",
+        "slug": "wrds-infogroup-u-s-historical-businesses-data"
       }
     },
     {
@@ -2659,7 +2976,8 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "WRDS Account Required",
+        "Individual Account Required"
       ],
       "tile": {
         "title": "WRDS - Revelio",
@@ -2668,7 +2986,9 @@
         "topic": "Company & Organization Data, Workforce & Career Data, Data Platform",
         "provider": "WRDS",
         "site": "https://wrds-www.wharton.upenn.edu/pages/get-data/revelio-labs/",
-        "access-note": "An individual WRDS account is required to access this data.\n"
+        "access-note": "An individual WRDS account is required to access this data.\n",
+        "detail": "datasets/wrds-revelio.html",
+        "slug": "wrds-revelio"
       }
     },
     {
@@ -2680,7 +3000,10 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "WRDS Account Required",
+        "Request Required",
+        "Individual Account Required",
+        "Yale Licensed"
       ],
       "tile": {
         "title": "WRDS - Wharton Research Data Service",
@@ -2688,7 +3011,9 @@
         "image": "../Images/Datasets/wrds-wharton-research-data-service.png",
         "topic": "Financial & Market Data, Data Platform",
         "provider": "WRDS",
-        "site": "https://wrds-www.wharton.upenn.edu/pages/"
+        "site": "https://wrds-www.wharton.upenn.edu/pages/",
+        "detail": "datasets/wrds-wharton-research-data-service.html",
+        "slug": "wrds-wharton-research-data-service"
       }
     },
     {
@@ -2700,7 +3025,8 @@
         "Data Platform"
       ],
       "categories3": [
-        "External platform"
+        "WRDS Account Required",
+        "Individual Account Required"
       ],
       "tile": {
         "title": "WRDS- S&P Global ESG Scores",
@@ -2709,7 +3035,9 @@
         "topic": "ESG & Sustainability Data, Data Platform",
         "provider": "WRDS",
         "site": "https://wrds-www.wharton.upenn.edu/",
-        "access-note": "An individual WRDS account is required to access this data.\n"
+        "access-note": "An individual WRDS account is required to access this data.\n",
+        "detail": "datasets/wrds-s-p-global-esg-scores.html",
+        "slug": "wrds-s-p-global-esg-scores"
       }
     }
   ]
