@@ -46,4 +46,4 @@ page-layout: full
 
 <div id="dataset-grid" class="dataset-grid"></div>
 
-assets/listing.jsscript>
+<script src="assets/listing.js"></script>
