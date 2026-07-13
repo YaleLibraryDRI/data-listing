@@ -1,0 +1,27 @@
+---
+title: "Carbon Pulse"
+page-layout: article
+---
+
+# Carbon Pulse
+
+## Description
+
+News and intelligence platform covering carbon markets, emissions trading, greenhouse gas pricing, climate policy, and sustainability initiatives. Supports environmental economics and climate governance research.
+
+## Listing categories
+
+- **Subject area:** Energy & Environment, Business & Economics, Government & Public Policy
+- **Data/resource type:** News & Current Events, ESG & Sustainability Data, Data Platform
+- **Access model:** Individual Account Required, Yale Licensed
+- **Displayed topic:** News & Current Events, ESG & Sustainability Data, Data Platform
+
+## Access notes
+
+Requires users to register for an individual account with a Yale email address for access.
+
+## Links
+
+- [Access resource](https://library.yale.edu/eresources/access/access-carbon-pulse)
+
+[Back to Datasets & Databases](../datasets.qmd)

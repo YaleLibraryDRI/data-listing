@@ -1,0 +1,27 @@
+---
+title: "American Energy Society"
+page-layout: article
+---
+
+# American Energy Society
+
+## Description
+
+Energy information platform providing industry news, reports, white papers, podcasts, and market intelligence. Supports research on energy markets, climate policy, technology, and sustainability.
+
+## Listing categories
+
+- **Subject area:** Energy & Environment, Business & Economics, Government & Public Policy
+- **Data/resource type:** News & Current Events, ESG & Sustainability Data, Data Platform
+- **Access model:** Individual Account Required, Yale Licensed
+- **Displayed topic:** News & Current Events, ESG & Sustainability Data, Data Platform
+
+## Access notes
+
+New users will need to register for an individual account using a valid Yale email address .
+
+## Links
+
+- [Access resource](https://library.yale.edu/eresources/access/access-american-energy-society)
+
+[Back to Datasets & Databases](../datasets.qmd)

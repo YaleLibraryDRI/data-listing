@@ -1,0 +1,27 @@
+---
+title: "Caixin Global"
+page-layout: article
+---
+
+# Caixin Global
+
+## Description
+
+English-language news source covering Chinese business, finance, economics, politics, and public policy. Useful for research on China's economy, markets, and regulatory environment.
+
+## Listing categories
+
+- **Subject area:** Energy & Environment, Business & Economics, Government & Public Policy
+- **Data/resource type:** Financial & Market Data, News & Current Events
+- **Access model:** Individual Account Required, Yale Licensed
+- **Displayed topic:** Financial & Market Data, News & Current Events
+
+## Access notes
+
+Requires users to register for an individual account with a Yale email address for access.
+
+## Links
+
+- [Access resource](https://web.library.yale.edu/access-caixin-global)
+
+[Back to Datasets & Databases](../datasets.qmd)

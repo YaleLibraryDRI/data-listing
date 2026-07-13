@@ -1,0 +1,26 @@
+---
+title: "Datastream"
+page-layout: article
+---
+
+# Datastream
+
+**Provider:** LSEG
+
+## Description
+
+Historical financial database containing securities prices, economic indicators, commodities, bonds, and market data. Supports quantitative finance, investment analysis, and economic research.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, Humanities & History
+- **Data/resource type:** Financial & Market Data, Government & International Statistics, Historical Archives
+- **Access model:** WRDS Account Required, Request Required, Yale Licensed
+- **Displayed topic:** Financial & Market Data, Government & International Statistics, Historical Archives
+
+## Links
+
+- [Access resource](https://guides.library.yale.edu/Workspace/Datastream)
+- [Request access](https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVURDdNSUpFT0JDMEw2WlNCOEQ4NE1KSklNUyQlQCN0PWcu&route=shorturl)
+
+[Back to Datasets & Databases](../datasets.qmd)

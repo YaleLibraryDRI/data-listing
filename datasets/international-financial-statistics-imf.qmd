@@ -1,0 +1,25 @@
+---
+title: "International Financial Statistics - IMF"
+page-layout: article
+---
+
+# International Financial Statistics - IMF
+
+**Provider:** IMF
+
+## Description
+
+IMF statistical database covering international and domestic finance, monetary indicators, exchange rates, prices, production, and national accounts. Supports macroeconomic and international finance research.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, Government & Public Policy
+- **Data/resource type:** Financial & Market Data, Market Research, Government & International Statistics
+- **Access model:** Individual Account Required
+- **Displayed topic:** Financial & Market Data, Market Research, Government & International Statistics
+
+## Links
+
+- [Access resource](http://data.imf.org/IFS)
+
+[Back to Datasets & Databases](../datasets.qmd)

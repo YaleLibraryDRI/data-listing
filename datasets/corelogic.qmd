@@ -1,0 +1,24 @@
+---
+title: "CoreLogic"
+page-layout: article
+---
+
+# CoreLogic
+
+## Description
+
+Property, mortgage, deed, tax, and real estate market database covering U.S. housing markets. Supports research in housing, urban economics, finance, and real estate.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, GIS & Spatial Data
+- **Data/resource type:** Financial & Market Data, Survey & Polling Data, Real Estate & Property Data
+- **Access model:** Request Required, Yale Licensed
+- **Displayed topic:** Financial & Market Data, Survey & Polling Data, Real Estate & Property Data
+
+## Links
+
+- [Access resource](https://search.library.yale.edu/catalog/99149180943408651)
+- [Request access](https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUMVJTT1BXNDdHVVAyREk5N09BWVdCVFE5RiQlQCN0PWcu&route=shorturl)
+
+[Back to Datasets & Databases](../datasets.qmd)

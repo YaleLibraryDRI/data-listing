@@ -1,0 +1,27 @@
+---
+title: "The Information"
+page-layout: article
+---
+
+# The Information
+
+## Description
+
+Technology business news source with reporting on companies, startups, platforms, venture capital, and digital markets. Supports research on technology industries and strategy.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, News & Media, Technology & Innovation
+- **Data/resource type:** Company & Organization Data, Financial & Market Data, News & Current Events
+- **Access model:** Individual Account Required, Yale Licensed
+- **Displayed topic:** Company & Organization Data, Financial & Market Data, News & Current Events
+
+## Access notes
+
+Requires users to register for an individual account with a Yale email address. Please note: The Information Pro content is not included with academic or university subscriptions.
+
+## Links
+
+- [Access resource](https://library.yale.edu/eresources/access/access-theinformation)
+
+[Back to Datasets & Databases](../datasets.qmd)

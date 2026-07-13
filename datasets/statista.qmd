@@ -1,0 +1,25 @@
+---
+title: "Statista"
+page-layout: article
+---
+
+# Statista
+
+**Provider:** Statista
+
+## Description
+
+Statistics portal aggregating data, charts, infographics, dossiers, and reports from thousands of sources. Supports quick fact-finding, market research, and data visualization.
+
+## Listing categories
+
+- **Subject area:** Business & Economics
+- **Data/resource type:** Market Research, Government & International Statistics
+- **Access model:** Open Access
+- **Displayed topic:** Market Research, Government & International Statistics
+
+## Links
+
+- [Access resource](https://www.statista.com/login/campus/)
+
+[Back to Datasets & Databases](../datasets.qmd)

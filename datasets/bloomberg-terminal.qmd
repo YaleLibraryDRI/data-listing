@@ -1,0 +1,29 @@
+---
+title: "Bloomberg Terminal"
+page-layout: article
+---
+
+# Bloomberg Terminal
+
+**Provider:** Bloomberg
+
+## Description
+
+Professional financial data platform providing real-time market data, company information, economic indicators, analytics, and news. Widely used for investment, finance, and economic research.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, News & Media
+- **Data/resource type:** Company & Organization Data, Financial & Market Data, News & Current Events
+- **Access model:** Workstation Access, Yale Licensed
+- **Displayed topic:** Company & Organization Data, Financial & Market Data, News & Current Events
+
+## Access notes
+
+Available on dedicated workstations located at Marx Library and the School of Management.
+
+## Links
+
+- [Access resource](https://guides.library.yale.edu/Bloomberg)
+
+[Back to Datasets & Databases](../datasets.qmd)

@@ -1,0 +1,27 @@
+---
+title: "Pharmaprojects"
+page-layout: article
+---
+
+# Pharmaprojects
+
+## Description
+
+Pharmaceutical research and development database tracking drugs by company, disease, therapeutic class, and development phase. Supports drug pipeline and biomedical market research.
+
+## Listing categories
+
+- **Subject area:** Health & Medicine, Business & Economics, GIS & Spatial Data
+- **Data/resource type:** Company & Organization Data, Market Research, Government & International Statistics
+- **Access model:** Individual Account Required, Yale Licensed
+- **Displayed topic:** Company & Organization Data, Market Research, Government & International Statistics
+
+## Access notes
+
+Requires users to register for an individual account.
+
+## Links
+
+- [Access resource](http://hdl.handle.net/10079/yuldb/yuldb2273)
+
+[Back to Datasets & Databases](../datasets.qmd)

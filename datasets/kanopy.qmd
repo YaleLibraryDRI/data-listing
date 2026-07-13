@@ -1,0 +1,23 @@
+---
+title: "Kanopy"
+page-layout: article
+---
+
+# Kanopy
+
+## Description
+
+Streaming video platform offering educational films and documentaries across a range of subject areas. Useful for teaching, course support, and media-based research.
+
+## Listing categories
+
+- **Subject area:** News & Media
+- **Data/resource type:** Data Platform
+- **Access model:** Yale Licensed
+- **Displayed topic:** Data Platform
+
+## Links
+
+- [Access resource](https://search.library.yale.edu/catalog/12778063)
+
+[Back to Datasets & Databases](../datasets.qmd)

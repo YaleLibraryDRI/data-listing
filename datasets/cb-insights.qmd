@@ -1,0 +1,27 @@
+---
+title: "CB Insights"
+page-layout: article
+---
+
+# CB Insights
+
+## Description
+
+Database tracking startups, investors, venture capital activity, funding rounds, acquisitions, and emerging industries. Useful for entrepreneurship, innovation, and technology market research.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, Technology & Innovation
+- **Data/resource type:** Financial & Market Data, Market Research, Data Platform
+- **Access model:** Individual Account Required, Yale Licensed
+- **Displayed topic:** Financial & Market Data, Market Research, Data Platform
+
+## Access notes
+
+Requires users to register for an account using a Yale email address. Note: Expert Intelligence reports are not available with academic or university accounts.
+
+## Links
+
+- [Access resource](https://library.yale.edu/eresources/access/access-cb-insights)
+
+[Back to Datasets & Databases](../datasets.qmd)

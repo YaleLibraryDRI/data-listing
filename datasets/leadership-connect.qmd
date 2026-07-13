@@ -1,0 +1,27 @@
+---
+title: "Leadership Connect"
+page-layout: article
+---
+
+# Leadership Connect
+
+## Description
+
+Directory of leaders and organizations in business, government, and nonprofit sectors in the United States. Useful for contact research and organizational mapping.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, Government & Public Policy, Social Sciences
+- **Data/resource type:** Company & Organization Data, Geospatial & Mapping Data
+- **Access model:** Request Required, Individual Account Required, Yale Licensed
+- **Displayed topic:** Company & Organization Data, Geospatial & Mapping Data
+
+## Access notes
+
+Requires users to sign in with an @Yale.edu email address. Users will be directed to the Yale CAS sign-in page. Note: The export function is not available with our subscription.
+
+## Links
+
+- [Access resource](https://library.yale.edu/eresources/access/access-leadership-connect)
+
+[Back to Datasets & Databases](../datasets.qmd)

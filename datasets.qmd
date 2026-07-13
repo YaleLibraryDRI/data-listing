@@ -1,0 +1,44 @@
+---
+title: "Datasets & Databases"
+page-layout: full
+---
+
+<div class="listing-intro">
+  <p>Search or filter the Yale Library data listing by subject, data/resource type, and access model.</p>
+</div>
+
+<div id="listing-controls" class="listing-controls" aria-label="Catalog filters">
+  <div class="filter-block search-block">
+    <label for="listing-search">Search</label>
+    <input type="search" id="listing-search" placeholder="Search by title, provider, topic, or description" autocomplete="off">
+  </div>
+
+  <div class="filter-block">
+    <label for="subject-filter">Subject</label>
+    <select id="subject-filter">
+      <option value="">All subjects</option>
+    </select>
+  </div>
+
+  <div class="filter-block">
+    <label for="type-filter">Data/resource type</label>
+    <select id="type-filter">
+      <option value="">All types</option>
+    </select>
+  </div>
+
+  <div class="filter-block">
+    <label for="access-filter">Access</label>
+    <select id="access-filter">
+      <option value="">All access models</option>
+    </select>
+  </div>
+
+  <button id="clear-filters" type="button">Clear filters</button>
+</div>
+
+<div id="result-count" class="result-count" aria-live="polite"></div>
+
+<div id="dataset-grid" class="dataset-grid"></div>
+
+<script src="assets/listing.js"></script>

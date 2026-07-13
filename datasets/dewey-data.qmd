@@ -1,0 +1,27 @@
+---
+title: "Dewey Data"
+page-layout: article
+---
+
+# Dewey Data
+
+## Description
+
+Platform providing access to licensed third-party research datasets across healthcare, workforce, consumer behavior, transportation, and other domains. Useful for discovering specialized datasets.
+
+## Listing categories
+
+- **Subject area:** Health & Medicine, Social Sciences
+- **Data/resource type:** Market Research, Health & Biomedical Data, Workforce & Career Data
+- **Access model:** Individual Account Required, Yale Licensed
+- **Displayed topic:** Market Research, Health & Biomedical Data, Workforce & Career Data
+
+## Access notes
+
+Click "Sign in" and enter your yale.edu email address.
+
+## Links
+
+- [Access resource](https://www.deweydata.io/)
+
+[Back to Datasets & Databases](../datasets.qmd)

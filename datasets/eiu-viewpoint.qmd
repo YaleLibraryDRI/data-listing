@@ -1,0 +1,23 @@
+---
+title: "EIU Viewpoint"
+page-layout: article
+---
+
+# EIU Viewpoint
+
+## Description
+
+Political and economic intelligence platform providing country analysis, forecasts, policy insights, and risk assessments. Useful for international business, public policy, and global market research.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, Government & Public Policy
+- **Data/resource type:** Market Research, Government & International Statistics, Data Platform
+- **Access model:** Yale Licensed
+- **Displayed topic:** Market Research, Government & International Statistics, Data Platform
+
+## Links
+
+- [Access resource](https://viewpoint-eiu-com.yale.idm.oclc.org/)
+
+[Back to Datasets & Databases](../datasets.qmd)

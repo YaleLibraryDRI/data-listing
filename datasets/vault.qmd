@@ -1,0 +1,27 @@
+---
+title: "Vault"
+page-layout: article
+---
+
+# Vault
+
+## Description
+
+Career research platform with employer profiles, industry guides, rankings, interview advice, and job search resources. Supports career exploration and labor market research.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, Social Sciences
+- **Data/resource type:** Market Research, Workforce & Career Data, Data Platform
+- **Access model:** Open Access
+- **Displayed topic:** Market Research, Workforce & Career Data, Data Platform
+
+## Access notes
+
+Current students, faculty, and staff can log in to Vault with their NetID.
+
+## Links
+
+- [Access resource](https://yale.firsthand.co/)
+
+[Back to Datasets & Databases](../datasets.qmd)

@@ -1,0 +1,25 @@
+---
+title: "Mintel Reports"
+page-layout: article
+---
+
+# Mintel Reports
+
+**Provider:** Mintel
+
+## Description
+
+Consumer market research platform with reports on U.S. and global markets, consumer attitudes, segmentation, and purchasing behavior. Supports marketing and consumer research.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, News & Media
+- **Data/resource type:** Market Research, Data Platform
+- **Access model:** Yale Licensed
+- **Displayed topic:** Market Research, Data Platform
+
+## Links
+
+- [Access resource](http://hdl.handle.net/10079/yuldb/yuldb902)
+
+[Back to Datasets & Databases](../datasets.qmd)

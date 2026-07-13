@@ -1,0 +1,25 @@
+---
+title: "WRDS - Wharton Research Data Service"
+page-layout: article
+---
+
+# WRDS - Wharton Research Data Service
+
+**Provider:** WRDS
+
+## Description
+
+Research platform providing access to financial, accounting, banking, economic, and market datasets. Supports empirical research using licensed business and finance data.
+
+## Listing categories
+
+- **Subject area:** Business & Economics
+- **Data/resource type:** Financial & Market Data, Data Platform
+- **Access model:** WRDS Account Required, Request Required, Individual Account Required, Yale Licensed
+- **Displayed topic:** Financial & Market Data, Data Platform
+
+## Links
+
+- [Access resource](https://wrds-www.wharton.upenn.edu/pages/)
+
+[Back to Datasets & Databases](../datasets.qmd)

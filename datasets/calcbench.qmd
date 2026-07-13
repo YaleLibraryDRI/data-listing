@@ -1,0 +1,27 @@
+---
+title: "Calcbench"
+page-layout: article
+---
+
+# Calcbench
+
+## Description
+
+Financial statement database built from SEC XBRL filings of public companies. Supports accounting, auditing, financial analysis, and corporate reporting research.
+
+## Listing categories
+
+- **Subject area:** Business & Economics
+- **Data/resource type:** Company & Organization Data, Financial & Market Data, News & Current Events
+- **Access model:** Individual Account Required, Yale Licensed
+- **Displayed topic:** Company & Organization Data, Financial & Market Data, News & Current Events
+
+## Access notes
+
+Requires users to register for an individual account with a Yale email address for access.
+
+## Links
+
+- [Access resource](https://web.library.yale.edu/access-calcbench)
+
+[Back to Datasets & Databases](../datasets.qmd)

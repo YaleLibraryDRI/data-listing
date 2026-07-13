@@ -1,0 +1,27 @@
+---
+title: "Datacenter Knowledgebase (451 Research)"
+page-layout: article
+---
+
+# Datacenter Knowledgebase (451 Research)
+
+## Description
+
+Global database of data center facilities, infrastructure, capacity, utilization, and market activity. Useful for research on cloud computing, digital infrastructure, and technology markets.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, Technology & Innovation
+- **Data/resource type:** Data Platform
+- **Access model:** Request Required, Individual Account Required
+- **Displayed topic:** Data Platform
+
+## Access notes
+
+Requires users to request an individual account with a Yale email address.
+
+## Links
+
+- [Request access](https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUQTFTSEtMRk84SVJTSUVBT0RDSzZSWkQ0WSQlQCN0PWcu&route=shorturl)
+
+[Back to Datasets & Databases](../datasets.qmd)

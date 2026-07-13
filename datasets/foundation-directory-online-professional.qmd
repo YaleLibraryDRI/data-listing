@@ -1,0 +1,23 @@
+---
+title: "Foundation Directory Online Professional"
+page-layout: article
+---
+
+# Foundation Directory Online Professional
+
+## Description
+
+Database of U.S. foundations, grantmakers, corporate giving programs, public charities, grants, and IRS filings. Supports philanthropy, nonprofit, and funding research.
+
+## Listing categories
+
+- **Subject area:** Social Sciences
+- **Data/resource type:** Company & Organization Data, Data Platform
+- **Access model:** Yale Licensed
+- **Displayed topic:** Company & Organization Data, Data Platform
+
+## Links
+
+- [Access resource](https://yale.idm.oclc.org/login?URL=http://hdl.handle.net/10079/yuldb/yuldb515)
+
+[Back to Datasets & Databases](../datasets.qmd)

@@ -1,0 +1,29 @@
+---
+title: "WRDS - CRSP"
+page-layout: article
+---
+
+# WRDS - CRSP
+
+**Provider:** WRDS
+
+## Description
+
+Historical database of stock prices, returns, and trading activity for U.S. equity markets. A foundational resource for finance and investment research.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, Humanities & History
+- **Data/resource type:** Financial & Market Data, Historical Archives, Data Platform
+- **Access model:** WRDS Account Required, Individual Account Required
+- **Displayed topic:** Financial & Market Data, Historical Archives, Data Platform
+
+## Access notes
+
+An individual WRDS account is required to access this data.
+
+## Links
+
+- [Access resource](https://wrds-www.wharton.upenn.edu/login/?next=/pages/get-data/center-research-security-prices-crsp/)
+
+[Back to Datasets & Databases](../datasets.qmd)

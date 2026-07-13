@@ -1,0 +1,27 @@
+---
+title: "Audit Analytics"
+page-layout: article
+---
+
+# Audit Analytics
+
+## Description
+
+Database of corporate disclosures, audit information, accounting practices, regulatory filings, and compliance activity. Supports research in accounting, corporate governance, financial reporting, and regulation.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, Government & Public Policy
+- **Data/resource type:** Financial & Market Data, News & Current Events, Data Platform
+- **Access model:** WRDS Account Required, Individual Account Required, Yale Licensed
+- **Displayed topic:** Financial & Market Data, News & Current Events, Data Platform
+
+## Access notes
+
+Available via WRDS or the Audit Analytics website. Both options require users to register for an account with a valid Yale email address.
+
+## Links
+
+- [Access resource](https://search.library.yale.edu/catalog/16525201)
+
+[Back to Datasets & Databases](../datasets.qmd)

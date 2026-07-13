@@ -1,0 +1,29 @@
+---
+title: "S&P Capital IQ Pro"
+page-layout: article
+---
+
+# S&P Capital IQ Pro
+
+**Provider:** S&P
+
+## Description
+
+Financial intelligence platform providing company, industry, market, credit, energy, and real estate data. Supports investment, corporate finance, and industry research.
+
+## Listing categories
+
+- **Subject area:** Energy & Environment, Business & Economics, GIS & Spatial Data
+- **Data/resource type:** Company & Organization Data, Financial & Market Data, Market Research
+- **Access model:** Individual Account Required, Yale Licensed
+- **Displayed topic:** Company & Organization Data, Financial & Market Data, Market Research
+
+## Access notes
+
+Requires users to register for an individual account. Current Capital IQ account holders can access the platform directly using the S&P Capital IQ Pro link in the upper right corner of the Captial IQ page.
+
+## Links
+
+- [Access resource](https://web.library.yale.edu/access-sp-capital-iq-pro?_ga=2.137089200.1253860179.1681413501-14721893.1681413501)
+
+[Back to Datasets & Databases](../datasets.qmd)

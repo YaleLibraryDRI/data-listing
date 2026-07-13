@@ -1,0 +1,25 @@
+---
+title: "Scopus"
+page-layout: article
+---
+
+# Scopus
+
+**Provider:** Elsevier
+
+## Description
+
+Academic abstract and citation database covering peer-reviewed journals, conference proceedings, and books across scientific, medical, technical, and social science fields. Supports literature review and citation analysis.
+
+## Listing categories
+
+- **Subject area:** Health & Medicine, Social Sciences, Humanities & History
+- **Data/resource type:** Scholarly Indexes & Literature, Health & Biomedical Data, Data Platform
+- **Access model:** Yale Licensed
+- **Displayed topic:** Scholarly Indexes & Literature, Health & Biomedical Data, Data Platform
+
+## Links
+
+- [Access resource](http://hdl.handle.net/10079/yuldb/yuldb1190)
+
+[Back to Datasets & Databases](../datasets.qmd)

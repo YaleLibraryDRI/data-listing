@@ -1,0 +1,23 @@
+---
+title: "IEA Statistics Package"
+page-layout: article
+---
+
+# IEA Statistics Package
+
+## Description
+
+Energy statistics resource from the International Energy Agency. Supports research on energy production, consumption, trade, prices, and energy policy across countries.
+
+## Listing categories
+
+- **Subject area:** Energy & Environment, Government & Public Policy
+- **Data/resource type:** Financial & Market Data, Market Research, Government & International Statistics
+- **Access model:** Yale Licensed
+- **Displayed topic:** Financial & Market Data, Market Research, Government & International Statistics
+
+## Links
+
+- [Access resource](https://guides.library.yale.edu/iea)
+
+[Back to Datasets & Databases](../datasets.qmd)

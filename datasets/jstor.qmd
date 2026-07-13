@@ -1,0 +1,25 @@
+---
+title: "JSTOR"
+page-layout: article
+---
+
+# JSTOR
+
+**Provider:** JSTOR
+
+## Description
+
+Digital archive of scholarly journals, books, and primary sources across many disciplines. Supports literature reviews and historical research in business and related fields.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, Humanities & History, Scholarly Literature
+- **Data/resource type:** Scholarly Indexes & Literature, Historical Archives
+- **Access model:** Yale Licensed
+- **Displayed topic:** Scholarly Indexes & Literature, Historical Archives
+
+## Links
+
+- [Access resource](http://hdl.handle.net/10079/yuldb/yuldb1517)
+
+[Back to Datasets & Databases](../datasets.qmd)

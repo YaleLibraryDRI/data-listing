@@ -1,0 +1,27 @@
+---
+title: "PrivCo"
+page-layout: article
+---
+
+# PrivCo
+
+## Description
+
+Business and financial database focused on major private companies, including venture-backed, family-owned, and private-equity-owned firms. Supports private company and market research.
+
+## Listing categories
+
+- **Subject area:** Business & Economics
+- **Data/resource type:** Company & Organization Data, Financial & Market Data, Market Research
+- **Access model:** Individual Account Required, Yale Licensed
+- **Displayed topic:** Company & Organization Data, Financial & Market Data, Market Research
+
+## Access notes
+
+Requires users to sign up for an account using a Yale email address.
+
+## Links
+
+- [Access resource](https://yale.idm.oclc.org/login?URL=http://hdl.handle.net/10079/yuldb/yuldb1801)
+
+[Back to Datasets & Databases](../datasets.qmd)

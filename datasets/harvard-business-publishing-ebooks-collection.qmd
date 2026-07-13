@@ -1,0 +1,25 @@
+---
+title: "Harvard Business Publishing eBooks Collection"
+page-layout: article
+---
+
+# Harvard Business Publishing eBooks Collection
+
+**Provider:** EBSCO
+
+## Description
+
+Ebook collection covering management, leadership, entrepreneurship, strategy, human resources, and related business topics. Useful for teaching, professional development, and business research.
+
+## Listing categories
+
+- **Subject area:** Business & Economics
+- **Data/resource type:** Company & Organization Data, Government & International Statistics, Scholarly Indexes & Literature
+- **Access model:** Yale Licensed
+- **Displayed topic:** Company & Organization Data, Government & International Statistics, Scholarly Indexes & Literature
+
+## Links
+
+- [Access resource](https://yale.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&custid=s5164239&groupid=main&profile=ehost&defaultdb=e076mww)
+
+[Back to Datasets & Databases](../datasets.qmd)

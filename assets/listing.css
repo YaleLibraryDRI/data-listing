@@ -1,0 +1,249 @@
+/* Yale Library Data Listing styles */
+
+:root {
+  --yale-blue: #00356b;
+  --yale-blue-dark: #00264d;
+  --listing-border: #d8dee8;
+  --listing-muted: #5f6b7a;
+  --listing-bg: #f7f9fc;
+  --badge-blue-bg: #e8eef8;
+  --badge-blue-text: #00356b;
+  --badge-purple-bg: #f0eaf8;
+  --badge-purple-text: #4b2e68;
+  --badge-green-bg: #e7f4ed;
+  --badge-green-text: #184d35;
+}
+
+.hero-banner {
+  background: linear-gradient(135deg, var(--yale-blue), #286dc0);
+  color: white;
+  padding: 3rem 2rem;
+  border-radius: 14px;
+  margin-bottom: 2rem;
+}
+
+.hero-banner h1 {
+  color: white;
+  margin-top: 0;
+}
+
+.listing-intro {
+  max-width: 900px;
+  margin-bottom: 1rem;
+}
+
+.listing-controls {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr auto;
+  gap: .75rem;
+  align-items: end;
+  padding: 1rem;
+  background: var(--listing-bg);
+  border: 1px solid var(--listing-border);
+  border-radius: 12px;
+  margin-bottom: 1rem;
+}
+
+.filter-block label {
+  display: block;
+  font-size: .78rem;
+  font-weight: 700;
+  color: var(--yale-blue-dark);
+  margin-bottom: .25rem;
+}
+
+.listing-controls input,
+.listing-controls select,
+.listing-controls button {
+  width: 100%;
+  min-height: 2.35rem;
+  border: 1px solid var(--listing-border);
+  border-radius: 8px;
+  background: white;
+  padding: .35rem .55rem;
+  font-size: .9rem;
+}
+
+.listing-controls button {
+  background: var(--yale-blue);
+  color: white;
+  border-color: var(--yale-blue);
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.listing-controls button:hover {
+  background: var(--yale-blue-dark);
+}
+
+.result-count {
+  font-size: .9rem;
+  color: var(--listing-muted);
+  margin: .5rem 0 1rem 0;
+}
+
+.dataset-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(245px, 1fr));
+  gap: 1rem;
+}
+
+.dataset-card {
+  display: flex;
+  flex-direction: column;
+  min-height: 390px;
+  border: 1px solid var(--listing-border);
+  border-radius: 12px;
+  background: white;
+  overflow: hidden;
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+
+.dataset-card:hover,
+.dataset-card:focus-within {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(0,0,0,.10);
+}
+
+.card-image {
+  height: 86px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f3f6fa;
+  border-bottom: 1px solid var(--listing-border);
+  color: var(--yale-blue);
+  font-weight: 800;
+  letter-spacing: .03em;
+  text-align: center;
+  padding: .75rem;
+}
+
+.card-image img {
+  max-width: 100%;
+  max-height: 64px;
+  object-fit: contain;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: .85rem;
+}
+
+.card-title {
+  font-size: 1rem;
+  line-height: 1.2;
+  margin: 0 0 .25rem 0;
+}
+
+.card-title a {
+  color: var(--yale-blue-dark);
+  text-decoration: none;
+}
+
+.card-title a:hover {
+  text-decoration: underline;
+}
+
+.card-provider {
+  min-height: 1rem;
+  color: var(--listing-muted);
+  font-size: .78rem;
+  margin-bottom: .45rem;
+}
+
+.card-description {
+  font-size: .86rem;
+  line-height: 1.38;
+  margin: .55rem 0;
+  flex: 1;
+}
+
+.card-badges {
+  display: flex;
+  gap: .28rem;
+  flex-wrap: wrap;
+  margin-bottom: .2rem;
+}
+
+.badge {
+  display: inline-block;
+  border-radius: 999px;
+  padding: .18rem .5rem;
+  font-size: .66rem;
+  font-weight: 700;
+  line-height: 1.15;
+}
+
+.badge.subject {
+  background: var(--badge-blue-bg);
+  color: var(--badge-blue-text);
+}
+
+.badge.type {
+  background: var(--badge-green-bg);
+  color: var(--badge-green-text);
+}
+
+.badge.access {
+  background: var(--badge-purple-bg);
+  color: var(--badge-purple-text);
+}
+
+.card-footer {
+  display: flex;
+  gap: .5rem;
+  align-items: center;
+  margin-top: .7rem;
+}
+
+.card-link {
+  display: inline-block;
+  padding: .38rem .6rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: .78rem;
+  font-weight: 700;
+}
+
+.card-link.primary {
+  background: var(--yale-blue);
+  color: white;
+}
+
+.card-link.secondary {
+  border: 1px solid var(--listing-border);
+  color: var(--yale-blue);
+}
+
+.empty-state {
+  grid-column: 1 / -1;
+  padding: 2rem;
+  text-align: center;
+  border: 1px dashed var(--listing-border);
+  border-radius: 12px;
+  color: var(--listing-muted);
+  background: var(--listing-bg);
+}
+
+@media (max-width: 900px) {
+  .listing-controls {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .search-block {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (max-width: 560px) {
+  .listing-controls {
+    grid-template-columns: 1fr;
+  }
+
+  .dataset-grid {
+    grid-template-columns: 1fr;
+  }
+}

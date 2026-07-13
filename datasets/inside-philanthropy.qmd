@@ -1,0 +1,27 @@
+---
+title: "Inside Philanthropy"
+page-layout: article
+---
+
+# Inside Philanthropy
+
+## Description
+
+News and information platform covering foundations, major donors, grantmaking, philanthropy jobs, and funding opportunities. Supports research on philanthropy and nonprofit funding.
+
+## Listing categories
+
+- **Subject area:** Social Sciences, News & Media
+- **Data/resource type:** Company & Organization Data, News & Current Events, Workforce & Career Data
+- **Access model:** Individual Account Required, Yale Licensed
+- **Displayed topic:** Company & Organization Data, News & Current Events, Workforce & Career Data
+
+## Access notes
+
+Requires users to register for an individual account.
+
+## Links
+
+- [Access resource](https://library.yale.edu/eresources/access/access-inside-philanthropy)
+
+[Back to Datasets & Databases](../datasets.qmd)

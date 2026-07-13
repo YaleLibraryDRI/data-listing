@@ -1,0 +1,23 @@
+---
+title: "Centralbanking.com"
+page-layout: article
+---
+
+# Centralbanking.com
+
+## Description
+
+Information resource focused on central banking, monetary policy, financial stability, banking regulation, and financial technologies. Useful for research on economic policy and financial systems.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, Government & Public Policy
+- **Data/resource type:** Financial & Market Data
+- **Access model:** Yale Licensed
+- **Displayed topic:** Financial & Market Data
+
+## Links
+
+- [Access resource](https://yale.idm.oclc.org/login?URL=https://www.centralbanking.com/)
+
+[Back to Datasets & Databases](../datasets.qmd)

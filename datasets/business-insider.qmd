@@ -1,0 +1,27 @@
+---
+title: "Business Insider"
+page-layout: article
+---
+
+# Business Insider
+
+## Description
+
+Digital news platform featuring reporting on business, technology, finance, careers, and global affairs. Useful for tracking companies, industries, labor markets, and emerging business trends.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, Social Sciences, News & Media
+- **Data/resource type:** Company & Organization Data, Financial & Market Data, News & Current Events
+- **Access model:** Individual Account Required, Yale Licensed
+- **Displayed topic:** Company & Organization Data, Financial & Market Data, News & Current Events
+
+## Access notes
+
+Requires users to register for an account with a Yale email address.
+
+## Links
+
+- [Access resource](https://library.yale.edu/eresources/access/access-business-insider)
+
+[Back to Datasets & Databases](../datasets.qmd)

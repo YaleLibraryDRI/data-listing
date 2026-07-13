@@ -1,0 +1,25 @@
+---
+title: "S&P NetAdvantage"
+page-layout: article
+---
+
+# S&P NetAdvantage
+
+**Provider:** S&P
+
+## Description
+
+Business research platform with company profiles, financials, industry surveys, stock reports, and screening tools. Supports company, industry, and investment research.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, Social Sciences
+- **Data/resource type:** Company & Organization Data, Financial & Market Data, Survey & Polling Data
+- **Access model:** Yale Licensed
+- **Displayed topic:** Company & Organization Data, Financial & Market Data, Survey & Polling Data
+
+## Links
+
+- [Access resource](https://yale.idm.oclc.org/login?url=http://na.capitaliq.com/ip/yale)
+
+[Back to Datasets & Databases](../datasets.qmd)

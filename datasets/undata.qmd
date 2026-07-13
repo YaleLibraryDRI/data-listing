@@ -1,0 +1,25 @@
+---
+title: "UNdata"
+page-layout: article
+---
+
+# UNdata
+
+**Provider:** United Nations
+
+## Description
+
+United Nations statistical portal combining data from multiple UN databases. Supports cross-national research on demographics, economics, development, environment, and society.
+
+## Listing categories
+
+- **Subject area:** Energy & Environment, Business & Economics, Social Sciences
+- **Data/resource type:** Government & International Statistics, Data Platform
+- **Access model:** Open Access
+- **Displayed topic:** Government & International Statistics, Data Platform
+
+## Links
+
+- [Access resource](http://data.un.org/Default.aspx)
+
+[Back to Datasets & Databases](../datasets.qmd)

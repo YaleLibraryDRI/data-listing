@@ -1,0 +1,23 @@
+---
+title: "PolicyMap"
+page-layout: article
+---
+
+# PolicyMap
+
+## Description
+
+Interactive mapping platform combining demographic, housing, health, economic, and policy data from public and proprietary sources. Supports place-based research and spatial analysis.
+
+## Listing categories
+
+- **Subject area:** Health & Medicine, Business & Economics, Government & Public Policy
+- **Data/resource type:** Geospatial & Mapping Data, Real Estate & Property Data, Health & Biomedical Data
+- **Access model:** Open Access
+- **Displayed topic:** Geospatial & Mapping Data, Real Estate & Property Data, Health & Biomedical Data
+
+## Links
+
+- [Access resource](https://www.policymap.com/newmaps/e/yale)
+
+[Back to Datasets & Databases](../datasets.qmd)

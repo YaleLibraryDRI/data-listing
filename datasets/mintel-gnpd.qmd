@@ -1,0 +1,29 @@
+---
+title: "Mintel GNPD"
+page-layout: article
+---
+
+# Mintel GNPD
+
+**Provider:** Mintel
+
+## Description
+
+Global product database tracking new consumer packaged goods across food, beverage, household, beauty, health, and pet sectors. Supports product innovation and market research.
+
+## Listing categories
+
+- **Subject area:** Health & Medicine, Business & Economics, Technology & Innovation
+- **Data/resource type:** Market Research, Health & Biomedical Data, Data Platform
+- **Access model:** Individual Account Required, Yale Licensed
+- **Displayed topic:** Market Research, Health & Biomedical Data, Data Platform
+
+## Access notes
+
+Requires users to create a profile using your @yale.edu email address. Find step-by-step instructions for accessing Mintel GNPD in Yale Business Answers Now.
+
+## Links
+
+- [Access resource](https://library.yale.edu/eresources/access/access-mintel?_ga=2.202669273.931541240.1636380257-883986010.1630510795)
+
+[Back to Datasets & Databases](../datasets.qmd)

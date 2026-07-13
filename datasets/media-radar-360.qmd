@@ -1,0 +1,23 @@
+---
+title: "Media Radar 360"
+page-layout: article
+---
+
+# Media Radar 360
+
+## Description
+
+Advertising intelligence platform covering advertising expenditures across television, radio, magazines, newspapers, and other media. Supports media planning and advertising market research.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, News & Media
+- **Data/resource type:** Market Research, News & Current Events, Data Platform
+- **Access model:** Yale Licensed
+- **Displayed topic:** Market Research, News & Current Events, Data Platform
+
+## Links
+
+- [Access resource](https://yale.idm.oclc.org/login?URL=https://yale.idm.oclc.org/login?url=https://edu.app.vivvix.com)
+
+[Back to Datasets & Databases](../datasets.qmd)

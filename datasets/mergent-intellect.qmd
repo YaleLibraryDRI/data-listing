@@ -1,0 +1,23 @@
+---
+title: "Mergent Intellect"
+page-layout: article
+---
+
+# Mergent Intellect
+
+## Description
+
+Global business directory with public and private company data, executive contacts, and industry research from D&B Hoovers. Supports company and market research.
+
+## Listing categories
+
+- **Subject area:** Business & Economics
+- **Data/resource type:** Company & Organization Data, Market Research
+- **Access model:** Request Required, Yale Licensed
+- **Displayed topic:** Company & Organization Data, Market Research
+
+## Links
+
+- [Access resource](https://yale.idm.oclc.org/login?URL=https://yale.idm.oclc.org/login?URL=https://www.mergentintellect.com)
+
+[Back to Datasets & Databases](../datasets.qmd)

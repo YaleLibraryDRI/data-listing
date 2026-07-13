@@ -1,0 +1,27 @@
+---
+title: "The Economist"
+page-layout: article
+---
+
+# The Economist
+
+## Description
+
+Current and archival magazine source covering world affairs, economics, business, politics, science, and culture. Supports current awareness and international policy research.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, Government & Public Policy, News & Media
+- **Data/resource type:** News & Current Events, Government & International Statistics, Real Estate & Property Data
+- **Access model:** Individual Account Required, Yale Licensed
+- **Displayed topic:** News & Current Events, Government & International Statistics, Real Estate & Property Data
+
+## Access notes
+
+Requires users to register for an individual account with a Yale email address for access.
+
+## Links
+
+- [Access resource](https://yale.idm.oclc.org/login?URL=https://yale.idm.oclc.org/login?URL=https://web.library.yale.edu/economist)
+
+[Back to Datasets & Databases](../datasets.qmd)

@@ -1,0 +1,29 @@
+---
+title: "S&P RatingsDirect (Available through S&P Capital IQ)"
+page-layout: article
+---
+
+# S&P RatingsDirect (Available through S&P Capital IQ)
+
+**Provider:** S&P
+
+## Description
+
+Credit research platform providing S&P ratings, reports, and analysis for global bond issues. Supports fixed income, credit risk, and public finance research.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, Government & Public Policy
+- **Data/resource type:** Financial & Market Data, Data Platform
+- **Access model:** Individual Account Required, Yale Licensed
+- **Displayed topic:** Financial & Market Data, Data Platform
+
+## Access notes
+
+To access, login to Capital IQ and select the Ratings Direct search option. Requires new users to register for an account.
+
+## Links
+
+- [Access resource](https://web.library.yale.edu/access-capital-iq)
+
+[Back to Datasets & Databases](../datasets.qmd)

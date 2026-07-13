@@ -1,0 +1,29 @@
+---
+title: "Associations Unlimited"
+page-layout: article
+---
+
+# Associations Unlimited
+
+**Provider:** Gale
+
+## Description
+
+Directory of professional, trade, cultural, labor, and nonprofit organizations in the United States and abroad. Useful for identifying associations, professional networks, and organizational contacts.
+
+## Listing categories
+
+- **Subject area:** Social Sciences
+- **Data/resource type:** Company & Organization Data, Trade & Supply Chain Data, Workforce & Career Data
+- **Access model:** Request Required, Yale Licensed
+- **Displayed topic:** Company & Organization Data, Trade & Supply Chain Data, Workforce & Career Data
+
+## Access notes
+
+Descriptions and contact information for over 500 membership organizations from around the world, including professional and trade associations, labor unions, and cultural organizations. Included titles: Encyclopedia of Associations: National Organizations of the U.S., Encyclopedia of Associations: International Organizations, and Encyclopedia of Associations: Regional, State & Local Associations .
+
+## Links
+
+- [Access resource](https://yale.idm.oclc.org/login?URL=https://go.gale.com/ps/i.do?p=GDL&sw=w&u=29002&v=2.1&pg=BasicSearch&it=static&sid=bookmark-GDL)
+
+[Back to Datasets & Databases](../datasets.qmd)

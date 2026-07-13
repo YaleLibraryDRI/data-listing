@@ -1,0 +1,27 @@
+---
+title: "EMIS"
+page-layout: article
+---
+
+# EMIS
+
+## Description
+
+Market intelligence platform providing company, industry, country, and news data for emerging and established markets. Supports global business, market, and economic research.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, News & Media
+- **Data/resource type:** Company & Organization Data, News & Current Events, Government & International Statistics
+- **Access model:** Yale Licensed
+- **Displayed topic:** Company & Organization Data, News & Current Events, Government & International Statistics
+
+## Access notes
+
+If you are prompted to login, select the Guest Access option.
+
+## Links
+
+- [Access resource](https://library.yale.edu/eresources/access/access-emis)
+
+[Back to Datasets & Databases](../datasets.qmd)

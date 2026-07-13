@@ -1,0 +1,25 @@
+---
+title: "Global Development Finance"
+page-layout: article
+---
+
+# Global Development Finance
+
+**Provider:** World Bank
+
+## Description
+
+World Bank dataset on financial flows, external debt, and financial indicators for developing countries. Supports research on development finance and international economic conditions.
+
+## Listing categories
+
+- **Subject area:** Business & Economics
+- **Data/resource type:** Financial & Market Data, Government & International Statistics
+- **Access model:** Open Access
+- **Displayed topic:** Financial & Market Data, Government & International Statistics
+
+## Links
+
+- [Access resource](http://data.worldbank.org/data-catalog/global-financial-development)
+
+[Back to Datasets & Databases](../datasets.qmd)

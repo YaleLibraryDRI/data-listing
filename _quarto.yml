@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Yale Library Data Listing"
+  site-url: "https://yalelibrarydri.github.io/data-listing/"
+  repo-url: "https://github.com/YaleLibraryDRI/data-listing"
+  navbar:
+    background: "#00356b"
+    foreground: "#ffffff"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: datasets.qmd
+        text: Datasets & Databases
+  page-footer:
+    left: "Yale Library Data Listing"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme:
+      light: cosmo
+    css:
+      - assets/listing.css
+    toc: false
+    link-external-newwindow: true

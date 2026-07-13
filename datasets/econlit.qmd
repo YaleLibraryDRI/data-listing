@@ -1,0 +1,25 @@
+---
+title: "EconLit"
+page-layout: article
+---
+
+# EconLit
+
+**Provider:** ProQuest
+
+## Description
+
+Comprehensive index of economics literature including journal articles, books, working papers, dissertations, conference proceedings, and reviews. Supports scholarly research in economics and related fields.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, Humanities & History, Scholarly Literature
+- **Data/resource type:** Scholarly Indexes & Literature
+- **Access model:** Individual Account Required, Yale Licensed
+- **Displayed topic:** Scholarly Indexes & Literature
+
+## Links
+
+- [Access resource](https://yale.idm.oclc.org/login?URL=http://search.proquest.com/econlit?accountid=15172)
+
+[Back to Datasets & Databases](../datasets.qmd)

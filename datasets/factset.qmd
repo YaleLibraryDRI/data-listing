@@ -1,0 +1,29 @@
+---
+title: "FactSet"
+page-layout: article
+---
+
+# FactSet
+
+**Provider:** FactSet
+
+## Description
+
+Financial data and analytics platform covering global companies, markets, securities, estimates, and economic data. Supports investment research, financial modeling, and market analysis.
+
+## Listing categories
+
+- **Subject area:** Business & Economics
+- **Data/resource type:** Company & Organization Data, Financial & Market Data, Data Platform
+- **Access model:** Workstation Access, Yale Licensed
+- **Displayed topic:** Company & Organization Data, Financial & Market Data, Data Platform
+
+## Access notes
+
+Access to FactSet is made possible by Yale School of Management. FactSet Workstation is available for Faculty & PhD Students.
+
+## Links
+
+- [Access resource](http://guides.library.yale.edu/factset)
+
+[Back to Datasets & Databases](../datasets.qmd)

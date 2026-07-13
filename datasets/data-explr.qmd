@@ -1,0 +1,27 @@
+---
+title: "Data Explr"
+page-layout: article
+---
+
+# Data Explr
+
+## Description
+
+Historical database of U.S. private companies with information on sales, employment, industry classification, location, and ownership. Supports longitudinal business and economic research.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, GIS & Spatial Data, Humanities & History
+- **Data/resource type:** Company & Organization Data, Geospatial & Mapping Data, Historical Archives
+- **Access model:** Individual Account Required, Yale Licensed
+- **Displayed topic:** Company & Organization Data, Geospatial & Mapping Data, Historical Archives
+
+## Access notes
+
+Data for 1981 and 1984 are not available. An individual Data Exlpr account is required to access this data.
+
+## Links
+
+- [Access resource](http://hdl.handle.net/10079/yuldb/yuldb2852)
+
+[Back to Datasets & Databases](../datasets.qmd)

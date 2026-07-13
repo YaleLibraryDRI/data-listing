@@ -1,0 +1,25 @@
+---
+title: "ABI/Inform"
+page-layout: article
+---
+
+# ABI/Inform
+
+**Provider:** ProQuest
+
+## Description
+
+Business research database providing scholarly articles, trade publications, company profiles, industry reports, and business news. Supports research in management, finance, accounting, marketing, entrepreneurship, and economics.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, News & Media, Scholarly Literature
+- **Data/resource type:** Company & Organization Data, Financial & Market Data, Market Research
+- **Access model:** Individual Account Required
+- **Displayed topic:** Company & Organization Data, Financial & Market Data, Market Research
+
+## Links
+
+- [Access resource](https://www.proquest.com/abicomplete/index?accountid=15172)
+
+[Back to Datasets & Databases](../datasets.qmd)

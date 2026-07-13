@@ -1,0 +1,27 @@
+---
+title: "Pitchbook"
+page-layout: article
+---
+
+# Pitchbook
+
+## Description
+
+Private capital database covering companies, investors, funds, deals, exits, and service providers. Supports venture capital, private equity, and entrepreneurship research.
+
+## Listing categories
+
+- **Subject area:** Business & Economics
+- **Data/resource type:** Company & Organization Data, Financial & Market Data, Data Platform
+- **Access model:** Individual Account Required, Yale Licensed
+- **Displayed topic:** Company & Organization Data, Financial & Market Data, Data Platform
+
+## Access notes
+
+Requires users to sign in with an @Yale.edu email address. Users will be directed to the Yale CAS sign-in page. Do not click "Log in without SSO" even if you had an individual account previously. Commercial use is prohibited. Users are limited to 10 downloads per day and 25 downloads per month. (1 download = 1 row of data on an Excel file). Accounts will automatically be reset annually on May 31.
+
+## Links
+
+- [Access resource](https://library.yale.edu/eresources/access/access-pitchbook)
+
+[Back to Datasets & Databases](../datasets.qmd)

@@ -1,0 +1,24 @@
+---
+title: "Gallup Analytics"
+page-layout: article
+---
+
+# Gallup Analytics
+
+## Description
+
+Polling and survey data platform covering U.S. and global public opinion. Supports research on attitudes, behavior, social trends, and cross-national comparisons.
+
+## Listing categories
+
+- **Subject area:** Social Sciences
+- **Data/resource type:** Survey & Polling Data, Data Platform
+- **Access model:** Request Required, Individual Account Required, Yale Licensed
+- **Displayed topic:** Survey & Polling Data, Data Platform
+
+## Links
+
+- [Access resource](https://yale.idm.oclc.org/login?URL=https://library.yale.edu/eresources/access/access-gallup-analytics)
+- [Request access](Yale subscribes to individual response data contact researchdata@yale.edu for access.)
+
+[Back to Datasets & Databases](../datasets.qmd)

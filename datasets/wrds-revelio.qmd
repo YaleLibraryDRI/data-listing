@@ -1,0 +1,29 @@
+---
+title: "WRDS - Revelio"
+page-layout: article
+---
+
+# WRDS - Revelio
+
+**Provider:** WRDS
+
+## Description
+
+Workforce analytics dataset covering job postings, employee work histories, reviews, and workforce dynamics. Supports labor market, human capital, and organizational research.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, Social Sciences
+- **Data/resource type:** Company & Organization Data, Workforce & Career Data, Data Platform
+- **Access model:** WRDS Account Required, Individual Account Required
+- **Displayed topic:** Company & Organization Data, Workforce & Career Data, Data Platform
+
+## Access notes
+
+An individual WRDS account is required to access this data.
+
+## Links
+
+- [Access resource](https://wrds-www.wharton.upenn.edu/pages/get-data/revelio-labs/)
+
+[Back to Datasets & Databases](../datasets.qmd)

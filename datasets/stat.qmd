@@ -1,0 +1,27 @@
+---
+title: "STAT+"
+page-layout: article
+---
+
+# STAT+
+
+## Description
+
+News and analysis platform covering biotechnology, pharmaceuticals, clinical trials, health policy, and healthcare business. Supports research on biomedical innovation and health industry trends.
+
+## Listing categories
+
+- **Subject area:** Health & Medicine, Business & Economics, Government & Public Policy
+- **Data/resource type:** News & Current Events, Health & Biomedical Data, Data Platform
+- **Access model:** Individual Account Required, Yale Licensed
+- **Displayed topic:** News & Current Events, Health & Biomedical Data, Data Platform
+
+## Access notes
+
+Requires users to register for an individual account with a Yale email address.
+
+## Links
+
+- [Access resource](https://library.yale.edu/eresources/access/access-stat-plus)
+
+[Back to Datasets & Databases](../datasets.qmd)

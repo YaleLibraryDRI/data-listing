@@ -1,0 +1,23 @@
+---
+title: "New York Times"
+page-layout: article
+---
+
+# New York Times
+
+## Description
+
+Digital news source providing current and archival reporting on politics, business, culture, science, and global affairs. Supports current awareness and news research.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, Government & Public Policy, News & Media
+- **Data/resource type:** News & Current Events, Real Estate & Property Data
+- **Access model:** Individual Account Required, Yale Licensed
+- **Displayed topic:** News & Current Events, Real Estate & Property Data
+
+## Links
+
+- [Access resource](https://library.yale.edu/eresources/access/access-nytcom)
+
+[Back to Datasets & Databases](../datasets.qmd)

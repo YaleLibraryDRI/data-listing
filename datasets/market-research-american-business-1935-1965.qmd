@@ -1,0 +1,23 @@
+---
+title: "Market Research & American Business, 1935-1965"
+page-layout: article
+---
+
+# Market Research & American Business, 1935-1965
+
+## Description
+
+Digital archive of market research reports and consumer studies from mid-twentieth-century American business. Supports research on advertising, consumer culture, and business history.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, News & Media, Humanities & History
+- **Data/resource type:** Market Research, Historical Archives
+- **Access model:** Yale Licensed
+- **Displayed topic:** Market Research, Historical Archives
+
+## Links
+
+- [Access resource](https://yale.idm.oclc.org/login?URL=http://www.consumerculture.amdigital.co.uk/)
+
+[Back to Datasets & Databases](../datasets.qmd)

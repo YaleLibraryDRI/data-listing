@@ -1,0 +1,29 @@
+---
+title: "Factiva"
+page-layout: article
+---
+
+# Factiva
+
+**Provider:** EBSCO
+
+## Description
+
+Global news database with current and archival coverage from newspapers, magazines, newswires, and business sources. Supports news, company, industry, and policy research.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, Government & Public Policy, News & Media
+- **Data/resource type:** Company & Organization Data, News & Current Events, Real Estate & Property Data
+- **Access model:** Yale Licensed
+- **Displayed topic:** Company & Organization Data, News & Current Events, Real Estate & Property Data
+
+## Access notes
+
+Per our license agreement, Factiva may not be used for text mining projects.
+
+## Links
+
+- [Access resource](https://yale.idm.oclc.org/login?URL=http://hdl.handle.net/10079/yuldb/yuldb493)
+
+[Back to Datasets & Databases](../datasets.qmd)

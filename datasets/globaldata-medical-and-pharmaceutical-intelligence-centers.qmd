@@ -1,0 +1,23 @@
+---
+title: "GlobalData Medical and Pharmaceutical Intelligence Centers"
+page-layout: article
+---
+
+# GlobalData Medical and Pharmaceutical Intelligence Centers
+
+## Description
+
+Market research platform covering medical device and pharmaceutical industries. Supports research on healthcare markets, drug development, competitive intelligence, and industry trends.
+
+## Listing categories
+
+- **Subject area:** Health & Medicine, Business & Economics
+- **Data/resource type:** Market Research, Government & International Statistics, Health & Biomedical Data
+- **Access model:** Yale Licensed
+- **Displayed topic:** Market Research, Government & International Statistics, Health & Biomedical Data
+
+## Links
+
+- [Access resource](https://library.yale.edu/eresources/access/access-globaldata)
+
+[Back to Datasets & Databases](../datasets.qmd)

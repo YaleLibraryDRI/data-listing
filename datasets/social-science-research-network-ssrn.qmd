@@ -1,0 +1,23 @@
+---
+title: "Social Science Research Network (SSRN)"
+page-layout: article
+---
+
+# Social Science Research Network (SSRN)
+
+## Description
+
+Repository of working papers, accepted papers, and abstracts across social science disciplines. Supports discovery of current research in accounting, economics, finance, marketing, and law.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, Social Sciences, News & Media
+- **Data/resource type:** Financial & Market Data, Market Research, News & Current Events
+- **Access model:** Individual Account Required, Yale Licensed
+- **Displayed topic:** Financial & Market Data, Market Research, News & Current Events
+
+## Links
+
+- [Access resource](http://hdl.handle.net/10079/yuldb/yuldb1208)
+
+[Back to Datasets & Databases](../datasets.qmd)

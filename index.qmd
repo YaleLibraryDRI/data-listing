@@ -1,0 +1,25 @@
+---
+title: "Yale Library Data Listing"
+page-layout: full
+---
+
+::: {.hero-banner}
+# Yale Library Data Listing
+
+Discover datasets, databases, and research resources available through Yale Library.
+
+[Browse the catalog](datasets.qmd){.btn .btn-primary}
+:::
+
+## What you can find here
+
+This prototype catalog includes licensed databases, datasets available by request, open data resources, data platforms, news and market research tools, and other resources useful for data-intensive research.
+
+## Browse by need
+
+- **Business & Economics** resources for company, industry, financial, market, and investment research
+- **Social Sciences** resources for public opinion, workforce, demographic, and policy research
+- **GIS & Spatial Data** resources for mapping, place-based analysis, and community research
+- **News & Media** resources for current and historical reporting, advertising, and marketing research
+- **Scholarly Literature** indexes and archives for citation tracking and literature review
+

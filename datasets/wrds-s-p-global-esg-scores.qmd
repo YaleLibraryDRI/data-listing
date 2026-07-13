@@ -1,0 +1,29 @@
+---
+title: "WRDS- S&P Global ESG Scores"
+page-layout: article
+---
+
+# WRDS- S&P Global ESG Scores
+
+**Provider:** WRDS
+
+## Description
+
+WRDS dataset containing S&P ESG scores, Trucost environmental data, and climate analytics. Supports research on corporate sustainability, environmental impact, and climate risk.
+
+## Listing categories
+
+- **Subject area:** Energy & Environment
+- **Data/resource type:** ESG & Sustainability Data, Data Platform
+- **Access model:** WRDS Account Required, Individual Account Required
+- **Displayed topic:** ESG & Sustainability Data, Data Platform
+
+## Access notes
+
+An individual WRDS account is required to access this data.
+
+## Links
+
+- [Access resource](https://wrds-www.wharton.upenn.edu/)
+
+[Back to Datasets & Databases](../datasets.qmd)

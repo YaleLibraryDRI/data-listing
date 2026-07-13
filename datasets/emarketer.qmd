@@ -1,0 +1,23 @@
+---
+title: "eMarketer"
+page-layout: article
+---
+
+# eMarketer
+
+## Description
+
+Market data and analysis platform focused on digital advertising, social media, e-commerce, retail, and consumer technology. Supports research on digital markets and media trends.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, Social Sciences, News & Media
+- **Data/resource type:** Financial & Market Data, Market Research, Data Platform
+- **Access model:** Yale Licensed
+- **Displayed topic:** Financial & Market Data, Market Research, Data Platform
+
+## Links
+
+- [Access resource](http://hdl.handle.net/10079/yuldb/yuldb1980)
+
+[Back to Datasets & Databases](../datasets.qmd)

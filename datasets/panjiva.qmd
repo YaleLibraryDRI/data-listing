@@ -1,0 +1,27 @@
+---
+title: "Panjiva"
+page-layout: article
+---
+
+# Panjiva
+
+## Description
+
+Global trade database with import and export records, suppliers, buyers, products, and shipment trends. Supports supply chain, trade, and sourcing research.
+
+## Listing categories
+
+- **Subject area:** General Research
+- **Data/resource type:** Market Research, Trade & Supply Chain Data, Data Platform
+- **Access model:** Request Required, Individual Account Required
+- **Displayed topic:** Market Research, Trade & Supply Chain Data, Data Platform
+
+## Access notes
+
+Requires users to request an individual account with a Yale email address.
+
+## Links
+
+- [Request access](https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUNUxHUEEyOEI4WDNRRVhJMzI3SVA1M01QQyQlQCN0PWcu&route=shorturl)
+
+[Back to Datasets & Databases](../datasets.qmd)

@@ -1,0 +1,23 @@
+---
+title: "Making of the Modern World"
+page-layout: article
+---
+
+# Making of the Modern World
+
+## Description
+
+Digital archive of economic and business literature published from 1450 through 1850. Supports historical research on commerce, political economy, and social thought.
+
+## Listing categories
+
+- **Subject area:** Business & Economics, Government & Public Policy, Social Sciences
+- **Data/resource type:** Scholarly Indexes & Literature, Historical Archives
+- **Access model:** Yale Licensed
+- **Displayed topic:** Scholarly Indexes & Literature, Historical Archives
+
+## Links
+
+- [Access resource](http://hdl.handle.net/10079/yuldb/yuldb859)
+
+[Back to Datasets & Databases](../datasets.qmd)

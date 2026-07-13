@@ -1,0 +1,25 @@
+---
+title: "Gale Business Insights"
+page-layout: article
+---
+
+# Gale Business Insights
+
+**Provider:** Gale
+
+## Description
+
+Business information platform providing company profiles, SWOT analyses, industry coverage, market share data, histories, chronologies, and articles. Supports company and industry research.
+
+## Listing categories
+
+- **Subject area:** Business & Economics
+- **Data/resource type:** Company & Organization Data, Market Research, Data Platform
+- **Access model:** Yale Licensed
+- **Displayed topic:** Company & Organization Data, Market Research, Data Platform
+
+## Links
+
+- [Access resource](https://yale.idm.oclc.org/login?URL=http://infotrac.galegroup.com/itweb/29002?db=BIG)
+
+[Back to Datasets & Databases](../datasets.qmd)
