@@ -17,7 +17,7 @@ website:
       - href: index.qmd
         text: Home
       - href: datasets.qmd
-        text: Datasets & Databases
+        text: Data Resources
   page-footer:
     left: "Yale Library Data Listing"
     right: "Built with Quarto"
