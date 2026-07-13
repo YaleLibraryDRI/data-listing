@@ -2,20 +2,18 @@
 title: "Datasets & Databases"
 page-layout: full
 ---
-
+```{=html}
 <div class="listing-intro">
   <p>Search or filter the Yale Library data listing by subject, data/resource type, and access model.</p>
 </div>
 
-<div id="listing-controls" class="listing-controls" aria-label="Listing filters">
+<div id="listing-controls" class="listing-controls">
 
   <div class="filter-block search-block">
     <label for="listing-search">Search</label>
-    <input
-      type="search"
-      id="listing-search"
-      placeholder="Search by title, provider, topic, or description"
-      autocomplete="off">
+    <input type="search"
+           id="listing-search"
+           placeholder="Search by title, provider, topic, or description">
   </div>
 
   <div class="filter-block">
@@ -45,8 +43,9 @@ page-layout: full
 
 </div>
 
-<div id="result-count" class="result-count" aria-live="polite"></div>
+<div id="result-count" class="result-count"></div>
 
 <div id="dataset-grid" class="dataset-grid"></div>
+```
 
 <script src="assets/listing.js"></script>
