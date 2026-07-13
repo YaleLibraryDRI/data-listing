@@ -45,8 +45,6 @@ page-layout: full
     </a>
     </div>
 
-</div>
-
 <div id="listing-controls" class="listing-controls">
 
   <div class="filter-block search-block">
