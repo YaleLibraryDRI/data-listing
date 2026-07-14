@@ -98,13 +98,6 @@ page-layout: full
 
 </div>
 
-  <div class="filter-block">
-    <label for="access-filter">Access</label>
-    <select id="access-filter">
-      <option value="">All access models</option>
-    </select>
-  </div>
-
   <button id="clear-filters" type="button">
     Clear filters
   </button>
