@@ -101,10 +101,6 @@ function filteredItems() {
       !state.subject ||
       (item.categories1 || []).includes(state.subject);
 
-    const matchesType =
-      !state.type ||
-      (item.categories2 || []).includes(state.type);
-
     const matchesAccess =
       !state.access ||
       (item.categories3 || []).includes(state.access);
@@ -112,7 +108,6 @@ function filteredItems() {
     return (
       matchesSearch &&
       matchesSubject &&
-      matchesType &&
       matchesAccess
     );
   });
@@ -144,11 +139,6 @@ fetch(DATA_URL)
     );
 
     fillSelect(
-      els.type,
-      uniqueSorted(state.items, "categories2")
-    );
-
-    fillSelect(
       els.access,
       uniqueSorted(state.items, "categories3")
     );
@@ -173,13 +163,6 @@ if (els.subject) {
   });
 }
 
-if (els.type) {
-  els.type.addEventListener("change", e => {
-    state.type = e.target.value;
-    render();
-  });
-}
-
 if (els.access) {
   els.access.addEventListener("change", e => {
     state.access = e.target.value;
@@ -191,7 +174,6 @@ if (els.clear) {
   els.clear.addEventListener("click", () => {
     state.search = "";
     state.subject = "";
-    state.type = "";
     state.access = "";
 
     if (els.search) els.search.value = "";

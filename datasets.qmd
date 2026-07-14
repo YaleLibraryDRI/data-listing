@@ -62,13 +62,6 @@ page-layout: full
   </div>
 
   <div class="filter-block">
-    <label for="type-filter">Data/resource type</label>
-    <select id="type-filter">
-      <option value="">All types</option>
-    </select>
-  </div>
-
-  <div class="filter-block">
     <label for="access-filter">Access</label>
     <select id="access-filter">
       <option value="">All access models</option>
