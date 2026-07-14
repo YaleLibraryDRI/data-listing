@@ -81,6 +81,39 @@ page-layout: full
     </select>
   </div>
 
+<div class="listing-controls">
+
+  <div class="control-group">
+    <label for="listing-search">Search</label>
+    <input
+      type="search"
+      id="listing-search"
+      placeholder="Search by title or description">
+  </div>
+
+  <div class="control-group">
+    <label for="subject-filter">Research Area</label>
+    <select id="subject-filter">
+      <option value="">All research areas</option>
+    </select>
+  </div>
+
+  <div class="control-group">
+    <label for="type-filter">Resource Type</label>
+    <select id="type-filter">
+      <option value="">All resource types</option>
+    </select>
+  </div>
+
+  <div class="control-group">
+    <label for="access-filter">Access Model</label>
+    <select id="access-filter">
+      <option value="">All access models</option>
+    </select>
+  </div>
+
+</div>
+
   <div class="filter-block">
     <label for="access-filter">Access</label>
     <select id="access-filter">
