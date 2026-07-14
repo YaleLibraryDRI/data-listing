@@ -52,7 +52,7 @@ function cardTemplate(item) {
 
         ${
           tile.site
-            ? `<a class="card-link" href="${tile.site}" target="_blank">
+            ? `<a class="card-link primary" href="${tile.site}" target="_blank">
                 Access Resource
                </a>`
             : ""
