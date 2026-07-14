@@ -93,7 +93,7 @@
 }
 
 .featured-header {
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.5rem;
 }
 
 .featured-header h2 {
@@ -283,11 +283,6 @@
 .badge.subject {
   background: var(--badge-blue-bg);
   color: var(--badge-blue-text);
-}
-
-.badge.type {
-  background: var(--badge-green-bg);
-  color: var(--badge-green-text);
 }
 
 .badge.access {

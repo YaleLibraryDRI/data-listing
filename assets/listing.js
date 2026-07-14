@@ -13,7 +13,6 @@ const els = {
   resultCount: document.getElementById("result-count"),
   search: document.getElementById("listing-search"),
   subject: document.getElementById("subject-filter"),
-  type: document.getElementById("type-filter"),
   access: document.getElementById("access-filter"),
   clear: document.getElementById("clear-filters")
 };

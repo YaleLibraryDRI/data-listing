@@ -4,7 +4,7 @@ page-layout: full
 ---
 ```{=html}
 <div class="listing-intro">
-  <p>Search or filter the Yale Library data listing by subject, data/resource type, and access model.</p>
+  <p>Search or filter the Yale Library data listing by subject and access model.</p>
 </div>
 
 <div class="featured-platforms">
