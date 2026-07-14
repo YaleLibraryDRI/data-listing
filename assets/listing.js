@@ -10,11 +10,10 @@ const state = {
 
 const els = {
   grid: document.getElementById("dataset-grid"),
-  resultCount: document.getElementById("result-count"),
   search: document.getElementById("listing-search"),
   subject: document.getElementById("subject-filter"),
-  access: document.getElementById("access-filter"),
-  clear: document.getElementById("clear-filters")
+  type: document.getElementById("type-filter"),
+  access: document.getElementById("access-filter")
 };
 
 function uniqueSorted(items, key) {
@@ -99,6 +98,10 @@ function filteredItems() {
     const matchesSubject =
       !state.subject ||
       (item.categories1 || []).includes(state.subject);
+      
+    const matchesType =
+      !state.type ||
+      (item.categories2 || []).includes(state.type);
 
     const matchesAccess =
       !state.access ||
@@ -107,6 +110,7 @@ function filteredItems() {
     return (
       matchesSearch &&
       matchesSubject &&
+      matchesType &&
       matchesAccess
     );
   });
@@ -136,6 +140,11 @@ fetch(DATA_URL)
       els.subject,
       uniqueSorted(state.items, "categories1")
     );
+    
+    fillSelect(
+      els.type,
+      uniqueSorted(state.items, "categories2")
+    );
 
     fillSelect(
       els.access,
@@ -158,6 +167,13 @@ if (els.search) {
 if (els.subject) {
   els.subject.addEventListener("change", e => {
     state.subject = e.target.value;
+    render();
+  });
+}
+
+if (els.type) {
+  els.subject.addEventListener("change", e => {
+    state.type = e.target.value;
     render();
   });
 }
