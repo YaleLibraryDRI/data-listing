@@ -135,6 +135,12 @@ fetch(DATA_URL)
   .then(data => {
 
     state.items = data.items || [];
+    
+    state.items.sort((a, b) => {
+  const aTitle = (a.tile?.title || "").toLowerCase();
+  const bTitle = (b.tile?.title || "").toLowerCase();
+  return aTitle.localeCompare(bTitle);
+});
 
     fillSelect(
       els.subject,

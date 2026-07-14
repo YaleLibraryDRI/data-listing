@@ -301,7 +301,7 @@ items:
   categories3:
   - "Hosted by Yale Library"
   tiles:
-  - title: "CoreLogic"
+  - title: "Cotality/CoreLogic"
     description: "Property, mortgage, deed, tax, and real estate market database covering U.S. housing markets. Supports research in housing, urban economics, finance, and real estate."
     image: "../Images/Datasets/corelogic.png"
     site: "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUMVJTT1BXNDdHVVAyREk5N09BWVdCVFE5RiQlQCN0PWcu&route=shorturl"
