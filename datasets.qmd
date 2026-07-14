@@ -63,7 +63,7 @@ page-layout: full
        Explore Platform
     </a>
   </div>
-
+</div>
 
 <div id="listing-controls" class="listing-controls">
 
