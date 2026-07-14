@@ -13,7 +13,9 @@ const els = {
   search: document.getElementById("listing-search"),
   subject: document.getElementById("subject-filter"),
   type: document.getElementById("type-filter"),
-  access: document.getElementById("access-filter")
+  access: document.getElementById("access-filter"),
+  clear: document.getElementById("clear-filters"),
+  resultCount: document.getElementById("result-count")
 };
 
 function uniqueSorted(items, key) {
@@ -44,27 +46,15 @@ function cardTemplate(item) {
     <div class="dataset-card">
       <div class="card-body">
 
-        <h3 class="card-title">
-          ${tile.title || "Untitled"}
-        </h3>
+        <h3>${tile.title || "Untitled"}</h3>
 
-        <p class="card-description">
-          ${tile.description || ""}
-        </p>
+        <p>${tile.description || ""}</p>
 
         ${
           tile.site
-            ? `
-              <div class="card-footer">
-                <a
-                  href="${tile.site}"
-                  target="_blank"
-                  rel="noopener"
-                  class="card-link primary">
-                  Access Resource
-                </a>
-              </div>
-            `
+            ? `<a class="card-link" href="${tile.site}" target="_blank">
+                Access Resource
+               </a>`
             : ""
         }
 
@@ -72,7 +62,6 @@ function cardTemplate(item) {
     </div>
   `;
 }
-``
 
 function searchableText(item) {
   const tile = item.tile || {};
@@ -98,7 +87,7 @@ function filteredItems() {
     const matchesSubject =
       !state.subject ||
       (item.categories1 || []).includes(state.subject);
-      
+
     const matchesType =
       !state.type ||
       (item.categories2 || []).includes(state.type);
@@ -133,20 +122,24 @@ function render() {
 fetch(DATA_URL)
   .then(response => response.json())
   .then(data => {
-
     state.items = data.items || [];
-    
+
+    // Alphabetical sorting
     state.items.sort((a, b) => {
-  const aTitle = (a.tile?.title || "").toLowerCase();
-  const bTitle = (b.tile?.title || "").toLowerCase();
-  return aTitle.localeCompare(bTitle);
-});
+      const aTitle =
+        (a.tile?.title || "").toLowerCase();
+
+      const bTitle =
+        (b.tile?.title || "").toLowerCase();
+
+      return aTitle.localeCompare(bTitle);
+    });
 
     fillSelect(
       els.subject,
       uniqueSorted(state.items, "categories1")
     );
-    
+
     fillSelect(
       els.type,
       uniqueSorted(state.items, "categories2")
@@ -160,7 +153,7 @@ fetch(DATA_URL)
     render();
   })
   .catch(error => {
-    console.error(error);
+    console.error("Failed to load data:", error);
   });
 
 if (els.search) {
@@ -178,7 +171,7 @@ if (els.subject) {
 }
 
 if (els.type) {
-  els.subject.addEventListener("change", e => {
+  els.type.addEventListener("change", e => {
     state.type = e.target.value;
     render();
   });
@@ -195,6 +188,7 @@ if (els.clear) {
   els.clear.addEventListener("click", () => {
     state.search = "";
     state.subject = "";
+    state.type = "";
     state.access = "";
 
     if (els.search) els.search.value = "";
