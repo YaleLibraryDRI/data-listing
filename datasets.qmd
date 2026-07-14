@@ -25,13 +25,13 @@ page-layout: full
 
     <a class="featured-card" href="#">
       <div class="featured-label">External platform</div>
-      <h3>WRDS</h3>
+      <h3>WRDS - Wharton Research Data Service</h3>
       <p>Financial, accounting, banking, economic, and market datasets for empirical research.</p>
       <span class="featured-action">Explore platform</span>
     </a>
 
     <a class="featured-card" href="#">
-      <div class="featured-label">External platform</div>
+      <div class="featured-label">Access resource</div>
       <h3>Dewey Data</h3>
       <p>Third-party research datasets across industries including consumer behavior, transportation, and workforce data.</p>
       <span class="featured-action">Explore platform</span>
@@ -39,9 +39,9 @@ page-layout: full
 
     <a class="featured-card" href="#">
     <div class="featured-label">External platform</div>
-      <h3>TDM Studio</h3>
+      <h3>ProQuest TDM Studio</h3>
       <p>Text and data mining platform for working with licensed text-based collections. More details coming soon.</p>
-      <span class="featured-action">Coming soon</span>
+      <span class="featured-action">Explore platform</span>
     </a>
     </div>
 

@@ -1,0 +1,2716 @@
+{
+  "items": [
+    {
+      "categories1": [
+        "Business & Economics",
+        "News & Media",
+        "Scholarly Literature"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Financial & Market Data",
+        "Market Research"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "ABI/Inform",
+        "description": "Business research database providing scholarly articles, trade publications, company\nprofiles, industry reports, and business news. Supports research in management, finance,\naccounting, marketing, entrepreneurship, and economics.\n",
+        "image": "../Images/Datasets/abi-inform.png",
+        "topic": "Company & Organization Data, Financial & Market Data, Market Research",
+        "provider": "ProQuest",
+        "site": "https://www.proquest.com/abicomplete/index?accountid=15172"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "News & Media",
+        "Humanities & History"
+      ],
+      "categories2": [
+        "Market Research",
+        "Historical Archives"
+      ],
+      "categories3": [
+        "Open access"
+      ],
+      "tile": {
+        "title": "Ad*Access",
+        "description": "Digital archive of historical U.S. and Canadian advertisements from 1911 to 1955. Useful\nfor research on marketing, consumer culture, media history, visual design, and advertising\ntrends.\n",
+        "image": "../Images/Datasets/ad-access.png",
+        "topic": "Market Research, Historical Archives",
+        "site": "https://repository.duke.edu/dc/adaccess",
+        "access-note": "Requires users to register for an account with a valid Yale email address.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "News & Media"
+      ],
+      "categories2": [
+        "Market Research",
+        "News & Current Events",
+        "Government & International Statistics"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Advertising Age",
+        "description": "News and analysis platform covering advertising, marketing, media, agencies, and brand\nstrategy. Supports research on marketing trends, campaign strategy, and advertising\nindustry developments.\n",
+        "image": "../Images/Datasets/advertising-age.png",
+        "topic": "Market Research, News & Current Events, Government & International Statistics",
+        "site": "https://library.yale.edu/eresources/access/access-ad-age?_ga=2.49974048.788554764.1679317615-416833816.1675090855"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "News & Media",
+        "Scholarly Literature"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "News & Current Events",
+        "Government & International Statistics"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "American City Business Journals",
+        "description": "Collection of local business news, company information, and economic reporting from major\nU.S. metropolitan areas. Useful for regional business, entrepreneurship, and economic\ndevelopment research.\n",
+        "image": "../Images/Datasets/american-city-business-journals.png",
+        "topic": "Company & Organization Data, News & Current Events, Government & International Statistics",
+        "site": "https://library.yale.edu/eresources/access/access-american-city-business-journals",
+        "access-note": "Requires users to request an individual account with a Yale email address.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Energy & Environment",
+        "Business & Economics",
+        "Government & Public Policy"
+      ],
+      "categories2": [
+        "News & Current Events",
+        "ESG & Sustainability Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "American Energy Society",
+        "description": "Energy information platform providing industry news, reports, white papers, podcasts, and\nmarket intelligence. Supports research on energy markets, climate policy, technology, and\nsustainability.\n",
+        "image": "../Images/Datasets/american-energy-society.png",
+        "topic": "News & Current Events, ESG & Sustainability Data, Data Platform",
+        "site": "https://library.yale.edu/eresources/access/access-american-energy-society",
+        "access-note": "New users will need to register for an individual account using a valid Yale email address\n.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Social Sciences"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Trade & Supply Chain Data",
+        "Workforce & Career Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Associations Unlimited",
+        "description": "Directory of professional, trade, cultural, labor, and nonprofit organizations in the\nUnited States and abroad. Useful for identifying associations, professional networks, and\norganizational contacts.\n",
+        "image": "../Images/Datasets/associations-unlimited.png",
+        "topic": "Company & Organization Data, Trade & Supply Chain Data, Workforce & Career Data",
+        "provider": "Gale",
+        "site": "https://yale.idm.oclc.org/login?URL=https://go.gale.com/ps/i.do?p=GDL&sw=w&u=29002&v=2.1&pg=BasicSearch&it=static&sid=bookmark-GDL",
+        "access-note": "Descriptions and contact information for over 500 membership organizations from around the\nworld, including professional and trade associations, labor unions, and cultural\norganizations. Included titles: Encyclopedia of Associations: National Organizations of\nthe U.S., Encyclopedia of Associations: International Organizations, and Encyclopedia of\nAssociations: Regional, State & Local Associations .\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Government & Public Policy"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "News & Current Events",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Audit Analytics",
+        "description": "Database of corporate disclosures, audit information, accounting practices, regulatory\nfilings, and compliance activity. Supports research in accounting, corporate governance,\nfinancial reporting, and regulation.\n",
+        "image": "../Images/Datasets/audit-analytics.png",
+        "topic": "Financial & Market Data, News & Current Events, Data Platform",
+        "site": "https://search.library.yale.edu/catalog/16525201",
+        "access-note": "Available via WRDS or the Audit Analytics website. Both options require users to register\nfor an account with a valid Yale email address.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Energy & Environment",
+        "Health & Medicine",
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Market Research",
+        "Health & Biomedical Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "BBC Research",
+        "description": "Market research platform covering emerging technologies, healthcare, energy, materials,\nbiotechnology, and industrial sectors. Useful for technology forecasting, industry\nanalysis, and market assessment.\n",
+        "image": "../Images/Datasets/bbc-research.png",
+        "topic": "Market Research, Health & Biomedical Data, Data Platform",
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb1766"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "News & Media"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Financial & Market Data",
+        "News & Current Events"
+      ],
+      "categories3": [
+        "Workstation access"
+      ],
+      "tile": {
+        "title": "Bloomberg Terminal",
+        "description": "Professional financial data platform providing real-time market data, company information,\neconomic indicators, analytics, and news. Widely used for investment, finance, and\neconomic research.\n",
+        "image": "../Images/Datasets/bloomberg-terminal.png",
+        "topic": "Company & Organization Data, Financial & Market Data, News & Current Events",
+        "provider": "Bloomberg",
+        "site": "https://guides.library.yale.edu/Bloomberg",
+        "access-note": "Available on dedicated workstations located at Marx Library and the School of Management.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Government & Public Policy",
+        "News & Media"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "News & Current Events",
+        "Real Estate & Property Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Bloomberg.com",
+        "description": "News and data platform covering global markets, business, economics, politics, technology,\nand policy. Supports research on current events, financial markets, and business trends.\n",
+        "image": "../Images/Datasets/bloomberg-com.png",
+        "topic": "Financial & Market Data, News & Current Events, Real Estate & Property Data",
+        "provider": "Bloomberg",
+        "site": "https://web.library.yale.edu/access-bloombergcom",
+        "access-note": "Requires users to register for an individual account with a Yale email\naddress.Bloomberg.com accounts are reset annually after the spring semester. Returning\nusers may need to re-register with their @yale.edu address at that time.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Social Sciences",
+        "News & Media"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Financial & Market Data",
+        "News & Current Events"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Business Insider",
+        "description": "Digital news platform featuring reporting on business, technology, finance, careers, and\nglobal affairs. Useful for tracking companies, industries, labor markets, and emerging\nbusiness trends.\n",
+        "image": "../Images/Datasets/business-insider.png",
+        "topic": "Company & Organization Data, Financial & Market Data, News & Current Events",
+        "site": "https://library.yale.edu/eresources/access/access-business-insider",
+        "access-note": "Requires users to register for an account with a Yale email address.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Market Research",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Business of Fashion Professional",
+        "description": "Industry intelligence platform covering global fashion markets, companies, retail\nstrategy, and consumer trends. Supports research on fashion business, luxury markets, and\nbrand strategy.\n",
+        "image": "../Images/Datasets/business-of-fashion-professional.png",
+        "topic": "Company & Organization Data, Market Research, Data Platform",
+        "site": "https://library.yale.edu/eresources/access/access-business-fashion?_ga=2.228768796.1813429910.1685970342-141142974.1682704224",
+        "access-note": "Requires users to register for an account with a Yale email address. The campus\nsubscription does not include access to BoF Insights reports.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Scholarly Literature"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Scholarly Indexes & Literature",
+        "Trade & Supply Chain Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Business Source Ultimate",
+        "description": "Comprehensive business database providing scholarly journals, trade publications, industry\nreports, SWOT analyses, case studies, and company profiles. Supports research across\nbusiness disciplines.\n",
+        "image": "../Images/Datasets/business-source-ultimate.png",
+        "topic": "Company & Organization Data, Scholarly Indexes & Literature, Trade & Supply Chain Data",
+        "provider": "EBSCO",
+        "site": "https://yale.idm.oclc.org/login?URL=https://research-ebsco-com.yale.idm.oclc.org/c/bygvhg/topics"
+      }
+    },
+    {
+      "categories1": [
+        "Energy & Environment",
+        "Business & Economics",
+        "Government & Public Policy"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "News & Current Events"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Caixin Global",
+        "description": "English-language news source covering Chinese business, finance, economics, politics, and\npublic policy. Useful for research on China's economy, markets, and regulatory\nenvironment.\n",
+        "image": "../Images/Datasets/caixin-global.png",
+        "topic": "Financial & Market Data, News & Current Events",
+        "site": "https://web.library.yale.edu/access-caixin-global",
+        "access-note": "Requires users to register for an individual account with a Yale email address for access.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Financial & Market Data",
+        "News & Current Events"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Calcbench",
+        "description": "Financial statement database built from SEC XBRL filings of public companies. Supports\naccounting, auditing, financial analysis, and corporate reporting research.\n",
+        "image": "../Images/Datasets/calcbench.png",
+        "topic": "Company & Organization Data, Financial & Market Data, News & Current Events",
+        "site": "https://web.library.yale.edu/access-calcbench",
+        "access-note": "Requires users to register for an individual account with a Yale email address for access.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Financial & Market Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Capital IQ",
+        "description": "Financial intelligence platform providing company financials, transactions, ownership\ndata, market information, and professional profiles worldwide. Widely used for business,\ninvestment, and economic research.\n",
+        "image": "../Images/Datasets/capital-iq.png",
+        "topic": "Company & Organization Data, Financial & Market Data, Data Platform",
+        "provider": "S&P",
+        "site": "https://library.yale.edu/eresources/access/access-capital-iq, https://guides.library.yale.edu/capiq",
+        "access-note": "Requires registering an individual account with a Yale email address. Individuals who do\nnot want to create an individual account can use S&P NetAdvantage for similar\nfunctionality.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Energy & Environment",
+        "Business & Economics",
+        "Government & Public Policy"
+      ],
+      "categories2": [
+        "News & Current Events",
+        "ESG & Sustainability Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Carbon Pulse",
+        "description": "News and intelligence platform covering carbon markets, emissions trading, greenhouse gas\npricing, climate policy, and sustainability initiatives. Supports environmental economics\nand climate governance research.\n",
+        "image": "../Images/Datasets/carbon-pulse.png",
+        "topic": "News & Current Events, ESG & Sustainability Data, Data Platform",
+        "site": "https://library.yale.edu/eresources/access/access-carbon-pulse",
+        "access-note": "Requires users to register for an individual account with a Yale email address for access.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Technology & Innovation"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "Market Research",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "CB Insights",
+        "description": "Database tracking startups, investors, venture capital activity, funding rounds,\nacquisitions, and emerging industries. Useful for entrepreneurship, innovation, and\ntechnology market research.\n",
+        "image": "../Images/Datasets/cb-insights.png",
+        "topic": "Financial & Market Data, Market Research, Data Platform",
+        "site": "https://library.yale.edu/eresources/access/access-cb-insights",
+        "access-note": "Requires users to register for an account using a Yale email address. Note: Expert\nIntelligence reports are not available with academic or university accounts.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Energy & Environment",
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "ESG & Sustainability Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "CDP Climate Data",
+        "description": "Company-reported environmental and climate disclosure data covering emissions,\nsustainability practices, and supply-chain activity. Supports ESG, climate risk, and\ncorporate sustainability research.\n",
+        "image": "../Images/Datasets/cdp-climate-data.png",
+        "topic": "Company & Organization Data, ESG & Sustainability Data",
+        "site": "https://library.yale.edu/eresources/access/access-carbon-disclosure-project-public-climate-change-data?_ga=2.105318723.1326972826.1556550690-1266232307.1547737145"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Government & Public Policy"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "CEIC Data",
+        "description": "Global economic and financial database containing macroeconomic, sector, regional, and\nalternative data from official and commercial sources. Supports comparative economic and\npolicy research.\n",
+        "image": "../Images/Datasets/ceic-data.png",
+        "topic": "Financial & Market Data, Data Platform",
+        "site": "https://library.yale.edu/eresources/access/access-ceic-data"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Government & Public Policy"
+      ],
+      "categories2": [
+        "Financial & Market Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Centralbanking.com",
+        "description": "Information resource focused on central banking, monetary policy, financial stability,\nbanking regulation, and financial technologies. Useful for research on economic policy and\nfinancial systems.\n",
+        "image": "../Images/Datasets/centralbanking-com.png",
+        "topic": "Financial & Market Data",
+        "site": "https://yale.idm.oclc.org/login?URL=https://www.centralbanking.com/"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Social Sciences"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Market Research",
+        "Government & International Statistics"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Conference Board",
+        "description": "Source for economic indicators, business research, and management intelligence. Supports\nresearch on economic conditions, consumer confidence, workforce trends, and organizational\nperformance.\n",
+        "image": "../Images/Datasets/conference-board.png",
+        "topic": "Company & Organization Data, Market Research, Government & International Statistics",
+        "site": "https://library.yale.edu/eresources/access/access-conference-board",
+        "access-note": "Off-campus users must be logged in to Yale’s VPN OR must create an account with their\n@yale.edu email address.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "GIS & Spatial Data"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "Survey & Polling Data",
+        "Real Estate & Property Data"
+      ],
+      "categories3": [
+        "Locally hosted at Yale"
+      ],
+      "tile": {
+        "title": "CoreLogic",
+        "description": "Property, mortgage, deed, tax, and real estate market database covering U.S. housing\nmarkets. Supports research in housing, urban economics, finance, and real estate.\n",
+        "image": "../Images/Datasets/corelogic.png",
+        "topic": "Financial & Market Data, Survey & Polling Data, Real Estate & Property Data",
+        "site": "https://search.library.yale.edu/catalog/99149180943408651",
+        "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUMVJTT1BXNDdHVVAyREk5N09BWVdCVFE5RiQlQCN0PWcu&route=shorturl"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Technology & Innovation"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Financial & Market Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "Locally hosted at Yale"
+      ],
+      "tile": {
+        "title": "Crunchbase",
+        "description": "Database of private and public companies, investors, funding rounds, acquisitions, and\nstartup activity. Supports research on entrepreneurship, innovation ecosystems, and\nventure capital.\n",
+        "image": "../Images/Datasets/crunchbase.png",
+        "topic": "Company & Organization Data, Financial & Market Data, Data Platform",
+        "site": "https://search.library.yale.edu/catalog/99159676243408651",
+        "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUQTVRTE40N1kwVk5FTzJTNjJOVzRPWU5IUCQlQCN0PWcu&route=shorturl",
+        "access-note": "Data is available by request. Use the access link in the Quicksearch record to get\nstarted.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Social Sciences",
+        "GIS & Spatial Data"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "News & Current Events",
+        "Geospatial & Mapping Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Data Axle",
+        "description": "Business directory containing current and historical information on millions of U.S. and\nCanadian companies. Useful for business demographics, market analysis, and geographic\nresearch.\n",
+        "image": "../Images/Datasets/data-axle.png",
+        "topic": "Company & Organization Data, News & Current Events, Geospatial & Mapping Data",
+        "site": "https://library.yale.edu/eresources/access/access-data-axle-reference-solutions"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "GIS & Spatial Data",
+        "Humanities & History"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Geospatial & Mapping Data",
+        "Historical Archives"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Data Explr",
+        "description": "Historical database of U.S. private companies with information on sales, employment,\nindustry classification, location, and ownership. Supports longitudinal business and\neconomic research.\n",
+        "image": "../Images/Datasets/data-explr.png",
+        "topic": "Company & Organization Data, Geospatial & Mapping Data, Historical Archives",
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb2852",
+        "access-note": "Data for 1981 and 1984 are not available. An individual Data Exlpr account is required to\naccess this data.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Technology & Innovation"
+      ],
+      "categories2": [
+        "Data Platform"
+      ],
+      "categories3": [
+        "Locally hosted at Yale"
+      ],
+      "tile": {
+        "title": "Datacenter Knowledgebase (451 Research)",
+        "description": "Global database of data center facilities, infrastructure, capacity, utilization, and\nmarket activity. Useful for research on cloud computing, digital infrastructure, and\ntechnology markets.\n",
+        "image": "../Images/Datasets/datacenter-knowledgebase-451-research.png",
+        "topic": "Data Platform",
+        "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUQTFTSEtMRk84SVJTSUVBT0RDSzZSWkQ0WSQlQCN0PWcu&route=shorturl",
+        "access-note": "Requires users to request an individual account with a Yale email address.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Humanities & History"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "Government & International Statistics",
+        "Historical Archives"
+      ],
+      "categories3": [
+        "Locally hosted at Yale"
+      ],
+      "tile": {
+        "title": "Datastream",
+        "description": "Historical financial database containing securities prices, economic indicators,\ncommodities, bonds, and market data. Supports quantitative finance, investment analysis,\nand economic research.\n",
+        "image": "../Images/Datasets/datastream.png",
+        "topic": "Financial & Market Data, Government & International Statistics, Historical Archives",
+        "provider": "LSEG",
+        "site": "https://guides.library.yale.edu/Workspace/Datastream",
+        "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVURDdNSUpFT0JDMEw2WlNCOEQ4NE1KSklNUyQlQCN0PWcu&route=shorturl"
+      }
+    },
+    {
+      "categories1": [
+        "Health & Medicine",
+        "Social Sciences"
+      ],
+      "categories2": [
+        "Market Research",
+        "Health & Biomedical Data",
+        "Workforce & Career Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Dewey Data",
+        "description": "Platform providing access to licensed third-party research datasets across healthcare,\nworkforce, consumer behavior, transportation, and other domains. Useful for discovering\nspecialized datasets.\n",
+        "image": "../Images/Datasets/dewey-data.png",
+        "topic": "Market Research, Health & Biomedical Data, Workforce & Career Data",
+        "site": "https://www.deweydata.io/",
+        "access-note": "Click \"Sign in\" and enter your yale.edu email address.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Technology & Innovation"
+      ],
+      "categories2": [
+        "Market Research",
+        "Government & International Statistics",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "eCommerceDB",
+        "description": "Global e-commerce database covering online retailers, revenue, market development,\ncompetitors, traffic, and digital commerce indicators. Supports retail, consumer behavior,\nand digital economy research.\n",
+        "image": "../Images/Datasets/ecommercedb.png",
+        "topic": "Market Research, Government & International Statistics, Data Platform",
+        "site": "https://library.yale.edu/eresources/access/access-ecommercedb",
+        "access-note": "Also accessible via Statista.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Humanities & History",
+        "Scholarly Literature"
+      ],
+      "categories2": [
+        "Scholarly Indexes & Literature"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "EconLit",
+        "description": "Comprehensive index of economics literature including journal articles, books, working\npapers, dissertations, conference proceedings, and reviews. Supports scholarly research in\neconomics and related fields.\n",
+        "image": "../Images/Datasets/econlit.png",
+        "topic": "Scholarly Indexes & Literature",
+        "provider": "ProQuest",
+        "site": "https://yale.idm.oclc.org/login?URL=http://search.proquest.com/econlit?accountid=15172"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Government & Public Policy"
+      ],
+      "categories2": [
+        "Market Research",
+        "Government & International Statistics",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "EIU Viewpoint",
+        "description": "Political and economic intelligence platform providing country analysis, forecasts, policy\ninsights, and risk assessments. Useful for international business, public policy, and\nglobal market research.\n",
+        "image": "../Images/Datasets/eiu-viewpoint.png",
+        "topic": "Market Research, Government & International Statistics, Data Platform",
+        "site": "https://viewpoint-eiu-com.yale.idm.oclc.org/"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Social Sciences",
+        "News & Media"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "Market Research",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "eMarketer",
+        "description": "Market data and analysis platform focused on digital advertising, social media,\ne-commerce, retail, and consumer technology. Supports research on digital markets and\nmedia trends.\n",
+        "image": "../Images/Datasets/emarketer.png",
+        "topic": "Financial & Market Data, Market Research, Data Platform",
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb1980"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "News & Media"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "News & Current Events",
+        "Government & International Statistics"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "EMIS",
+        "description": "Market intelligence platform providing company, industry, country, and news data for\nemerging and established markets. Supports global business, market, and economic research.\n",
+        "image": "../Images/Datasets/emis.png",
+        "topic": "Company & Organization Data, News & Current Events, Government & International Statistics",
+        "site": "https://library.yale.edu/eresources/access/access-emis",
+        "access-note": "If you are prompted to login, select the Guest Access option.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Social Sciences",
+        "GIS & Spatial Data"
+      ],
+      "categories2": [
+        "Market Research",
+        "Geospatial & Mapping Data",
+        "Workforce & Career Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Esri Business Analyst",
+        "description": "Web-based GIS and market analysis platform with demographic, consumer, employment, and\nlocation data. Supports spatial analysis, site selection, and market research.\n",
+        "image": "../Images/Datasets/esri-business-analyst.png",
+        "topic": "Market Research, Geospatial & Mapping Data, Workforce & Career Data",
+        "provider": "Esri",
+        "site": "https://guides.library.yale.edu/onlinemapping/BA",
+        "access-note": "Requires an individual account. For more information and to request an account, visit:\nOnline Mapping Resources: Esri Business Analyst Web Apps.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Government & Public Policy",
+        "News & Media"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "News & Current Events",
+        "Real Estate & Property Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Factiva",
+        "description": "Global news database with current and archival coverage from newspapers, magazines,\nnewswires, and business sources. Supports news, company, industry, and policy research.\n",
+        "image": "../Images/Datasets/factiva.png",
+        "topic": "Company & Organization Data, News & Current Events, Real Estate & Property Data",
+        "provider": "EBSCO",
+        "site": "https://yale.idm.oclc.org/login?URL=http://hdl.handle.net/10079/yuldb/yuldb493",
+        "access-note": "Per our license agreement, Factiva may not be used for text mining projects.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Financial & Market Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "Workstation access"
+      ],
+      "tile": {
+        "title": "FactSet",
+        "description": "Financial data and analytics platform covering global companies, markets, securities,\nestimates, and economic data. Supports investment research, financial modeling, and market\nanalysis.\n",
+        "image": "../Images/Datasets/factset.png",
+        "topic": "Company & Organization Data, Financial & Market Data, Data Platform",
+        "provider": "FactSet",
+        "site": "http://guides.library.yale.edu/factset",
+        "access-note": "Access to FactSet is made possible by Yale School of Management. FactSet Workstation is\navailable for Faculty & PhD Students.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Humanities & History"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "Historical Archives",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Finaeon",
+        "description": "Historical financial and economic time-series database covering countries, markets,\nexchange rates, interest rates, commodities, inflation, and securities. Supports long-run\nfinancial and economic research.\n",
+        "image": "../Images/Datasets/finaeon.png",
+        "topic": "Financial & Market Data, Historical Archives, Data Platform",
+        "provider": "United Nations",
+        "site": "http://web.library.yale.edu/access-global-financial-data"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Government & Public Policy",
+        "News & Media"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "News & Current Events",
+        "Government & International Statistics"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Financial Times",
+        "description": "Digital news source covering global business, finance, economics, politics, and markets.\nUseful for current awareness and research on international business and economic issues.\n",
+        "image": "../Images/Datasets/financial-times.png",
+        "topic": "Financial & Market Data, News & Current Events, Government & International Statistics",
+        "site": "https://yale.idm.oclc.org/login?URL=https://library.yale.edu/eresources/access/access-financial-times"
+      }
+    },
+    {
+      "categories1": [
+        "Social Sciences"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Foundation Directory Online Professional",
+        "description": "Database of U.S. foundations, grantmakers, corporate giving programs, public charities,\ngrants, and IRS filings. Supports philanthropy, nonprofit, and funding research.\n",
+        "image": "../Images/Datasets/foundation-directory-online-professional.png",
+        "topic": "Company & Organization Data, Data Platform",
+        "site": "https://yale.idm.oclc.org/login?URL=http://hdl.handle.net/10079/yuldb/yuldb515"
+      }
+    },
+    {
+      "categories1": [
+        "Health & Medicine",
+        "Business & Economics",
+        "Technology & Innovation"
+      ],
+      "categories2": [
+        "Market Research",
+        "Health & Biomedical Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Frost and Sullivan",
+        "description": "Market research platform covering technology, healthcare, transportation, defense,\nchemicals, electronics, communications, and other industries. Useful for industry analysis\nand market forecasting.\n",
+        "image": "../Images/Datasets/frost-and-sullivan.png",
+        "topic": "Market Research, Health & Biomedical Data, Data Platform",
+        "site": "https://member.frost.com/login"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Market Research",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Gale Business Insights",
+        "description": "Business information platform providing company profiles, SWOT analyses, industry\ncoverage, market share data, histories, chronologies, and articles. Supports company and\nindustry research.\n",
+        "image": "../Images/Datasets/gale-business-insights.png",
+        "topic": "Company & Organization Data, Market Research, Data Platform",
+        "provider": "Gale",
+        "site": "https://yale.idm.oclc.org/login?URL=http://infotrac.galegroup.com/itweb/29002?db=BIG"
+      }
+    },
+    {
+      "categories1": [
+        "Social Sciences"
+      ],
+      "categories2": [
+        "Survey & Polling Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Gallup Analytics",
+        "description": "Polling and survey data platform covering U.S. and global public opinion. Supports\nresearch on attitudes, behavior, social trends, and cross-national comparisons.\n",
+        "image": "../Images/Datasets/gallup-analytics.png",
+        "topic": "Survey & Polling Data, Data Platform",
+        "site": "https://yale.idm.oclc.org/login?URL=https://library.yale.edu/eresources/access/access-gallup-analytics",
+        "form": "Yale subscribes to individual response data contact researchdata@yale.edu for access."
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Technology & Innovation"
+      ],
+      "categories2": [
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Gartner",
+        "description": "Information technology research platform providing reports, analysis, and trends on IT\nmarkets, vendors, and strategy. Supports technology management and digital transformation\nresearch.\n",
+        "image": "../Images/Datasets/gartner.png",
+        "topic": "Data Platform",
+        "site": "http://business.yale.edu/gartner/go"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "Government & International Statistics"
+      ],
+      "categories3": [
+        "Open access"
+      ],
+      "tile": {
+        "title": "Global Development Finance",
+        "description": "World Bank dataset on financial flows, external debt, and financial indicators for\ndeveloping countries. Supports research on development finance and international economic\nconditions.\n",
+        "image": "../Images/Datasets/global-development-finance.png",
+        "topic": "Financial & Market Data, Government & International Statistics",
+        "provider": "World Bank",
+        "site": "http://data.worldbank.org/data-catalog/global-financial-development"
+      }
+    },
+    {
+      "categories1": [
+        "Health & Medicine",
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Market Research",
+        "Government & International Statistics",
+        "Health & Biomedical Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "GlobalData Medical and Pharmaceutical Intelligence Centers",
+        "description": "Market research platform covering medical device and pharmaceutical industries. Supports\nresearch on healthcare markets, drug development, competitive intelligence, and industry\ntrends.\n",
+        "image": "../Images/Datasets/globaldata-medical-and-pharmaceutical-intelligence-centers.png",
+        "topic": "Market Research, Government & International Statistics, Health & Biomedical Data",
+        "site": "https://library.yale.edu/eresources/access/access-globaldata"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Social Sciences"
+      ],
+      "categories2": [
+        "Market Research",
+        "Government & International Statistics",
+        "Workforce & Career Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "GoinGlobal",
+        "description": "Career and employment information platform with country guides, job search resources, visa\ninformation, salary data, and workplace advice. Supports global career and labor market\nresearch.\n",
+        "image": "../Images/Datasets/goinglobal.png",
+        "topic": "Market Research, Government & International Statistics, Workforce & Career Data",
+        "site": "https://yale.idm.oclc.org/login?url=http://online.goinglobal.com/default.aspx"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Social Sciences"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Financial & Market Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "GuideStar Pro",
+        "description": "Nonprofit organization database with information on programs, finances, leadership, and\nIRS filings. Useful for nonprofit, philanthropy, civic sector, and organizational\nresearch.\n",
+        "image": "../Images/Datasets/guidestar-pro.png",
+        "topic": "Company & Organization Data, Financial & Market Data, Data Platform",
+        "site": "https://library.yale.edu/eresources/access/access-guidestar",
+        "access-note": "For assistance with downloading lists with more than 1000 results, please contact\nbusiness.reference@yale.edu.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Humanities & History",
+        "Scholarly Literature"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "Scholarly Indexes & Literature"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Handbooks in Economics",
+        "description": "Full-text collection of scholarly handbooks in economics, finance, econometrics, and\nrelated fields. Supports literature review and advanced disciplinary research.\n",
+        "image": "../Images/Datasets/handbooks-in-economics.png",
+        "topic": "Financial & Market Data, Scholarly Indexes & Literature",
+        "provider": "Elsevier",
+        "site": "https://www.sciencedirect.com/browse/journals-and-books?subject=economics-econometrics-and-finance"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Government & International Statistics",
+        "Scholarly Indexes & Literature"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Harvard Business Publishing eBooks Collection",
+        "description": "Ebook collection covering management, leadership, entrepreneurship, strategy, human\nresources, and related business topics. Useful for teaching, professional development, and\nbusiness research.\n",
+        "image": "../Images/Datasets/harvard-business-publishing-ebooks-collection.png",
+        "topic": "Company & Organization Data, Government & International Statistics, Scholarly Indexes & Literature",
+        "provider": "EBSCO",
+        "site": "https://yale.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&custid=s5164239&groupid=main&profile=ehost&defaultdb=e076mww"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Market Research",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "IBISWorld",
+        "description": "Industry research platform with reports on market size, trends, performance, risks, major\ncompanies, and forecasts. Supports industry analysis, business planning, and market\nresearch.\n",
+        "image": "../Images/Datasets/ibisworld.png",
+        "topic": "Company & Organization Data, Market Research, Data Platform",
+        "site": "https://library.yale.edu/eresources/access/access-ibisworld",
+        "access-note": "Due to licensing restrictions with IBISWorld, users are limited to fewer than 50 downloads\nper session. Exceeding this limit may result in a university-wide loss of access to this\nresource.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Energy & Environment",
+        "Government & Public Policy"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "Market Research",
+        "Government & International Statistics"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "IEA Statistics Package",
+        "description": "Energy statistics resource from the International Energy Agency. Supports research on\nenergy production, consumption, trade, prices, and energy policy across countries.\n",
+        "image": "../Images/Datasets/iea-statistics-package.png",
+        "topic": "Financial & Market Data, Market Research, Government & International Statistics",
+        "site": "https://guides.library.yale.edu/iea"
+      }
+    },
+    {
+      "categories1": [
+        "Energy & Environment",
+        "Business & Economics",
+        "Social Sciences"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "News & Current Events",
+        "ESG & Sustainability Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "ImpactAlpha",
+        "description": "News and analysis source covering impact investing, sustainable finance, social\nenterprise, and market-based approaches to social change. Supports ESG and social impact\nresearch.\n",
+        "image": "../Images/Datasets/impactalpha.png",
+        "topic": "Financial & Market Data, News & Current Events, ESG & Sustainability Data",
+        "site": "https://library.yale.edu/eresources/access/access-impactalpha",
+        "access-note": "Requires users to register for an individual account with a Yale email address.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Government & Public Policy",
+        "Social Sciences"
+      ],
+      "categories2": [
+        "Market Research",
+        "Government & International Statistics",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Indiastat",
+        "description": "Statistical database providing India-specific socioeconomic, industry, demographic, and\ngovernment data. Supports regional, policy, development, and market research on India.\n",
+        "image": "../Images/Datasets/indiastat.png",
+        "topic": "Market Research, Government & International Statistics, Data Platform",
+        "site": "https://library.yale.edu/eresources/access/access-indiastat"
+      }
+    },
+    {
+      "categories1": [
+        "Social Sciences",
+        "News & Media"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "News & Current Events",
+        "Workforce & Career Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Inside Philanthropy",
+        "description": "News and information platform covering foundations, major donors, grantmaking,\nphilanthropy jobs, and funding opportunities. Supports research on philanthropy and\nnonprofit funding.\n",
+        "image": "../Images/Datasets/inside-philanthropy.png",
+        "topic": "Company & Organization Data, News & Current Events, Workforce & Career Data",
+        "site": "https://library.yale.edu/eresources/access/access-inside-philanthropy",
+        "access-note": "Requires users to register for an individual account.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Government & Public Policy"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "Market Research",
+        "Government & International Statistics"
+      ],
+      "categories3": [
+        "Open access"
+      ],
+      "tile": {
+        "title": "International Financial Statistics - IMF",
+        "description": "IMF statistical database covering international and domestic finance, monetary indicators,\nexchange rates, prices, production, and national accounts. Supports macroeconomic and\ninternational finance research.\n",
+        "image": "../Images/Datasets/international-financial-statistics-imf.png",
+        "topic": "Financial & Market Data, Market Research, Government & International Statistics",
+        "provider": "IMF",
+        "site": "http://data.imf.org/IFS"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Humanities & History",
+        "Scholarly Literature"
+      ],
+      "categories2": [
+        "Scholarly Indexes & Literature",
+        "Historical Archives"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "JSTOR",
+        "description": "Digital archive of scholarly journals, books, and primary sources across many disciplines.\nSupports literature reviews and historical research in business and related fields.\n",
+        "image": "../Images/Datasets/jstor.png",
+        "topic": "Scholarly Indexes & Literature, Historical Archives",
+        "provider": "JSTOR",
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb1517"
+      }
+    },
+    {
+      "categories1": [
+        "News & Media"
+      ],
+      "categories2": [
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Kanopy",
+        "description": "Streaming video platform offering educational films and documentaries across a range of\nsubject areas. Useful for teaching, course support, and media-based research.\n",
+        "image": "../Images/Datasets/kanopy.png",
+        "topic": "Data Platform",
+        "site": "https://search.library.yale.edu/catalog/12778063"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Government & Public Policy",
+        "Social Sciences"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Geospatial & Mapping Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Leadership Connect",
+        "description": "Directory of leaders and organizations in business, government, and nonprofit sectors in\nthe United States. Useful for contact research and organizational mapping.\n",
+        "image": "../Images/Datasets/leadership-connect.png",
+        "topic": "Company & Organization Data, Geospatial & Mapping Data",
+        "site": "https://library.yale.edu/eresources/access/access-leadership-connect",
+        "access-note": "Requires users to sign in with an @Yale.edu email address. Users will be directed to the\nYale CAS sign-in page. Note: The export function is not available with our subscription.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Financial & Market Data",
+        "Market Research"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "LSEG",
+        "description": "Financial markets platform providing company financials, filings, estimates, transactions,\nmarket data, and analyst research. Supports investment, corporate finance, and market\nresearch.\n",
+        "image": "../Images/Datasets/lseg.png",
+        "topic": "Company & Organization Data, Financial & Market Data, Market Research",
+        "provider": "LSEG",
+        "site": "https://guides.library.yale.edu/Workspace/",
+        "access-note": "Requires users to register for an individual account.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Humanities & History"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "Historical Archives"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "LSEG Tick History",
+        "description": "Historical intraday market data source with time-and-sales, quotes, and market-depth data\nfor futures. Supports high-frequency finance and market microstructure research.\n",
+        "image": "../Images/Datasets/lseg-tick-history.png",
+        "topic": "Financial & Market Data, Historical Archives",
+        "provider": "LSEG",
+        "site": "https://guides.library.yale.edu/LSEG_Tick_History",
+        "access-note": "email to request access: business.reference@yale.edu\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Government & Public Policy",
+        "Social Sciences"
+      ],
+      "categories2": [
+        "Scholarly Indexes & Literature",
+        "Historical Archives"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Making of the Modern World",
+        "description": "Digital archive of economic and business literature published from 1450 through 1850.\nSupports historical research on commerce, political economy, and social thought.\n",
+        "image": "../Images/Datasets/making-of-the-modern-world.png",
+        "topic": "Scholarly Indexes & Literature, Historical Archives",
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb859"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "News & Media",
+        "Humanities & History"
+      ],
+      "categories2": [
+        "Market Research",
+        "Historical Archives"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Market Research & American Business, 1935-1965",
+        "description": "Digital archive of market research reports and consumer studies from mid-twentieth-century\nAmerican business. Supports research on advertising, consumer culture, and business\nhistory.\n",
+        "image": "../Images/Datasets/market-research-american-business-1935-1965.png",
+        "topic": "Market Research, Historical Archives",
+        "site": "https://yale.idm.oclc.org/login?URL=http://www.consumerculture.amdigital.co.uk/"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Social Sciences"
+      ],
+      "categories2": [
+        "Market Research",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "MarketResearch.com Academic",
+        "description": "Market research platform providing reports on consumer, demographic, lifestyle,\nindustrial, and product markets. Supports industry analysis, market sizing, and consumer\nresearch.\n",
+        "image": "../Images/Datasets/marketresearch-com-academic.png",
+        "topic": "Market Research, Data Platform",
+        "site": "https://yale.idm.oclc.org/login?url=https://www.marketresearch.com/academic/"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "News & Media"
+      ],
+      "categories2": [
+        "Market Research",
+        "News & Current Events",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Media Radar 360",
+        "description": "Advertising intelligence platform covering advertising expenditures across television,\nradio, magazines, newspapers, and other media. Supports media planning and advertising\nmarket research.\n",
+        "image": "../Images/Datasets/media-radar-360.png",
+        "topic": "Market Research, News & Current Events, Data Platform",
+        "site": "https://yale.idm.oclc.org/login?URL=https://yale.idm.oclc.org/login?url=https://edu.app.vivvix.com"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Humanities & History"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Financial & Market Data",
+        "Historical Archives"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Mergent Archives",
+        "description": "Historical corporate document archive including corporate manuals, municipal manuals, and\nannual reports. Supports company history, financial history, and archival business\nresearch.\n",
+        "image": "../Images/Datasets/mergent-archives.png",
+        "topic": "Company & Organization Data, Financial & Market Data, Historical Archives",
+        "site": "https://yale.idm.oclc.org/login?url=https://www.mergentarchives.com/search.php"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Market Research"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Mergent Intellect",
+        "description": "Global business directory with public and private company data, executive contacts, and\nindustry research from D&B Hoovers. Supports company and market research.\n",
+        "image": "../Images/Datasets/mergent-intellect.png",
+        "topic": "Company & Organization Data, Market Research",
+        "site": "https://yale.idm.oclc.org/login?URL=https://yale.idm.oclc.org/login?URL=https://www.mergentintellect.com"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Government & Public Policy",
+        "Humanities & History"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "Market Research",
+        "Historical Archives"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Mergent Municipal Bond Database",
+        "description": "Dataset of municipal bond attributes with historical coverage dating back several decades.\nSupports fixed income, public finance, and municipal market research.\n",
+        "image": "../Images/Datasets/mergent-municipal-bond-database.png",
+        "topic": "Financial & Market Data, Market Research, Historical Archives",
+        "site": "http://search.library.yale.edu/catalog/14077868"
+      }
+    },
+    {
+      "categories1": [
+        "Health & Medicine",
+        "Business & Economics",
+        "Technology & Innovation"
+      ],
+      "categories2": [
+        "Market Research",
+        "Health & Biomedical Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Mintel GNPD",
+        "description": "Global product database tracking new consumer packaged goods across food, beverage,\nhousehold, beauty, health, and pet sectors. Supports product innovation and market\nresearch.\n",
+        "image": "../Images/Datasets/mintel-gnpd.png",
+        "topic": "Market Research, Health & Biomedical Data, Data Platform",
+        "provider": "Mintel",
+        "site": "https://library.yale.edu/eresources/access/access-mintel?_ga=2.202669273.931541240.1636380257-883986010.1630510795",
+        "access-note": "Requires users to create a profile using your @yale.edu email address. Find step-by-step\ninstructions for accessing Mintel GNPD in Yale Business Answers Now.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "News & Media"
+      ],
+      "categories2": [
+        "Market Research",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Mintel Reports",
+        "description": "Consumer market research platform with reports on U.S. and global markets, consumer\nattitudes, segmentation, and purchasing behavior. Supports marketing and consumer\nresearch.\n",
+        "image": "../Images/Datasets/mintel-reports.png",
+        "topic": "Market Research, Data Platform",
+        "provider": "Mintel",
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb902"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "GIS & Spatial Data"
+      ],
+      "categories2": [
+        "Survey & Polling Data",
+        "Real Estate & Property Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Moody's CRE",
+        "description": "Commercial real estate database with property data, rent levels, vacancy rates, sales\ncomparables, forecasts, and market trends. Supports real estate and urban economics\nresearch.\n",
+        "image": "../Images/Datasets/moody-s-cre.png",
+        "topic": "Survey & Polling Data, Real Estate & Property Data, Data Platform",
+        "provider": "Moody's",
+        "site": "https://library.yale.edu/eresources/access/access-moodys",
+        "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUNlVINUhVVUZNMTJFRFgyNjdQM0lCMklNTiQlQCN0PWcu&route=shorturl",
+        "access-note": "Requires users to request an individual account with a Yale email address.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Moody's Default & Recovery Database",
+        "description": "Credit risk database covering ratings, defaults, and recovery data for global sovereign\nand corporate debt securities. Supports fixed income and credit risk research.\n",
+        "image": "../Images/Datasets/moody-s-default-recovery-database.png",
+        "topic": "Financial & Market Data, Data Platform",
+        "provider": "Moody's",
+        "site": "https://library.yale.edu/eresources/access/access-moodys",
+        "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUNlVINUhVVUZNMTJFRFgyNjdQM0lCMklNTiQlQCN0PWcu&route=shorturl",
+        "access-note": "Requires users to request an individual account with a Yale email address.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Financial & Market Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "Workstation access"
+      ],
+      "tile": {
+        "title": "Morningstar Direct",
+        "description": "Investment database and analytics platform covering funds, indexes, portfolios, ownership,\nand performance data worldwide. Supports investment analysis and asset management\nresearch.\n",
+        "image": "../Images/Datasets/morningstar-direct.png",
+        "topic": "Company & Organization Data, Financial & Market Data, Data Platform",
+        "site": "https://guides.library.yale.edu/MorningstarDirect",
+        "access-note": "Available at Marx Library on a dedicated workstation.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Government & Public Policy",
+        "News & Media"
+      ],
+      "categories2": [
+        "News & Current Events",
+        "Real Estate & Property Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "New York Times",
+        "description": "Digital news source providing current and archival reporting on politics, business,\nculture, science, and global affairs. Supports current awareness and news research.\n",
+        "image": "../Images/Datasets/new-york-times.png",
+        "topic": "News & Current Events, Real Estate & Property Data",
+        "site": "https://library.yale.edu/eresources/access/access-nytcom"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "News & Media"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "News & Current Events",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Nexis Uni",
+        "description": "Full-text news, business, legal, and company information database. Supports research using\nnewspapers, magazines, transcripts, legal sources, and company profiles.\n",
+        "image": "../Images/Datasets/nexis-uni.png",
+        "topic": "Company & Organization Data, News & Current Events, Data Platform",
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb2398"
+      }
+    },
+    {
+      "categories1": [
+        "Energy & Environment",
+        "Business & Economics",
+        "Government & Public Policy"
+      ],
+      "categories2": [
+        "Government & International Statistics",
+        "Scholarly Indexes & Literature",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "OECD iLibrary",
+        "description": "OECD platform providing books, reports, journals, and statistical data on economics,\npolicy, development, education, environment, and society. Supports comparative policy\nresearch.\n",
+        "image": "../Images/Datasets/oecd-ilibrary.png",
+        "topic": "Government & International Statistics, Scholarly Indexes & Literature, Data Platform",
+        "provider": "OECD",
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb975"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Financial & Market Data",
+        "Government & International Statistics"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Orbis",
+        "description": "Global company database covering public and private firms, ownership structures,\nfinancials, and corporate relationships. Valuable for international business and\norganizational research.\n",
+        "image": "../Images/Datasets/orbis.png",
+        "topic": "Company & Organization Data, Financial & Market Data, Government & International Statistics",
+        "provider": "Moody's",
+        "site": "https://yale.idm.oclc.org/login?url=https://orbis.bvdinfo.com/ip",
+        "access-note": "Point in-time historical data available by request\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Humanities & History"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Financial & Market Data",
+        "Historical Archives"
+      ],
+      "categories3": [
+        "Locally hosted at Yale"
+      ],
+      "tile": {
+        "title": "Orbis Historical",
+        "description": "Historical company dataset from Orbis providing point-in-time information for longitudinal\nbusiness research. Supports analysis of firm characteristics, ownership, and financial\ndata over time.\n",
+        "image": "../Images/Datasets/orbis-historical.png",
+        "topic": "Company & Organization Data, Financial & Market Data, Historical Archives",
+        "provider": "Moody's",
+        "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUQ0lDR1NIMkwxUVRPUVNIWTZMV1FCVzc2QSQlQCN0PWcu"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "GIS & Spatial Data",
+        "Technology & Innovation"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Survey & Polling Data",
+        "Real Estate & Property Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Orbis Intellectual Property",
+        "description": "Patent and company intelligence platform linking global patent data to corporate\ninformation. Supports research on innovation, intellectual property, technology strategy,\nand firms.\n",
+        "image": "../Images/Datasets/orbis-intellectual-property.png",
+        "topic": "Company & Organization Data, Survey & Polling Data, Real Estate & Property Data",
+        "provider": "Moody's",
+        "site": "https://yale.idm.oclc.org/login?URL=https://orbisip-r1.bvdinfo.com/ip"
+      }
+    },
+    {
+      "categories1": [
+        "General Research"
+      ],
+      "categories2": [
+        "Market Research",
+        "Trade & Supply Chain Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "Locally hosted at Yale"
+      ],
+      "tile": {
+        "title": "Panjiva",
+        "description": "Global trade database with import and export records, suppliers, buyers, products, and\nshipment trends. Supports supply chain, trade, and sourcing research.\n",
+        "image": "../Images/Datasets/panjiva.png",
+        "topic": "Market Research, Trade & Supply Chain Data, Data Platform",
+        "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUNUxHUEEyOEI4WDNRRVhJMzI3SVA1M01QQyQlQCN0PWcu&route=shorturl",
+        "access-note": "Requires users to request an individual account with a Yale email address.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "Market Research",
+        "Government & International Statistics"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Passport",
+        "description": "Market research platform from Euromonitor with consumer, industry, country, and market\ndata. Supports international market analysis, consumer trends, and business research.\n",
+        "image": "../Images/Datasets/passport.png",
+        "topic": "Financial & Market Data, Market Research, Government & International Statistics",
+        "provider": "Euromonitor",
+        "site": "http://web.library.yale.edu/access-passport"
+      }
+    },
+    {
+      "categories1": [
+        "Health & Medicine",
+        "Business & Economics",
+        "GIS & Spatial Data"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Market Research",
+        "Government & International Statistics"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Pharmaprojects",
+        "description": "Pharmaceutical research and development database tracking drugs by company, disease,\ntherapeutic class, and development phase. Supports drug pipeline and biomedical market\nresearch.\n",
+        "image": "../Images/Datasets/pharmaprojects.png",
+        "topic": "Company & Organization Data, Market Research, Government & International Statistics",
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb2273",
+        "access-note": "Requires users to register for an individual account.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Financial & Market Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Pitchbook",
+        "description": "Private capital database covering companies, investors, funds, deals, exits, and service\nproviders. Supports venture capital, private equity, and entrepreneurship research.\n",
+        "image": "../Images/Datasets/pitchbook.png",
+        "topic": "Company & Organization Data, Financial & Market Data, Data Platform",
+        "site": "https://library.yale.edu/eresources/access/access-pitchbook",
+        "access-note": "Requires users to sign in with an @Yale.edu email address. Users will be directed to the\nYale CAS sign-in page. Do not click \"Log in without SSO\" even if you had an individual\naccount previously. Commercial use is prohibited. Users are limited to 10 downloads per\nday and 25 downloads per month. (1 download = 1 row of data on an Excel file). Accounts\nwill automatically be reset annually on May 31.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Health & Medicine",
+        "Business & Economics",
+        "Government & Public Policy"
+      ],
+      "categories2": [
+        "Geospatial & Mapping Data",
+        "Real Estate & Property Data",
+        "Health & Biomedical Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "PolicyMap",
+        "description": "Interactive mapping platform combining demographic, housing, health, economic, and policy\ndata from public and proprietary sources. Supports place-based research and spatial\nanalysis.\n",
+        "image": "../Images/Datasets/policymap.png",
+        "topic": "Geospatial & Mapping Data, Real Estate & Property Data, Health & Biomedical Data",
+        "site": "https://www.policymap.com/newmaps/e/yale"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Government & Public Policy"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "Government & International Statistics"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Political Risk Yearbook",
+        "description": "Country risk publication providing political, financial, and economic risk assessments for\ninternational business and investment. Supports global strategy and policy research.\n",
+        "image": "../Images/Datasets/political-risk-yearbook.png",
+        "topic": "Financial & Market Data, Government & International Statistics",
+        "site": "https://yale.idm.oclc.org/login?url=https://epub.prsgroup.com/customer/pry/"
+      }
+    },
+    {
+      "categories1": [
+        "Energy & Environment",
+        "Government & Public Policy",
+        "GIS & Spatial Data"
+      ],
+      "categories2": [
+        "News & Current Events",
+        "Government & International Statistics",
+        "Geospatial & Mapping Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Politico Pro",
+        "description": "Policy intelligence platform covering legislative, regulatory, and political developments,\nincluding energy and environment news. Supports government, policy, and advocacy research.\n",
+        "image": "../Images/Datasets/politico-pro.png",
+        "topic": "News & Current Events, Government & International Statistics, Geospatial & Mapping Data",
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb2498"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "GIS & Spatial Data"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "Real Estate & Property Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Preqin",
+        "description": "Alternative assets database covering private equity, private debt, real estate,\ninfrastructure, natural resources, and hedge funds. Supports private markets and\ninvestment research.\n",
+        "image": "../Images/Datasets/preqin.png",
+        "topic": "Financial & Market Data, Real Estate & Property Data, Data Platform",
+        "site": "http://web.library.yale.edu/access-preqin",
+        "access-note": "Private data from Preqin is available in WRDS.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Financial & Market Data",
+        "Market Research"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "PrivCo",
+        "description": "Business and financial database focused on major private companies, including\nventure-backed, family-owned, and private-equity-owned firms. Supports private company and\nmarket research.\n",
+        "image": "../Images/Datasets/privco.png",
+        "topic": "Company & Organization Data, Financial & Market Data, Market Research",
+        "site": "https://yale.idm.oclc.org/login?URL=http://hdl.handle.net/10079/yuldb/yuldb1801",
+        "access-note": "Requires users to sign up for an account using a Yale email address.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Humanities & History",
+        "Scholarly Literature"
+      ],
+      "categories2": [
+        "Scholarly Indexes & Literature",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "ProQuest Dissertations & Theses Global",
+        "description": "Comprehensive database of dissertations and theses from universities worldwide. Supports\nliterature reviews, graduate research, and discovery of emerging scholarship.\n",
+        "image": "../Images/Datasets/proquest-dissertations-theses-global.png",
+        "topic": "Scholarly Indexes & Literature, Data Platform",
+        "provider": "ProQuest",
+        "site": "https://yale.idm.oclc.org/login?URL=https://search.proquest.com/pqdtglobal/index?accountid=15172"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Humanities & History",
+        "Technology & Innovation"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Financial & Market Data",
+        "Historical Archives"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Proquest Historical Annual Reports",
+        "description": "Digital archive of annual reports from major North American companies over more than a\ncentury. Supports corporate history, financial history, and business research.\n",
+        "image": "../Images/Datasets/proquest-historical-annual-reports.png",
+        "topic": "Company & Organization Data, Financial & Market Data, Historical Archives",
+        "provider": "ProQuest",
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb648"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Government & Public Policy",
+        "Social Sciences"
+      ],
+      "categories2": [
+        "Government & International Statistics",
+        "Scholarly Indexes & Literature",
+        "Historical Archives"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Proquest Statistical Abstract of the U.S.",
+        "description": "Statistical reference source summarizing U.S. demographic, economic, political, and social\ndata. Supports quick access to national statistics and historical context.\n",
+        "image": "../Images/Datasets/proquest-statistical-abstract-of-the-u-s.png",
+        "topic": "Government & International Statistics, Scholarly Indexes & Literature, Historical Archives",
+        "provider": "ProQuest",
+        "site": "https://yale.idm.oclc.org/login?url=https://statabs.proquest.com/sa"
+      }
+    },
+    {
+      "categories1": [
+        "Energy & Environment",
+        "News & Media",
+        "Technology & Innovation"
+      ],
+      "categories2": [
+        "Data Platform"
+      ],
+      "categories3": [
+        "Locally hosted at Yale"
+      ],
+      "tile": {
+        "title": "Pyrra Discovery Platform",
+        "description": "Research platform for monitoring online narratives, emerging communities, and digital\ninformation environments. Supports analysis of public discourse, media ecosystems, and\nonline activity.\n",
+        "image": "../Images/Datasets/pyrra-discovery-platform.png",
+        "topic": "Data Platform",
+        "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUMjVEOEYzTUVPMFJYOTdSNlQwTk4zSFFBVyQlQCN0PWcu&route=shorturl"
+      }
+    },
+    {
+      "categories1": [
+        "Health & Medicine",
+        "Business & Economics",
+        "News & Media"
+      ],
+      "categories2": [
+        "Market Research",
+        "Health & Biomedical Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "RKMA Market Research Handbook Series",
+        "description": "Downloadable market research handbooks covering consumer behavior, media, travel, retail,\nfood, healthcare, sports, and related sectors. Supports industry and market analysis.\n",
+        "image": "../Images/Datasets/rkma-market-research-handbook-series.png",
+        "topic": "Market Research, Health & Biomedical Data",
+        "site": "http://yale.idm.oclc.org/login?url=http://www.rkma.com/yale/archive/"
+      }
+    },
+    {
+      "categories1": [
+        "Government & Public Policy",
+        "Social Sciences"
+      ],
+      "categories2": [
+        "Survey & Polling Data",
+        "Historical Archives",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Roper iPOLL",
+        "description": "Public opinion database of U.S. national survey questions and responses dating back to\n1935. Supports polling, political behavior, and social trends research.\n",
+        "image": "../Images/Datasets/roper-ipoll.png",
+        "topic": "Survey & Polling Data, Historical Archives, Data Platform",
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb2725"
+      }
+    },
+    {
+      "categories1": [
+        "Energy & Environment",
+        "Business & Economics",
+        "GIS & Spatial Data"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Financial & Market Data",
+        "Market Research"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "S&P Capital IQ Pro",
+        "description": "Financial intelligence platform providing company, industry, market, credit, energy, and\nreal estate data. Supports investment, corporate finance, and industry research.\n",
+        "image": "../Images/Datasets/s-p-capital-iq-pro.png",
+        "topic": "Company & Organization Data, Financial & Market Data, Market Research",
+        "provider": "S&P",
+        "site": "https://web.library.yale.edu/access-sp-capital-iq-pro?_ga=2.137089200.1253860179.1681413501-14721893.1681413501",
+        "access-note": "Requires users to register for an individual account. Current Capital IQ account holders\ncan access the platform directly using the S&P Capital IQ Pro link in the upper right\ncorner of the Captial IQ page.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Social Sciences"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Financial & Market Data",
+        "Survey & Polling Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "S&P NetAdvantage",
+        "description": "Business research platform with company profiles, financials, industry surveys, stock\nreports, and screening tools. Supports company, industry, and investment research.\n",
+        "image": "../Images/Datasets/s-p-netadvantage.png",
+        "topic": "Company & Organization Data, Financial & Market Data, Survey & Polling Data",
+        "provider": "S&P",
+        "site": "https://yale.idm.oclc.org/login?url=http://na.capitaliq.com/ip/yale"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Government & Public Policy"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "S&P RatingsDirect (Available through S&P Capital IQ)",
+        "description": "Credit research platform providing S&P ratings, reports, and analysis for global bond\nissues. Supports fixed income, credit risk, and public finance research.\n",
+        "image": "../Images/Datasets/s-p-ratingsdirect-available-through-s-p-capital-iq.png",
+        "topic": "Financial & Market Data, Data Platform",
+        "provider": "S&P",
+        "site": "https://web.library.yale.edu/access-capital-iq",
+        "access-note": "To access, login to Capital IQ and select the Ratings Direct search option. Requires new\nusers to register for an account.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Health & Medicine",
+        "Business & Economics",
+        "Social Sciences"
+      ],
+      "categories2": [
+        "Health & Biomedical Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Sage Business Cases",
+        "description": "Collection of business case studies from global publishers and universities. Supports\nclassroom teaching and research in management, entrepreneurship, healthcare, and social\nenterprise.\n",
+        "image": "../Images/Datasets/sage-business-cases.png",
+        "topic": "Health & Biomedical Data",
+        "site": "https://sk.sagepub.com/cases",
+        "access-note": "Sage Business Cases are licensed for all Yale affiliates and can be used for classroom\nteaching.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Health & Medicine",
+        "Social Sciences",
+        "Humanities & History"
+      ],
+      "categories2": [
+        "Scholarly Indexes & Literature",
+        "Health & Biomedical Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Scopus",
+        "description": "Academic abstract and citation database covering peer-reviewed journals, conference\nproceedings, and books across scientific, medical, technical, and social science fields.\nSupports literature review and citation analysis.\n",
+        "image": "../Images/Datasets/scopus.png",
+        "topic": "Scholarly Indexes & Literature, Health & Biomedical Data, Data Platform",
+        "provider": "Elsevier",
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb1190"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "Locally hosted at Yale"
+      ],
+      "tile": {
+        "title": "SDC Platinum",
+        "description": "Transaction database covering new issues, bonds, syndicated loans, mergers and\nacquisitions, governance, private equity, and infrastructure. Supports corporate finance\nand deal research.\n",
+        "image": "../Images/Datasets/sdc-platinum.png",
+        "topic": "Financial & Market Data, Data Platform",
+        "site": "https://guides.library.yale.edu/Workspace/SDC",
+        "form": "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVURVFZWTdNSkxNR1JZV01ITjdPWElHUEo3SCQlQCN0PWcu&route=shorturl",
+        "access-note": "Available by request on LSEG Workpsace or WRDS.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Social Sciences",
+        "GIS & Spatial Data"
+      ],
+      "categories2": [
+        "Market Research",
+        "Geospatial & Mapping Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "SimplyAnalytics",
+        "description": "Web-based mapping and data platform with census, consumer, market, and local demographic\ndata. Supports geographic analysis, market research, and community studies.\n",
+        "image": "../Images/Datasets/simplyanalytics.png",
+        "topic": "Market Research, Geospatial & Mapping Data, Data Platform",
+        "site": "https://yale.idm.oclc.org/login?URL=http://hdl.handle.net/10079/yuldb/yuldb2326"
+      }
+    },
+    {
+      "categories1": [
+        "Social Sciences",
+        "GIS & Spatial Data",
+        "Humanities & History"
+      ],
+      "categories2": [
+        "Geospatial & Mapping Data",
+        "Historical Archives",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Social Explorer",
+        "description": "Interactive mapping and data platform providing demographic and census data for the United\nStates. Supports historical, spatial, and community-level research.\n",
+        "image": "../Images/Datasets/social-explorer.png",
+        "topic": "Geospatial & Mapping Data, Historical Archives, Data Platform",
+        "site": "https://yale.idm.oclc.org/login?URL=https://yale.idm.oclc.org/login?URL=http://www.socialexplorer.com/"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Social Sciences",
+        "News & Media"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "Market Research",
+        "News & Current Events"
+      ],
+      "categories3": [
+        "Open access"
+      ],
+      "tile": {
+        "title": "Social Science Research Network (SSRN)",
+        "description": "Repository of working papers, accepted papers, and abstracts across social science\ndisciplines. Supports discovery of current research in accounting, economics, finance,\nmarketing, and law.\n",
+        "image": "../Images/Datasets/social-science-research-network-ssrn.png",
+        "topic": "Financial & Market Data, Market Research, News & Current Events",
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb1208"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "News & Media"
+      ],
+      "categories2": [
+        "Market Research",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Sports Business Research Network (SBRnet)",
+        "description": "Sports market research platform with consumer, industry, participation, sponsorship, and\nexpenditure data. Supports sports business, marketing, and consumer behavior research.\n",
+        "image": "../Images/Datasets/sports-business-research-network-sbrnet.png",
+        "topic": "Market Research, Data Platform",
+        "site": "https://yale.idm.oclc.org/login?url=https://sportsmarketanalytics.com"
+      }
+    },
+    {
+      "categories1": [
+        "Health & Medicine",
+        "Business & Economics",
+        "Government & Public Policy"
+      ],
+      "categories2": [
+        "News & Current Events",
+        "Health & Biomedical Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "STAT+",
+        "description": "News and analysis platform covering biotechnology, pharmaceuticals, clinical trials,\nhealth policy, and healthcare business. Supports research on biomedical innovation and\nhealth industry trends.\n",
+        "image": "../Images/Datasets/stat.png",
+        "topic": "News & Current Events, Health & Biomedical Data, Data Platform",
+        "site": "https://library.yale.edu/eresources/access/access-stat-plus",
+        "access-note": "Requires users to register for an individual account with a Yale email address.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Market Research",
+        "Government & International Statistics"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Statista",
+        "description": "Statistics portal aggregating data, charts, infographics, dossiers, and reports from\nthousands of sources. Supports quick fact-finding, market research, and data\nvisualization.\n",
+        "image": "../Images/Datasets/statista.png",
+        "topic": "Market Research, Government & International Statistics",
+        "provider": "Statista",
+        "site": "https://www.statista.com/login/campus/"
+      }
+    },
+    {
+      "categories1": [
+        "Energy & Environment",
+        "Business & Economics",
+        "Government & Public Policy"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "News & Current Events",
+        "ESG & Sustainability Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Sustainable Views",
+        "description": "Financial Times publication covering sustainable finance, ESG policy, regulation, and\nmarket trends. Supports research on sustainability, investment, and corporate\nresponsibility.\n",
+        "image": "../Images/Datasets/sustainable-views.png",
+        "topic": "Financial & Market Data, News & Current Events, ESG & Sustainability Data",
+        "site": "https://search.library.yale.edu/catalog/17660885",
+        "access-note": "Requires users to request an individual account with a Yale email address.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Technology & Innovation"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Financial & Market Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "The Block Pro",
+        "description": "Research and data platform covering digital assets, cryptocurrency markets, blockchain\ncompanies, and industry trends. Supports research on crypto, fintech, and decentralized\nfinance.\n",
+        "image": "../Images/Datasets/the-block-pro.png",
+        "topic": "Company & Organization Data, Financial & Market Data, Data Platform",
+        "site": "https://web.library.yale.edu/access-block-research?_ga=2.30752639.1512418643.1662507458-1442532518.1662507458",
+        "access-note": "Requires users to register for an account with a valid Yale email address.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Government & Public Policy",
+        "News & Media"
+      ],
+      "categories2": [
+        "News & Current Events",
+        "Government & International Statistics",
+        "Real Estate & Property Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "The Economist",
+        "description": "Current and archival magazine source covering world affairs, economics, business,\npolitics, science, and culture. Supports current awareness and international policy\nresearch.\n",
+        "image": "../Images/Datasets/the-economist.png",
+        "topic": "News & Current Events, Government & International Statistics, Real Estate & Property Data",
+        "site": "https://yale.idm.oclc.org/login?URL=https://yale.idm.oclc.org/login?URL=https://web.library.yale.edu/economist",
+        "access-note": "Requires users to register for an individual account with a Yale email address for access.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "News & Media",
+        "Technology & Innovation"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Financial & Market Data",
+        "News & Current Events"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "The Information",
+        "description": "Technology business news source with reporting on companies, startups, platforms, venture\ncapital, and digital markets. Supports research on technology industries and strategy.\n",
+        "image": "../Images/Datasets/the-information.png",
+        "topic": "Company & Organization Data, Financial & Market Data, News & Current Events",
+        "site": "https://library.yale.edu/eresources/access/access-theinformation",
+        "access-note": "Requires users to register for an individual account with a Yale email address. Please\nnote: The Information Pro content is not included with academic or university\nsubscriptions.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Government & International Statistics",
+        "Trade & Supply Chain Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "Open access"
+      ],
+      "tile": {
+        "title": "UN Comtrade Premium",
+        "description": "International trade database providing detailed commodity and partner-country statistics\nreported by national authorities. Supports trade, supply chain, and economic research.\n",
+        "image": "../Images/Datasets/un-comtrade-premium.png",
+        "topic": "Government & International Statistics, Trade & Supply Chain Data, Data Platform",
+        "provider": "United Nations",
+        "site": "https://library.yale.edu/eresources/access/access-un-comtrade"
+      }
+    },
+    {
+      "categories1": [
+        "Energy & Environment",
+        "Business & Economics",
+        "Social Sciences"
+      ],
+      "categories2": [
+        "Government & International Statistics",
+        "Data Platform"
+      ],
+      "categories3": [
+        "Open access"
+      ],
+      "tile": {
+        "title": "UNdata",
+        "description": "United Nations statistical portal combining data from multiple UN databases. Supports\ncross-national research on demographics, economics, development, environment, and society.\n",
+        "image": "../Images/Datasets/undata.png",
+        "topic": "Government & International Statistics, Data Platform",
+        "provider": "United Nations",
+        "site": "http://data.un.org/Default.aspx"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Social Sciences"
+      ],
+      "categories2": [
+        "Market Research",
+        "Workforce & Career Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Vault",
+        "description": "Career research platform with employer profiles, industry guides, rankings, interview\nadvice, and job search resources. Supports career exploration and labor market research.\n",
+        "image": "../Images/Datasets/vault.png",
+        "topic": "Market Research, Workforce & Career Data, Data Platform",
+        "site": "https://yale.firsthand.co/",
+        "access-note": "Current students, faculty, and staff can log in to Vault with their NetID.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Humanities & History"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "Government & International Statistics",
+        "Historical Archives"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "VitalLaw - Blue Chip Publications",
+        "description": "Economic forecasting resource providing Blue Chip consensus forecasts and archived\nindicators in Excel and PDF formats. Supports macroeconomic, financial, and forecasting\nresearch.\n",
+        "image": "../Images/Datasets/vitallaw-blue-chip-publications.png",
+        "topic": "Financial & Market Data, Government & International Statistics, Historical Archives",
+        "site": "https://library.yale.edu/eresources/access/access-blue-chip-economic-indicators?app=yalesites",
+        "access-note": "Requires users to register for an account with a Yale email address for access.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Government & Public Policy",
+        "News & Media"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "News & Current Events",
+        "Scholarly Indexes & Literature"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Wall Street Journal Online",
+        "description": "Digital newspaper covering business, finance, markets, politics, technology, and global\nnews. Supports current awareness and business news research.\n",
+        "image": "../Images/Datasets/wall-street-journal-online.png",
+        "topic": "Financial & Market Data, News & Current Events, Scholarly Indexes & Literature",
+        "site": "https://web.library.yale.edu/access-wall-street-journal"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "News & Media"
+      ],
+      "categories2": [
+        "Market Research",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "WARC",
+        "description": "Advertising and marketing intelligence platform with case studies, best practices, brand\ninsights, and industry analysis. Supports marketing strategy, media, and consumer\nresearch.\n",
+        "image": "../Images/Datasets/warc.png",
+        "topic": "Market Research, Data Platform",
+        "site": "https://yale.idm.oclc.org/login?url=https://www.warc.com"
+      }
+    },
+    {
+      "categories1": [
+        "Humanities & History",
+        "Scholarly Literature"
+      ],
+      "categories2": [
+        "Scholarly Indexes & Literature"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "Web of Science",
+        "description": "Multidisciplinary citation index covering journals, conference proceedings, data sets, and\nscholarly resources. Supports literature review, citation analysis, and research impact\nassessment.\n",
+        "image": "../Images/Datasets/web-of-science.png",
+        "topic": "Scholarly Indexes & Literature",
+        "site": "https://hdl.handle.net/10079/yuldb/yuldb1332"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Government & Public Policy"
+      ],
+      "categories2": [
+        "Government & International Statistics",
+        "Data Platform"
+      ],
+      "categories3": [
+        "Open access"
+      ],
+      "tile": {
+        "title": "World Development Indicators",
+        "description": "World Bank database of global development indicators compiled from official country,\nregional, and international sources. Supports development economics and comparative policy\nresearch.\n",
+        "image": "../Images/Datasets/world-development-indicators.png",
+        "topic": "Government & International Statistics, Data Platform",
+        "provider": "World Bank",
+        "site": "http://hdl.handle.net/10079/yuldb/yuldb1387"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Government & Public Policy"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "WRDS - Bank Regulatory Database",
+        "description": "WRDS dataset containing accounting data for regulated U.S. depository institutions,\nincluding bank holding companies, commercial banks, savings banks, and savings and loans.\n",
+        "image": "../Images/Datasets/wrds-bank-regulatory-database.png",
+        "topic": "Company & Organization Data, Data Platform",
+        "provider": "WRDS",
+        "site": "https://wrds-www.wharton.upenn.edu/login/?next=/pages/get-data/bank-regulatory/",
+        "access-note": "A WRDS account is required to access this data.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Financial & Market Data",
+        "Trade & Supply Chain Data"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "WRDS - Compustat",
+        "description": "Comprehensive financial and accounting database covering publicly traded companies.\nIncludes income statements, balance sheets, cash flows, and company fundamentals for\nquantitative research.\n",
+        "image": "../Images/Datasets/wrds-compustat.png",
+        "topic": "Company & Organization Data, Financial & Market Data, Trade & Supply Chain Data",
+        "provider": "WRDS",
+        "site": "https://wrds-www.wharton.upenn.edu/login/?next=/pages/get-data/compustat-capital-iq-standard-poors/",
+        "access-note": "An individual WRDS account is required to access this data.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Humanities & History"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "Historical Archives",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "WRDS - CRSP",
+        "description": "Historical database of stock prices, returns, and trading activity for U.S. equity\nmarkets. A foundational resource for finance and investment research.\n",
+        "image": "../Images/Datasets/wrds-crsp.png",
+        "topic": "Financial & Market Data, Historical Archives, Data Platform",
+        "provider": "WRDS",
+        "site": "https://wrds-www.wharton.upenn.edu/login/?next=/pages/get-data/center-research-security-prices-crsp/",
+        "access-note": "An individual WRDS account is required to access this data.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Social Sciences",
+        "GIS & Spatial Data"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Geospatial & Mapping Data",
+        "Historical Archives"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "WRDS - Infogroup U.S. Historical Businesses Data",
+        "description": "Historical establishment-level database for U.S. businesses with location, industry, and\ncompany records. Supports business demographics, economic geography, and longitudinal firm\nresearch.\n",
+        "image": "../Images/Datasets/wrds-infogroup-u-s-historical-businesses-data.png",
+        "topic": "Company & Organization Data, Geospatial & Mapping Data, Historical Archives",
+        "provider": "WRDS",
+        "site": "https://wrds-www.wharton.upenn.edu/login/?next=/pages/get-data/infogroup/",
+        "access-note": "An individual WRDS account is required to access this data. A subset of this data is\navailable in Data Axle (2003 - present). Previewing this data in Data Axle is encouraged.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics",
+        "Social Sciences"
+      ],
+      "categories2": [
+        "Company & Organization Data",
+        "Workforce & Career Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "WRDS - Revelio",
+        "description": "Workforce analytics dataset covering job postings, employee work histories, reviews, and\nworkforce dynamics. Supports labor market, human capital, and organizational research.\n",
+        "image": "../Images/Datasets/wrds-revelio.png",
+        "topic": "Company & Organization Data, Workforce & Career Data, Data Platform",
+        "provider": "WRDS",
+        "site": "https://wrds-www.wharton.upenn.edu/pages/get-data/revelio-labs/",
+        "access-note": "An individual WRDS account is required to access this data.\n"
+      }
+    },
+    {
+      "categories1": [
+        "Business & Economics"
+      ],
+      "categories2": [
+        "Financial & Market Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "WRDS - Wharton Research Data Service",
+        "description": "Research platform providing access to financial, accounting, banking, economic, and market\ndatasets. Supports empirical research using licensed business and finance data.\n",
+        "image": "../Images/Datasets/wrds-wharton-research-data-service.png",
+        "topic": "Financial & Market Data, Data Platform",
+        "provider": "WRDS",
+        "site": "https://wrds-www.wharton.upenn.edu/pages/"
+      }
+    },
+    {
+      "categories1": [
+        "Energy & Environment"
+      ],
+      "categories2": [
+        "ESG & Sustainability Data",
+        "Data Platform"
+      ],
+      "categories3": [
+        "External platform"
+      ],
+      "tile": {
+        "title": "WRDS- S&P Global ESG Scores",
+        "description": "WRDS dataset containing S&P ESG scores, Trucost environmental data, and climate analytics.\nSupports research on corporate sustainability, environmental impact, and climate risk.\n",
+        "image": "../Images/Datasets/wrds-s-p-global-esg-scores.png",
+        "topic": "ESG & Sustainability Data, Data Platform",
+        "provider": "WRDS",
+        "site": "https://wrds-www.wharton.upenn.edu/",
+        "access-note": "An individual WRDS account is required to access this data.\n"
+      }
+    }
+  ]
+}
