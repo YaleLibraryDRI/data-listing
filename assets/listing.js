@@ -46,17 +46,32 @@ function cardTemplate(item) {
     <div class="dataset-card">
       <div class="card-body">
 
-        <h3>${tile.title || "Untitled"}</h3>
-
-        <p>${tile.description || ""}</p>
+        <h3 class="card-title">
+          ${tile.title || "Untitled"}
+        </h3>
 
         ${
-          tile.site
-            ? `<a class="card-link primary" href="${tile.site}" target="_blank">
-                Access Resource
-               </a>`
+          tile.provider
+            ? `<div class="card-provider">${tile.provider}</div>`
             : ""
         }
+
+        <div class="card-description">
+          ${tile.description || ""}
+        </div>
+
+        <div class="card-footer">
+          ${
+            tile.site
+              ? `<a class="card-link primary"
+                   href="${tile.site}"
+                   target="_blank"
+                   rel="noopener">
+                   Access Resource
+                 </a>`
+              : ""
+          }
+        </div>
 
       </div>
     </div>
