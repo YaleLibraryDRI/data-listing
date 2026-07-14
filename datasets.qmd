@@ -14,36 +14,56 @@ page-layout: full
     <p>Start with commonly used platforms for data discovery, analysis, and access.</p>
   </div>
 
-  <div class="featured-grid">
+<div class="featured-grid">
 
-    <a class="featured-card" href="#">
-      <div class="featured-label">Locally hosted at Yale</div>
-      <h3>Yale Data Green</h3>
-      <p>Yale’s Redivis-based platform for discovering and accessing curated research datasets.</p>
-      <span class="featured-action">Explore platform</span>
+  <div class="featured-card">
+    <div class="featured-label">Locally hosted at Yale</div>
+    <h3>Yale Data Green</h3>
+    <p>Yale's Redivis-based platform for discovering and accessing curated research datasets.</p>
+    <a class="featured-action"
+       href="https://yale.redivis.com"
+       target="_blank"
+       rel="noopener">
+       Explore Platform
     </a>
+  </div>
 
-    <a class="featured-card" href="#">
-      <div class="featured-label">External platform</div>
-      <h3>WRDS - Wharton Research Data Service</h3>
-      <p>Financial, accounting, banking, economic, and market datasets for empirical research.</p>
-      <span class="featured-action">Explore platform</span>
-    </a>
-
-    <a class="featured-card" href="#">
-      <div class="featured-label">Access resource</div>
-      <h3>Dewey Data</h3>
-      <p>Third-party research datasets across industries including consumer behavior, transportation, and workforce data.</p>
-      <span class="featured-action">Explore platform</span>
-    </a>
-
-    <a class="featured-card" href="#">
+  <div class="featured-card">
     <div class="featured-label">External platform</div>
-      <h3>ProQuest TDM Studio</h3>
-      <p>Text and data mining platform for working with licensed text-based collections. More details coming soon.</p>
-      <span class="featured-action">Explore platform</span>
+    <h3>WRDS - Wharton Research Data Service</h3>
+    <p>Financial, accounting, banking, economic, and market datasets for empirical research.</p>
+    <a class="featured-action"
+       href="https://wrds-www.wharton.upenn.edu/"
+       target="_blank"
+       rel="noopener">
+       Explore Platform
     </a>
-    </div>
+  </div>
+
+  <div class="featured-card">
+    <div class="featured-label">External platform</div>
+    <h3>Dewey Data</h3>
+    <p>Third-party research datasets across industries including consumer behavior, transportation, and workforce data.</p>
+    <a class="featured-action"
+       href="https://www.deweydata.io/"
+       target="_blank"
+       rel="noopener">
+       Explore Platform
+    </a>
+  </div>
+
+  <div class="featured-card">
+    <div class="featured-label">External platform</div>
+    <h3>ProQuest TDM Studio</h3>
+    <p>Text and data mining platform providing access to licensed scholarly and news content for computational analysis, corpus building, and digital scholarship.</p>
+    <a class="featured-action"
+       href="https://library.yale.edu/eresources/access/access-tdm-studio"
+       target="_blank"
+       rel="noopener">
+       Explore Platform
+    </a>
+  </div>
+
 
 <div id="listing-controls" class="listing-controls">
 
