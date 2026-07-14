@@ -50,12 +50,6 @@ function cardTemplate(item) {
           ${tile.title || "Untitled"}
         </h3>
 
-        ${
-          tile.provider
-            ? `<div class="card-provider">${tile.provider}</div>`
-            : ""
-        }
-
         <div class="card-description">
           ${tile.description || ""}
         </div>
