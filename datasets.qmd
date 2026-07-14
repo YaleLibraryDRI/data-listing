@@ -17,7 +17,7 @@ page-layout: full
 <div class="featured-grid">
 
   <div class="featured-card">
-    <div class="featured-label">Locally hosted at Yale</div>
+    <div class="featured-label">Hosted by Yale Library</div>
     <h3>Yale Data Green</h3>
     <p>Yale's Redivis-based platform for discovering and accessing curated research datasets.</p>
     <a class="featured-action"
