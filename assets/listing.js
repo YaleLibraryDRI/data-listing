@@ -109,4 +109,117 @@ function filteredItems() {
       (item.categories1 || []).includes(state.subject);
 
     const matchesType =
-      !state
+      !state.type ||
+      (item.categories2 || []).includes(state.type);
+
+    const matchesAccess =
+      !state.access ||
+      (item.categories3 || []).includes(state.access);
+
+    return (
+      matchesSearch &&
+      matchesSubject &&
+      matchesType &&
+      matchesAccess
+    );
+  });
+}
+
+function render() {
+  const results = filteredItems();
+
+  if (els.resultCount) {
+    els.resultCount.textContent =
+      `${results.length} resources shown`;
+  }
+
+  if (!els.grid) return;
+
+  els.grid.innerHTML =
+    results.map(cardTemplate).join("");
+}
+
+fetch(DATA_URL)
+  .then(response => response.json())
+  .then(data => {
+
+    state.items = data.items || [];
+
+    state.items.sort((a, b) => {
+      const aTitle =
+        (a.tile?.title || "").toLowerCase();
+
+      const bTitle =
+        (b.tile?.title || "").toLowerCase();
+
+      return aTitle.localeCompare(bTitle);
+    });
+
+    fillSelect(
+      els.subject,
+      uniqueSorted(state.items, "categories1")
+    );
+
+    fillSelect(
+      els.type,
+      uniqueSorted(state.items, "categories2")
+    );
+
+    fillSelect(
+      els.access,
+      uniqueSorted(state.items, "categories3")
+    );
+
+    render();
+  })
+  .catch(error => {
+    console.error(
+      "Failed to load data:",
+      error
+    );
+  });
+
+if (els.search) {
+  els.search.addEventListener("input", e => {
+    state.search = e.target.value;
+    render();
+  });
+}
+
+if (els.subject) {
+  els.subject.addEventListener("change", e => {
+    state.subject = e.target.value;
+    render();
+  });
+}
+
+if (els.type) {
+  els.type.addEventListener("change", e => {
+    state.type = e.target.value;
+    render();
+  });
+}
+
+if (els.access) {
+  els.access.addEventListener("change", e => {
+    state.access = e.target.value;
+    render();
+  });
+}
+
+if (els.clear) {
+  els.clear.addEventListener("click", () => {
+
+    state.search = "";
+    state.subject = "";
+    state.type = "";
+    state.access = "";
+
+    if (els.search) els.search.value = "";
+    if (els.subject) els.subject.value = "";
+    if (els.type) els.type.value = "";
+    if (els.access) els.access.value = "";
+
+    render();
+  });
+}
