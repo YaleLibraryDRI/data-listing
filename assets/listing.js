@@ -65,12 +65,11 @@ function cardTemplate(item) {
         </div>
 
         <div class="card-footer">
-          ${links.map(link => `
-            ${link.url}
-              ${link.label}
-            </a>
-          `).join("")}
-        </div>
+  ${links.map(link => `
+    <a
+      class="card-link ${link.type || 'primary'}"
+      href="${link.url}"
+      target="_
 
       </div>
     </article>
