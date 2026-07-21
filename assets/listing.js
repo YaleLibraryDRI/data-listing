@@ -66,15 +66,15 @@ function cardTemplate(item) {
 
         <div class="card-footer">
           ${links.map(link => `
-            <a
-              class="card-link ${link.type || "primary"}"
-              href="${link.url}"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              ${link.label || "Access Resource"}
-            </a>
-          `).join("")}
+  <a
+    class="card-link ${link.type || "primary"}"
+    href="${link.url}"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    ${link.label || "Access Resource"}
+  </a>
+`).join("")}
         </div>
 
       </div>
