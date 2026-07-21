@@ -310,6 +310,7 @@
 
 .card-footer {
   display: flex;
+  flex-wrap: wrap;
   gap: .5rem;
   align-items: center;
   margin-top: .7rem;
@@ -317,21 +318,36 @@
 
 .card-link {
   display: inline-block;
-  padding: .38rem .6rem;
+  padding: .38rem .65rem;
   border-radius: 8px;
   text-decoration: none;
   font-size: .78rem;
   font-weight: 700;
+  width: auto;
+  flex: 0 0 auto;
+  transition: all 0.15s ease;
 }
 
 .card-link.primary {
-  background: var(--yale-blue);
-  color: white;
+  background: #00356b;
+  color: #ffffff;
+}
+
+.card-link.primary:hover {
+  background: #00264d;
+  color: #ffffff;
+  text-decoration: none;
 }
 
 .card-link.secondary {
-  border: 1px solid var(--listing-border);
-  color: var(--yale-blue);
+  background: #9b4d96;
+  color: #ffffff;
+}
+
+.card-link.secondary:hover {
+  background: #864283;
+  color: #ffffff;
+  text-decoration: none;
 }
 
 .empty-state {

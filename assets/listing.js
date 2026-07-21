@@ -42,8 +42,18 @@ function fillSelect(select, values) {
 function cardTemplate(item) {
   const tile = item.tile || {};
 
+  const links =
+    tile.links ||
+    (tile.site
+      ? [{
+          label: "Access Resource",
+          url: tile.site,
+          type: "primary"
+        }]
+      : []);
+
   return `
-    <div class="dataset-card">
+    <article class="dataset-card">
       <div class="card-body">
 
         <h3 class="card-title">
@@ -55,22 +65,18 @@ function cardTemplate(item) {
         </div>
 
         <div class="card-footer">
-          ${
-            tile.site
-              ? `<a class="card-link primary"
-                   href="${tile.site}"
-                   target="_blank"
-                   rel="noopener">
-                   Access Resource
-                 </a>`
-              : ""
-          }
+          ${links.map(link => `
+            ${link.url}
+              ${link.label}
+            </a>
+          `).join("")}
         </div>
 
       </div>
-    </div>
+    </article>
   `;
 }
+`
 
 function searchableText(item) {
   const tile = item.tile || {};
