@@ -52,19 +52,6 @@ function cardTemplate(item) {
         }]
       : []);
 
-function cardTemplate(item) {
-  const tile = item.tile || {};
-
-  const links =
-    tile.links ||
-    (tile.site
-      ? [{
-          label: "Access Resource",
-          url: tile.site,
-          type: "primary"
-        }]
-      : []);
-
   return `
     <article class="dataset-card">
       <div class="card-body">
@@ -79,8 +66,8 @@ function cardTemplate(item) {
 
         <div class="card-footer">
           ${links.map(link => `
-            <a
-              class="cardlink.label}
+            ${link.url}
+              ${link.label}
             </a>
           `).join("")}
         </div>
@@ -89,6 +76,7 @@ function cardTemplate(item) {
     </article>
   `;
 }
+
 
 function searchableText(item) {
   const tile = item.tile || {};
