@@ -1,6 +1,6 @@
 ## =============================================================================
 ## Yale Library Data Listing
-## Generated from yale_library_data_listing_with_wrds_entries.xlsx
+## Generated from yale_library_data_listing_resource_types_corrected.xlsx
 ## categories1: Subjects / research areas
 ## categories2: Resource type
 ## categories3: Access model
@@ -248,56 +248,6 @@ items:
       - label: "Access through Gale Scholar Lab"
         url: "https://go.gale.com/ps/start.do?p=DSLAB&u=29005"
         type: "secondary"
-- categories1:
-  - "Health & Medicine"
-  - "Social Sciences"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "AHA Annual Survey Database"
-    description: "Annual data on U.S. hospitals, including organizational structure, services, utilization, finances, insurance and payment models, and staffing. Historical files cover 1980 to the latest available year."
-    image: "../Images/Datasets/aha-annual-survey-database.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
-  - "Health & Medicine"
-  - "Business & Economics"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "AHA Financial Database"
-    description: "HCRIS-sourced hospital financial data covering 2005 to the present."
-    image: "../Images/Datasets/aha-financial-database.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
-  - "Health & Medicine"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "AHA IT Healthcare Database"
-    description: "Data on information technology use in U.S. hospitals covering 2008 to the present."
-    image: "../Images/Datasets/aha-it-healthcare-database.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
 - categories1:
   - "Social Sciences"
   categories2:
@@ -559,23 +509,6 @@ items:
       - label: "Access through TDM Studio"
         url: "https://tdmstudio.proquest.com/home"
         type: "secondary"
-- categories1:
-  - "Health & Medicine"
-  - "Social Sciences"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "American Hospital Association (AHA)"
-    description: "Annual survey and supplemental datasets on U.S. hospitals, including organizational structure, service lines, utilization, finances, payment models, staffing, healthcare IT, and HCRIS-sourced financial data."
-    image: "../Images/Datasets/american-hospital-association-aha.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
 - categories1:
   - "Humanities & History"
   - "Social Sciences"
@@ -861,22 +794,19 @@ items:
   - "Business & Economics"
   - "Government & Public Policy"
   categories2:
-  - "Dataset"
+  - "Geospatial Data"
   categories3:
   - "External platform"
   tiles:
   - title: "Audit Analytics"
     description: "Database of corporate disclosures, audit information, accounting practices, regulatory filings, and compliance activity."
     image: "../Images/Datasets/audit-analytics.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
+    site: "https://library.yale.edu/eresources/access/access-audit-analytics"
     access-note: "Available via WRDS or the Audit Analytics website. Both options require users to register for an account with a valid Yale email address."
     links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-      - label: "Access on Audit Analytics"
+      - label: "Access resource"
         url: "https://library.yale.edu/eresources/access/access-audit-analytics"
-        type: "secondary"
+        type: "primary"
 - categories1:
   - "Humanities & History"
   categories2:
@@ -981,23 +911,6 @@ items:
     links:
       - label: "Access resource"
         url: "https://articles.library.yale.edu/openurl/01YALE_INST/01YALE_INST:01YALE_INST?rft.mms_id=99132011833408651&u.ignore_date_coverage=true"
-        type: "primary"
-- categories1:
-  - "Business & Economics"
-  - "Government & Public Policy"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "Bank Regulatory"
-    description: "Accounting and regulatory filing data for commercial banks, bank holding companies, savings banks, and savings and loan institutions. Includes five databases covering financial institutions, mergers, and regulatory research information."
-    image: "../Images/Datasets/bank-regulatory.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
         type: "primary"
 - categories1:
   - "Energy & Environment"
@@ -1112,22 +1025,6 @@ items:
     links:
       - label: "Access resource"
         url: "https://articles.library.yale.edu/openurl/01YALE_INST/01YALE_INST:01YALE_INST?rft.mms_id=99135095303408651&u.ignore_date_coverage=true"
-        type: "primary"
-- categories1:
-  - "Business & Economics"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "Blockholders"
-    description: "Standardized firm-level data on large blockholders for 1996–2001, cleaned to address common biases and source-data errors."
-    image: "../Images/Datasets/blockholders.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
         type: "primary"
 - categories1:
   - "Business & Economics"
@@ -1638,22 +1535,6 @@ items:
         url: "https://articles.library.yale.edu/openurl/01YALE_INST/01YALE_INST:01YALE_INST?rft.mms_id=99155716483408651&u.ignore_date_coverage=true"
         type: "primary"
 - categories1:
-  - "Business & Economics"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "Bond Returns by WRDS"
-    description: "Cleaned corporate bond transaction data derived from TRACE Standard and TRACE Enhanced, with monthly prices, returns, coupons, and yields for corporate bonds traded since July 2002."
-    image: "../Images/Datasets/bond-returns-by-wrds.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
   - "Humanities & History"
   - "News & Media"
   categories2:
@@ -2007,88 +1888,6 @@ items:
         url: "https://library.yale.edu/eresources/access/access-capital-iq, https://guides.library.yale.edu/capiq"
         type: "primary"
 - categories1:
-  - "Business & Economics"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "Capital IQ Capital Structure"
-    description: "Debt and equity capital structure data for active and inactive public and private companies worldwide."
-    image: "../Images/Datasets/capital-iq-capital-structure.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
-  - "Business & Economics"
-  - "News & Media"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "Capital IQ Key Developments"
-    description: "Structured summaries of company news and events that may affect securities, including executive changes, merger rumors, guidance changes, delayed filings, and regulatory inquiries."
-    image: "../Images/Datasets/capital-iq-key-developments.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
-  - "Business & Economics"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "Capital IQ People Intelligence"
-    description: "Profiles of executives, board members, and investment professionals, including employment, education, compensation, insider activity, and board affiliations where available."
-    image: "../Images/Datasets/capital-iq-people-intelligence.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
-  - "Business & Economics"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "Capital IQ Transactions"
-    description: "Structured data on mergers and acquisitions and initial public offerings from Capital IQ."
-    image: "../Images/Datasets/capital-iq-transactions.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
-  - "Business & Economics"
-  - "News & Media"
-  categories2:
-  - "Text Corpus"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "Capital IQ Transcripts"
-    description: "English-language transcripts of earnings calls, merger and acquisition calls, shareholder calls, and other company events. Coverage begins in 2004 and is more complete from 2008 onward."
-    image: "../Images/Datasets/capital-iq-transcripts.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
   - "Energy & Environment"
   - "Business & Economics"
   - "Government & Public Policy"
@@ -2121,22 +1920,6 @@ items:
     links:
       - label: "Access resource"
         url: "https://library.yale.edu/eresources/access/access-cb-insights"
-        type: "primary"
-- categories1:
-  - "Business & Economics"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "CBOE Indexes"
-    description: "Chicago Board Options Exchange index data, including the VIX measure of expected near-term volatility derived from S&P 500 index option prices."
-    image: "../Images/Datasets/cboe-indexes.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
         type: "primary"
 - categories1:
   - "Humanities & History"
@@ -2749,22 +2532,6 @@ items:
         url: "https://tdmstudio.proquest.com/home"
         type: "secondary"
 - categories1:
-  - "Business & Economics"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "Compustat"
-    description: "Fundamental and market information for active and inactive public companies, including North American, global, banking, historical segment, and monthly snapshot data. Coverage begins in 1950."
-    image: "../Images/Datasets/compustat.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
   - "Humanities & History"
   categories2:
   - "Text Corpus"
@@ -3175,22 +2942,6 @@ items:
 - categories1:
   - "Business & Economics"
   categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "CRSP"
-    description: "Security-level historical prices, returns, and volume for active and inactive U.S. stocks, with market indexes, Treasury data, mutual funds, and a merged CRSP/Compustat database. Monthly coverage begins in 1925 and daily coverage in 1962."
-    image: "../Images/Datasets/crsp.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
-  - "Business & Economics"
-  categories2:
   - "Data Platform"
   categories3:
   - "Hosted by Yale Library"
@@ -3343,22 +3094,6 @@ items:
   categories2:
   - "Dataset"
   categories3:
-  - "External platform"
-  tiles:
-  - title: "Data, Valuations & Risk Analytics"
-    description: "Credit default swap pricing and reference data, including CDS pricing for individual entities and RED entity and obligation data across asset classes."
-    image: "../Images/Datasets/data-valuations-and-risk-analytics.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
-  - "Business & Economics"
-  categories2:
-  - "Dataset"
-  categories3:
   - "Hosted by Yale Library"
   tiles:
   - title: "Datacenter Knowledgebase (451 Research)"
@@ -3380,14 +3115,11 @@ items:
   - title: "Datastream"
     description: "Historical financial database containing securities prices, economic indicators, commodities, bonds, and market data."
     image: "../Images/Datasets/datastream.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
+    site: "https://guides.library.yale.edu/Workspace/Datastream"
     links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-      - label: "View Datastream access information"
+      - label: "Access resource"
         url: "https://guides.library.yale.edu/Workspace/Datastream"
-        type: "secondary"
+        type: "primary"
 - categories1:
   - "Humanities & History"
   - "News & Media"
@@ -3962,22 +3694,6 @@ items:
         type: "secondary"
 - categories1:
   - "Business & Economics"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "Execucomp"
-    description: "Executive compensation data for S&P 1000 companies, including salary, bonus, and stock option data. Coverage begins in 1992."
-    image: "../Images/Datasets/execucomp.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
-  - "Business & Economics"
   - "Government & Public Policy"
   - "News & Media"
   categories2:
@@ -4030,23 +3746,6 @@ items:
       - label: "Access through Gale Scholar Lab"
         url: "https://go.gale.com/ps/start.do?p=DSLAB&u=29041"
         type: "secondary"
-- categories1:
-  - "Government & Public Policy"
-  - "Social Sciences"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "Federal Judicial Center Integrated Database"
-    description: "Federal civil, criminal, bankruptcy, and appellate court case information reported to the Administrative Office of the U.S. Courts. Coverage begins in mid-1969."
-    image: "../Images/Datasets/federal-judicial-center-integrated-database.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
 - categories1:
   - "Humanities & History"
   categories2:
@@ -5460,23 +5159,6 @@ items:
         url: "https://articles.library.yale.edu/openurl/01YALE_INST/01YALE_INST:01YALE_INST?rft.mms_id=99105821533408651&u.ignore_date_coverage=true"
         type: "primary"
 - categories1:
-  - "Business & Economics"
-  - "Geospatial Data"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "Infogroup U.S. Historical Businesses Data"
-    description: "Establishment-level data for more than 24 million U.S. businesses, including business name, location, and industry classification. Coverage begins in 1997."
-    image: "../Images/Datasets/infogroup-u-s-historical-businesses-data.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
   - "Social Sciences"
   - "News & Media"
   categories2:
@@ -6449,135 +6131,6 @@ items:
         type: "primary"
 - categories1:
   - "Business & Economics"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "LSEG DealScan"
-    description: "Global commercial loan and syndicated loan data available through LSEG on WRDS."
-    image: "../Images/Datasets/lseg-dealscan.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
-  - "Energy & Environment"
-  - "Business & Economics"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "LSEG ESG"
-    description: "Environmental, social, and governance data available through the LSEG subscription on WRDS."
-    image: "../Images/Datasets/lseg-esg.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
-  - "Business & Economics"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "LSEG IBES Academic"
-    description: "Detailed and consensus analyst estimates, recommendations, and actuals for company earnings, cash flows, and related financial measures."
-    image: "../Images/Datasets/lseg-ibes-academic.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
-  - "Business & Economics"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "LSEG Insiders Data"
-    description: "Data on corporate insiders available through the LSEG subscription on WRDS."
-    image: "../Images/Datasets/lseg-insiders-data.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
-  - "Business & Economics"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "LSEG Institutional Holdings (13F)"
-    description: "Institutional ownership and holdings data derived from Form 13F filings."
-    image: "../Images/Datasets/lseg-institutional-holdings-13f.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
-  - "Business & Economics"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "LSEG Lipper Hedge Fund Database"
-    description: "Quantitative performance data for actively reporting hedge funds, funds of hedge funds, and inactive graveyard funds."
-    image: "../Images/Datasets/lseg-lipper-hedge-fund-database.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
-  - "Business & Economics"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "LSEG Mergent FISD"
-    description: "Issue-level data for publicly offered U.S. bonds, including corporate, medium-term note, supranational, agency, and Treasury securities. Coverage begins in 1950."
-    image: "../Images/Datasets/lseg-mergent-fisd.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
-  - "Business & Economics"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "LSEG Mutual Fund Holdings"
-    description: "Mutual fund portfolio holdings data available through LSEG on WRDS."
-    image: "../Images/Datasets/lseg-mutual-fund-holdings.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
-  - "Business & Economics"
   - "Humanities & History"
   categories2:
   - "Data Platform"
@@ -6592,22 +6145,6 @@ items:
     links:
       - label: "Access resource"
         url: "https://guides.library.yale.edu/LSEG_Tick_History"
-        type: "primary"
-- categories1:
-  - "Business & Economics"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "LSEG Worldscope"
-    description: "Standardized global company financial statement data available through LSEG on WRDS."
-    image: "../Images/Datasets/lseg-worldscope.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
         type: "primary"
 - categories1:
   - "Social Sciences"
@@ -7997,22 +7534,6 @@ items:
 - categories1:
   - "Business & Economics"
   categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "OptionMetrics"
-    description: "Historical prices, implied volatilities, and sensitivities for U.S.-listed index and equity options and their underlying instruments. Coverage begins in January 1996."
-    image: "../Images/Datasets/optionmetrics.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
-  - "Business & Economics"
-  categories2:
   - "Data Platform"
   categories3:
   - "External platform"
@@ -8020,15 +7541,12 @@ items:
   - title: "Orbis"
     description: "Global company database covering public and private firms, ownership structures, financials, and corporate relationships. Valuable for international business and organizational research."
     image: "../Images/Datasets/orbis.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
+    site: "https://yale.idm.oclc.org/login?url=https://orbis.bvdinfo.com/ip"
     access-note: "Point in-time historical data available by request"
     links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-      - label: "Access on Orbis"
+      - label: "Access resource"
         url: "https://yale.idm.oclc.org/login?url=https://orbis.bvdinfo.com/ip"
-        type: "secondary"
+        type: "primary"
 - categories1:
   - "Business & Economics"
   - "Humanities & History"
@@ -8090,15 +7608,12 @@ items:
   - title: "Panjiva"
     description: "Global trade database with import and export records, suppliers, buyers, products, and shipment trends."
     image: "../Images/Datasets/panjiva.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
+    site: "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUNUxHUEEyOEI4WDNRRVhJMzI3SVA1M01QQyQlQCN0PWcu&route=shorturl"
     access-note: "Requires users to request an individual account with a Yale email address."
     links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-      - label: "Request direct access"
+      - label: "Access resource"
         url: "https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXGa2PpecL_VHoOa9Jy4XGNVUNUxHUEEyOEI4WDNRRVhJMzI3SVA1M01QQyQlQCN0PWcu&route=shorturl"
-        type: "secondary"
+        type: "primary"
 - categories1:
   - "Humanities & History"
   - "Social Sciences"
@@ -8197,14 +7712,14 @@ items:
   categories3:
   - "Hosted by Yale Library"
   tiles:
-  - title: "Penn discourse treebank 2.0"
-    description: "This goal of this Linguistic Data Consortium project is to annotate the 1 million word Wall Street Journal corpus in Treebank-2."
-    image: "../Images/Datasets/penn-discourse-treebank-2-0.png"
-    site: "https://articles.library.yale.edu/openurl/01YALE_INST/01YALE_INST:01YALE_INST?rft.mms_id=99127511503408651&u.ignore_date_coverage=true"
+  - title: "Penn discourse treebank : German translation"
+    description: "This Linguistic Data Consortium dataset consists of approximately one million tokens derived from Penn Discourse Treebank."
+    image: "../Images/Datasets/penn-discourse-treebank-german-translation.png"
+    site: "https://articles.library.yale.edu/openurl/01YALE_INST/01YALE_INST:01YALE_INST?rft.mms_id=99157686893408651&u.ignore_date_coverage=true"
     access-note: "Hosted by Yale Library. Quicksearch and full-text links are included where available."
     links:
       - label: "Access resource"
-        url: "https://articles.library.yale.edu/openurl/01YALE_INST/01YALE_INST:01YALE_INST?rft.mms_id=99127511503408651&u.ignore_date_coverage=true"
+        url: "https://articles.library.yale.edu/openurl/01YALE_INST/01YALE_INST:01YALE_INST?rft.mms_id=99157686893408651&u.ignore_date_coverage=true"
         type: "primary"
 - categories1:
   - "Humanities & History"
@@ -8214,14 +7729,14 @@ items:
   categories3:
   - "Hosted by Yale Library"
   tiles:
-  - title: "Penn discourse treebank : German translation"
-    description: "This Linguistic Data Consortium dataset consists of approximately one million tokens derived from Penn Discourse Treebank."
-    image: "../Images/Datasets/penn-discourse-treebank-german-translation.png"
-    site: "https://articles.library.yale.edu/openurl/01YALE_INST/01YALE_INST:01YALE_INST?rft.mms_id=99157686893408651&u.ignore_date_coverage=true"
+  - title: "Penn discourse treebank 2.0"
+    description: "This goal of this Linguistic Data Consortium project is to annotate the 1 million word Wall Street Journal corpus in Treebank-2."
+    image: "../Images/Datasets/penn-discourse-treebank-2-0.png"
+    site: "https://articles.library.yale.edu/openurl/01YALE_INST/01YALE_INST:01YALE_INST?rft.mms_id=99127511503408651&u.ignore_date_coverage=true"
     access-note: "Hosted by Yale Library. Quicksearch and full-text links are included where available."
     links:
       - label: "Access resource"
-        url: "https://articles.library.yale.edu/openurl/01YALE_INST/01YALE_INST:01YALE_INST?rft.mms_id=99157686893408651&u.ignore_date_coverage=true"
+        url: "https://articles.library.yale.edu/openurl/01YALE_INST/01YALE_INST:01YALE_INST?rft.mms_id=99127511503408651&u.ignore_date_coverage=true"
         type: "primary"
 - categories1:
   - "Humanities & History"
@@ -8449,15 +7964,12 @@ items:
   - title: "Pitchbook"
     description: "Private capital database covering companies, investors, funds, deals, exits, and service providers."
     image: "../Images/Datasets/pitchbook.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
+    site: "https://library.yale.edu/eresources/access/access-pitchbook"
     access-note: "Requires users to sign in with an @Yale.edu email address. Users will be directed to the Yale CAS sign-in page. Do not click \"Log in without SSO\" even if you had an individual account previously. Commercial use is prohibited. Users are limited to 10 downloads per day and 25 downloads per month. (1 download = 1 row of data on an Excel file). Accounts will automatically be reset annually on May 31."
     links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-      - label: "Access on PitchBook"
+      - label: "Access resource"
         url: "https://library.yale.edu/eresources/access/access-pitchbook"
-        type: "secondary"
+        type: "primary"
 - categories1:
   - "Humanities & History"
   categories2:
@@ -8703,15 +8215,12 @@ items:
   - title: "Preqin"
     description: "Alternative assets database covering private equity, private debt, real estate, infrastructure, natural resources, and hedge funds."
     image: "../Images/Datasets/preqin.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
+    site: "http://web.library.yale.edu/access-preqin"
     access-note: "Private data from Preqin is available in WRDS."
     links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-      - label: "Access on Preqin"
+      - label: "Access resource"
         url: "http://web.library.yale.edu/access-preqin"
-        type: "secondary"
+        type: "primary"
 - categories1:
   - "Government & Public Policy"
   categories2:
@@ -8944,23 +8453,6 @@ items:
         url: "https://articles.library.yale.edu/openurl/01YALE_INST/01YALE_INST:01YALE_INST?rft.mms_id=99163097063408651&u.ignore_date_coverage=true"
         type: "primary"
 - categories1:
-  - "Business & Economics"
-  - "News & Media"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "RavenPack"
-    description: "Structured news and social media analytics, including sentiment and event data for business and financial applications. Coverage begins in 2000."
-    image: "../Images/Datasets/ravenpack.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
   - "Humanities & History"
   - "Business & Economics"
   categories2:
@@ -9054,23 +8546,6 @@ items:
       - label: "Access through Gale Scholar Lab"
         url: "https://go.gale.com/ps/start.do?p=DSLAB&u=29087"
         type: "secondary"
-- categories1:
-  - "Business & Economics"
-  - "Social Sciences"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "Revelio Labs"
-    description: "Workforce data derived from professional profiles, job postings, employee reviews, and workforce dynamics. Coverage begins between 2007 and 2009 depending on the product."
-    image: "../Images/Datasets/revelio-labs.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
 - categories1:
   - "Humanities & History"
   - "Government & Public Policy"
@@ -9242,23 +8717,6 @@ items:
     links:
       - label: "Access resource"
         url: "https://web.library.yale.edu/access-sp-capital-iq-pro?_ga=2.137089200.1253860179.1681413501-14721893.1681413501"
-        type: "primary"
-- categories1:
-  - "Energy & Environment"
-  - "Business & Economics"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "S&P Global ESG Scores and Trucost"
-    description: "Company-level ESG scores, environmental impact measures, climate analytics, and related corporate event transcripts."
-    image: "../Images/Datasets/s-and-p-global-esg-scores-and-trucost.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
         type: "primary"
 - categories1:
   - "Business & Economics"
@@ -9455,23 +8913,6 @@ items:
     links:
       - label: "Access resource"
         url: "https://articles.library.yale.edu/openurl/01YALE_INST/01YALE_INST:01YALE_INST?rft.mms_id=99132009623408651&u.ignore_date_coverage=true"
-        type: "primary"
-- categories1:
-  - "Business & Economics"
-  - "Government & Public Policy"
-  categories2:
-  - "Data Platform"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "SEC Analytics Suite"
-    description: "Tools and standardized data for parsing, searching, and extracting information from SEC EDGAR filings dating back to 1994."
-    image: "../Images/Datasets/sec-analytics-suite.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
         type: "primary"
 - categories1:
   - "Humanities & History"
@@ -10536,38 +9977,6 @@ items:
         url: "https://articles.library.yale.edu/openurl/01YALE_INST/01YALE_INST:01YALE_INST?rft.mms_id=99125170753408651&u.ignore_date_coverage=true"
         type: "primary"
 - categories1:
-  - "Business & Economics"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "TRACE Bond Transactions"
-    description: "FINRA over-the-counter corporate bond and agency debt transaction data, including prices and other transaction information."
-    image: "../Images/Datasets/trace-bond-transactions.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
-  - "Business & Economics"
-  categories2:
-  - "Dataset"
-  categories3:
-  - "External platform"
-  tiles:
-  - title: "Trades and Quotes (TAQ)"
-    description: "Intraday trades and quotes for securities listed on the NYSE, AMEX, and Nasdaq markets. Coverage begins in 1993."
-    image: "../Images/Datasets/trades-and-quotes-taq.png"
-    site: "https://wrds-www.wharton.upenn.edu/"
-    access-note: "A WRDS account is required."
-    links:
-      - label: "Access through WRDS"
-        url: "https://wrds-www.wharton.upenn.edu/"
-        type: "primary"
-- categories1:
   - "Humanities & History"
   - "Business & Economics"
   categories2:
@@ -11153,6 +10562,26 @@ items:
   categories3:
   - "Hosted by Yale Library"
   tiles:
+  - title: "Women, war and society dataset"
+    description: "Dataset of materials for text data mining (TDM) documenting the World War I's impact on the lives of women, as well as women's contributions to the war."
+    image: "../Images/Datasets/women-war-and-society-dataset.png"
+    site: "https://forms.office.com/Pages/ResponsePage.aspx?id=u76M3Tkh-E20EU4-h6vrXMjNfnD4mMpOg7eh3akk4SdUQjk5TVAwQ1YyTVRFVU9VV0lSWENQTEU4MS4u&r3669c7a6738b42b7ad425f7a462c04d7=14624195"
+    access-note: "Hosted text data available by request through Yale Library."
+    links:
+      - label: "Request access to raw data"
+        url: "https://forms.office.com/Pages/ResponsePage.aspx?id=u76M3Tkh-E20EU4-h6vrXMjNfnD4mMpOg7eh3akk4SdUQjk5TVAwQ1YyTVRFVU9VV0lSWENQTEU4MS4u&r3669c7a6738b42b7ad425f7a462c04d7=14624195"
+        type: "primary"
+      - label: "Access through Gale Scholar Lab"
+        url: "https://go.gale.com/ps/start.do?p=DSLAB&u=29112"
+        type: "secondary"
+- categories1:
+  - "Humanities & History"
+  - "Social Sciences"
+  categories2:
+  - "Text Corpus"
+  categories3:
+  - "Hosted by Yale Library"
+  tiles:
   - title: "Women's issues and their advocacy within the White House dataset"
     description: "Dataset of materials for text data mining (TDM) relating to Patricia Lindh's and Jeanne Holm's advocacy within the White House on issues of special interest to women."
     image: "../Images/Datasets/women-s-issues-and-their-advocacy-within-the-white-house-dataset.png"
@@ -11205,26 +10634,6 @@ items:
         type: "primary"
       - label: "Access through TDM Studio"
         url: "https://tdmstudio.proquest.com/home"
-        type: "secondary"
-- categories1:
-  - "Humanities & History"
-  - "Social Sciences"
-  categories2:
-  - "Text Corpus"
-  categories3:
-  - "Hosted by Yale Library"
-  tiles:
-  - title: "Women, war and society dataset"
-    description: "Dataset of materials for text data mining (TDM) documenting the World War I's impact on the lives of women, as well as women's contributions to the war."
-    image: "../Images/Datasets/women-war-and-society-dataset.png"
-    site: "https://forms.office.com/Pages/ResponsePage.aspx?id=u76M3Tkh-E20EU4-h6vrXMjNfnD4mMpOg7eh3akk4SdUQjk5TVAwQ1YyTVRFVU9VV0lSWENQTEU4MS4u&r3669c7a6738b42b7ad425f7a462c04d7=14624195"
-    access-note: "Hosted text data available by request through Yale Library."
-    links:
-      - label: "Request access to raw data"
-        url: "https://forms.office.com/Pages/ResponsePage.aspx?id=u76M3Tkh-E20EU4-h6vrXMjNfnD4mMpOg7eh3akk4SdUQjk5TVAwQ1YyTVRFVU9VV0lSWENQTEU4MS4u&r3669c7a6738b42b7ad425f7a462c04d7=14624195"
-        type: "primary"
-      - label: "Access through Gale Scholar Lab"
-        url: "https://go.gale.com/ps/start.do?p=DSLAB&u=29112"
         type: "secondary"
 - categories1:
   - "Business & Economics"
