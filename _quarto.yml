@@ -15,9 +15,6 @@ website:
     foreground: "#ffffff"
     left:
       - href: index.qmd
-        text: Home
-      - href: datasets.qmd
-        text: Data Resources
   page-footer:
     left: "Yale Library Data Listing"
     right: "Built with Quarto"
