@@ -24,6 +24,7 @@ website:
 
 format:
   html:
+    anchor-sections: false
     theme:
       light: cosmo
     css:
