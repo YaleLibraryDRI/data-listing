@@ -1,5 +1,5 @@
 ---
-title: "Data Resources"
+title: "Yale Library Licensed Data Resources"
 page-layout: full
 ---
 ```{=html}
@@ -11,7 +11,7 @@ page-layout: full
     rel="noopener noreferrer">
     Read about Yale Library policies governing e-resource access and use
   </a>.
-  For data support, contact the library
+  For data support, contact the library at
 <a href="mailto:researchdata@yale.edu">
 researchdata@yale.edu
 </a>.
@@ -22,7 +22,7 @@ researchdata@yale.edu
 
   <div class="featured-header">
     <h2>Featured Platforms</h2>
-    <p>Start with commonly used platforms for data discovery, analysis, and access.</p>
+    <p>Get started with some of the commonly used platforms.</p>
   </div>
 
 <div class="featured-grid">
