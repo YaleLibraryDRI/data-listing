@@ -123,14 +123,12 @@ function searchableText(item) {
 }
 
 function filteredItems() {
-
   const q = state.search.toLowerCase();
 
   return state.items.filter(item => {
 
     const matchesSearch =
-      !q ||
-      searchableText(item).includes(q);
+      !q || searchableText(item).includes(q);
 
     const matchesSubject =
       !state.subject ||
@@ -240,4 +238,159 @@ function render() {
   if (els.resultCount) {
 
     els.resultCount.textContent =
-    
+      `${results.length} resources shown (page ${state.page} of ${totalPages})`;
+  }
+
+  if (!els.grid) return;
+
+  els.grid.innerHTML =
+    pageResults.map(cardTemplate).join("");
+
+  renderPagination(totalPages);
+}
+
+fetch(DATA_URL)
+  .then(response => response.json())
+  .then(data => {
+
+    state.items = data.items || [];
+
+    state.items.sort((a, b) => {
+
+      const aTitle =
+        (a.tile?.title || "")
+          .toLowerCase();
+
+      const bTitle =
+        (b.tile?.title || "")
+          .toLowerCase();
+
+      return aTitle.localeCompare(bTitle);
+    });
+
+    fillSelect(
+      els.subject,
+      uniqueSorted(
+        state.items,
+        "categories1"
+      )
+    );
+
+    fillSelect(
+      els.type,
+      uniqueSorted(
+        state.items,
+        "categories2"
+      )
+    );
+
+    fillSelect(
+      els.access,
+      uniqueSorted(
+        state.items,
+        "categories3"
+      )
+    );
+
+    render();
+  })
+  .catch(error => {
+
+    console.error(
+      "Failed to load data:",
+      error
+    );
+  });
+
+if (els.search) {
+
+  els.search.addEventListener(
+    "input",
+    e => {
+
+      state.search =
+        e.target.value;
+
+      state.page = 1;
+
+      render();
+    }
+  );
+}
+
+if (els.subject) {
+
+  els.subject.addEventListener(
+    "change",
+    e => {
+
+      state.subject =
+        e.target.value;
+
+      state.page = 1;
+
+      render();
+    }
+  );
+}
+
+if (els.type) {
+
+  els.type.addEventListener(
+    "change",
+    e => {
+
+      state.type =
+        e.target.value;
+
+      state.page = 1;
+
+      render();
+    }
+  );
+}
+
+if (els.access) {
+
+  els.access.addEventListener(
+    "change",
+    e => {
+
+      state.access =
+        e.target.value;
+
+      state.page = 1;
+
+      render();
+    }
+  );
+}
+
+if (els.clear) {
+
+  els.clear.addEventListener(
+    "click",
+    () => {
+
+      state.search = "";
+      state.subject = "";
+      state.type = "";
+      state.access = "";
+      state.page = 1;
+
+      if (els.search)
+        els.search.value = "";
+
+      if (els.subject)
+        els.subject.value = "";
+
+      if (els.type)
+        els.type.value = "";
+
+      if (els.access)
+        els.access.value = "";
+
+      render();
+    }
+  );
+}

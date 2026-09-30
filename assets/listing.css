@@ -254,22 +254,20 @@
 }
 
 .card-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
   font-size: 1rem;
   line-height: 1.2;
   margin: 0 0 .25rem 0;
 }
 
-.card-title {
-display: flex;
-align-items: center;
-gap: 0.5rem;
-}
- 
 .resource-type-icon {
-width: 20px;
-height: 20px;
-flex-shrink: 0;
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
 }
+
 
 .card-title a {
   color: var(--yale-blue-dark);
