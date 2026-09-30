@@ -42,7 +42,6 @@ function fillSelect(select, values) {
 }
 
 function cardTemplate(item) {
-
   const tile = item.tile || {};
 
   const links =
@@ -51,7 +50,13 @@ function cardTemplate(item) {
       ? [{
           label: "Access Resource",
           url: tile.site,
-          typelass="card-body">
+          type: "primary"
+        }]
+      : []);
+
+  return `
+    <article class="dataset-card">
+      <div class="card-body">
 
         <h3 class="card-title">
           ${tile.title || "Untitled"}
@@ -62,28 +67,24 @@ function cardTemplate(item) {
         </div>
 
         <div class="card-footer">
-
           ${links.map(link => `
-            <a
-              class="card-link ${link.type || "primary"}"
-              href="${link.url}"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              ${link.label || "Access Resource"}
-            </a>
-          `).join("")}
-
+  <a
+    class="card-link ${link.type || "primary"}"
+    href="${link.url}"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    ${link.label || "Access Resource"}
+  </a>
+`).join("")}
         </div>
 
       </div>
-
     </article>
   `;
 }
 
 function searchableText(item) {
-
   const tile = item.tile || {};
 
   return [
@@ -98,7 +99,6 @@ function searchableText(item) {
 }
 
 function filteredItems() {
-
   const q = state.search.toLowerCase();
 
   return state.items.filter(item => {
@@ -191,11 +191,12 @@ function render() {
 
   const results = filteredItems();
 
-  const totalPages =
-    Math.max(
-      1,
-      Math.ceil(results.length / state.pageSize)
-    );
+  const totalPages = Math.max(
+    1,
+    Math.ceil(
+      results.length / state.pageSize
+    )
+  );
 
   if (state.page > totalPages) {
     state.page = totalPages;
@@ -270,6 +271,7 @@ fetch(DATA_URL)
     render();
   })
   .catch(error => {
+
     console.error(
       "Failed to load data:",
       error
@@ -352,10 +354,17 @@ if (els.clear) {
       state.access = "";
       state.page = 1;
 
-      if (els.search) els.search.value = "";
-      if (els.subject) els.subject.value = "";
-      if (els.type) els.type.value = "";
-      if (els.access) els.access.value = "";
+      if (els.search)
+        els.search.value = "";
+
+      if (els.subject)
+        els.subject.value = "";
+
+      if (els.type)
+        els.type.value = "";
+
+      if (els.access)
+        els.access.value = "";
 
       render();
     }
