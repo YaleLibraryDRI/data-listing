@@ -83,7 +83,7 @@ researchdata@yale.edu
   </h2>
 
 <p>
-  Browse Yale Library–licensed datasets, available to Yale students, faculty, and researchers for academic, non-commercial use.
+  Browse all Yale Library–licensed datasets.
   <a
     href="https://library.yale.edu/about-us/about/library-policies/policies-governing-e-resources-access-and-use"
     target="_blank"
