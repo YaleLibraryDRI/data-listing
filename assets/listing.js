@@ -45,16 +45,6 @@ function cardTemplate(item) {
 
   const tile = item.tile || {};
 
-  const resourceType =
-    item.categories2?.[0]
-      ?.toLowerCase()
-      .replace(/\s+/g, "-");
-
-  const icon =
-    resourceType
-      ? `assets/icons/${resourceType}.svg`
-      : null;
-
   const links =
     tile.links ||
     (tile.site
@@ -71,16 +61,7 @@ function cardTemplate(item) {
       <div class="card-body">
 
         <h3 class="card-title">
-
-          ${
-            icon
-              ? `
-                <img
-                  class="resource-type-icon"
-                <span>
-            ${tile.title || "Untitled"}
-          </span>
-
+          ${tile.title || "Untitled"}
         </h3>
 
         <div class="card-description">
@@ -109,6 +90,7 @@ function cardTemplate(item) {
 }
 
 function searchableText(item) {
+
   const tile = item.tile || {};
 
   return [
@@ -129,8 +111,7 @@ function filteredItems() {
   return state.items.filter(item => {
 
     const matchesSearch =
-      !q ||
-      searchableText(item).includes(q);
+      !q || searchableText(item).includes(q);
 
     const matchesSubject =
       !state.subject ||
@@ -217,12 +198,11 @@ function render() {
 
   const results = filteredItems();
 
-  const totalPages = Math.max(
-    1,
-    Math.ceil(
-      results.length / state.pageSize
-    )
-  );
+  const totalPages =
+    Math.max(
+      1,
+      Math.ceil(results.length / state.pageSize)
+    );
 
   if (state.page > totalPages) {
     state.page = totalPages;
@@ -240,4 +220,151 @@ function render() {
   if (els.resultCount) {
 
     els.resultCount.textContent =
-    
+      `${results.length} resources shown (page ${state.page} of ${totalPages})`;
+  }
+
+  if (!els.grid) return;
+
+  els.grid.innerHTML =
+    pageResults.map(cardTemplate).join("");
+
+  renderPagination(totalPages);
+}
+
+fetch(DATA_URL)
+  .then(response => response.json())
+  .then(data => {
+
+    state.items = data.items || [];
+
+    state.items.sort((a, b) => {
+
+      const aTitle =
+        (a.tile?.title || "")
+          .toLowerCase();
+
+      const bTitle =
+        (b.tile?.title || "")
+          .toLowerCase();
+
+      return aTitle.localeCompare(bTitle);
+    });
+
+    fillSelect(
+      els.subject,
+      uniqueSorted(
+        state.items,
+        "categories1"
+      )
+    );
+
+    fillSelect(
+      els.type,
+      uniqueSorted(
+        state.items,
+        "categories2"
+      )
+    );
+
+    fillSelect(
+      els.access,
+      uniqueSorted(
+        state.items,
+        "categories3"
+      )
+    );
+
+    render();
+  })
+  .catch(error => {
+    console.error(
+      "Failed to load data:",
+      error
+    );
+  });
+
+if (els.search) {
+
+  els.search.addEventListener(
+    "input",
+    e => {
+
+      state.search =
+        e.target.value;
+
+      state.page = 1;
+
+      render();
+    }
+  );
+}
+
+if (els.subject) {
+
+  els.subject.addEventListener(
+    "change",
+    e => {
+
+      state.subject =
+        e.target.value;
+
+      state.page = 1;
+
+      render();
+    }
+  );
+}
+
+if (els.type) {
+
+  els.type.addEventListener(
+    "change",
+    e => {
+
+      state.type =
+        e.target.value;
+
+      state.page = 1;
+
+      render();
+    }
+  );
+}
+
+if (els.access) {
+
+  els.access.addEventListener(
+    "change",
+    e => {
+
+      state.access =
+        e.target.value;
+
+      state.page = 1;
+
+      render();
+    }
+  );
+}
+
+if (els.clear) {
+
+  els.clear.addEventListener(
+    "click",
+    () => {
+
+      state.search = "";
+      state.subject = "";
+      state.type = "";
+      state.access = "";
+      state.page = 1;
+
+      if (els.search) els.search.value = "";
+      if (els.subject) els.subject.value = "";
+      if (els.type) els.type.value = "";
+      if (els.access) els.access.value = "";
+
+      render();
+    }
+  );
+}
