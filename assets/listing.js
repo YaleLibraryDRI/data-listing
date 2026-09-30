@@ -42,15 +42,18 @@ function fillSelect(select, values) {
 }
 
 function cardTemplate(item) {
+
+  const tile = item.tile || {};
+
   const resourceType =
     item.categories2?.[0]
-       ?.toLowerCase()
-       .replace(/\s+/g, "-");
- 
-const icon =
-`assets/icons/${resourceType}.svg`;
- 
-  const tile = item.tile || {};
+      ?.toLowerCase()
+      .replace(/\s+/g, "-");
+
+  const icon =
+    resourceType
+      ? `assets/icons/${resourceType}.svg`
+      : null;
 
   const links =
     tile.links ||
@@ -64,38 +67,43 @@ const icon =
 
   return `
     <article class="dataset-card">
+
       <div class="card-body">
 
-      <h3 class="card-title">
+        <h3 class="card-title">
 
-  ${
-    resourceType
-      ? `assets/icons/${resourceType}.svg`
-      : ""
-  }
+          ${
+            icon
+              ? `
+                <img
+                  class="resource-type-icon"
+                <span>
+            ${tile.title || "Untitled"}
+          </span>
 
-  ${tile.title || "Untitled"}
-
-</h3>
+        </h3>
 
         <div class="card-description">
           ${tile.description || ""}
         </div>
 
         <div class="card-footer">
+
           ${links.map(link => `
-  <a
-    class="card-link ${link.type || "primary"}"
-    href="${link.url}"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    ${link.label || "Access Resource"}
-  </a>
-`).join("")}
+            <a
+              class="card-link ${link.type || "primary"}"
+              href="${link.url}"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              ${link.label || "Access Resource"}
+            </a>
+          `).join("")}
+
         </div>
 
       </div>
+
     </article>
   `;
 }
