@@ -41,7 +41,22 @@ function fillSelect(select, values) {
   });
 }
 
+function getResourceTypeIcon(type) {
+
+  if (!type) return "";
+
+  const resourceType =
+    type
+      .toLowerCase()
+      .replace(/\s+/g, "-");
+
+  return `
+    assets/icons/${resourceType}.svg
+  `;
+}
+
 function cardTemplate(item) {
+
   const tile = item.tile || {};
 
   const links =
@@ -56,10 +71,19 @@ function cardTemplate(item) {
 
   return `
     <article class="dataset-card">
+
       <div class="card-body">
 
         <h3 class="card-title">
-          ${tile.title || "Untitled"}
+
+          ${getResourceTypeIcon(
+            item.categories2?.[0]
+          )}
+
+          <span>
+            ${tile.title || "Untitled"}
+          </span>
+
         </h3>
 
         <div class="card-description">
@@ -67,22 +91,26 @@ function cardTemplate(item) {
         </div>
 
         <div class="card-footer">
+
           ${links.map(link => `
-  <a
-    class="card-link ${link.type || "primary"}"
-    href="${link.url}"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    ${link.label || "Access Resource"}
-  </a>
-`).join("")}
+            <a
+              class="card-link ${link.type || "primary"}"
+              href="${link.url}"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              ${link.label || "Access Resource"}
+            </a>
+          `).join("")}
+
         </div>
 
       </div>
+
     </article>
   `;
 }
+
 
 function searchableText(item) {
   const tile = item.tile || {};
