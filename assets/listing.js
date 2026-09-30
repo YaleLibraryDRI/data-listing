@@ -42,6 +42,14 @@ function fillSelect(select, values) {
 }
 
 function cardTemplate(item) {
+  const resourceType =
+    item.categories2?.[0]
+       ?.toLowerCase()
+       .replace(/\s+/g, "-");
+ 
+const icon =
+`assets/icons/${resourceType}.svg`;
+ 
   const tile = item.tile || {};
 
   const links =
