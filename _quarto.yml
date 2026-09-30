@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 resources:
+  - assets/icons/**
   - data/yale_library_data_listing.json
   - data/yale_library_data_listing.yml
 

@@ -59,17 +59,9 @@ function cardTemplate(item) {
 
   const tile = item.tile || {};
 
-  const resourceType =
-    item.categories2?.[0]
-      ?.toLowerCase()
-      .replace(/\s+/g, "-");
-
-  const icon =
-    resourceType
-      ? `<img
-           class="resource-type-icon"
-           src="assets/icons/${resourceType}.svg"
- e
+  const links =
+    tile.links ||
+    (tile.site
       ? [{
           label: "Access Resource",
           url: tile.site,
@@ -84,7 +76,9 @@ function cardTemplate(item) {
 
         <h3 class="card-title">
 
-          ${icon}
+          ${getResourceTypeIcon(
+            item.categories2?.[0]
+          )}
 
           <span>
             ${tile.title || "Untitled"}
