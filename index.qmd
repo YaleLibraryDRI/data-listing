@@ -11,6 +11,10 @@ page-layout: full
     rel="noopener noreferrer">
     Read about Yale Library policies governing e-resource access and use
   </a>.
+  For data support, contact the library
+<a href="mailto:researchdata@yale.edu">
+researchdata@yale.edu
+</a>.
   </p>
 </div>
 
