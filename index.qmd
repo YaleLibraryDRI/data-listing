@@ -71,9 +71,17 @@ page-layout: full
     All Yale Library-Licensed Data Resources
   </h2>
 
-  <p>
-    Browse Yale Library–licensed datasets, available to Yale students, faculty, and researchers for academic, non-commercial use.
-  </p>
+<p>
+  Browse Yale Library–licensed datasets, available to Yale students, faculty, and researchers for academic, non-commercial use.
+
+  Read about Yale Library policies governing e-resource access and use in the
+  <a
+    href="https://library.yale.edu/about-us/about/library-policies/policies-governing-e-resources-access-and-use"
+    target="_blank"
+    rel="noopener noreferrer">
+    Yale Library Policies Governing E‑Resources Access and Use
+  </a>.
+</p>
 
 </div>
 
