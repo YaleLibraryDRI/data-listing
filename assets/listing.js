@@ -45,6 +45,11 @@ function cardTemplate(item) {
 
   const tile = item.tile || {};
 
+  const resourceType =
+    item.categories2?.[0]
+      ?.toLowerCase()
+      .replace(/\s+/g, "-");
+
   const links =
     tile.links ||
     (tile.site
@@ -62,14 +67,18 @@ function cardTemplate(item) {
 
         <h3 class="card-title">
 
-  ${
-    resourceType
-      ? `
-        <img
-          class="resource-type-icon"
-          src="assets/icons/${resourceType}.svg"
-          alt=""
-          aria
+          ${
+            resourceType
+              ? `
+                <img
+                  class="resource-type-icon"
+                  src="assets
+
+          <span>
+            ${tile.title || "Untitled"}
+          </span>
+
+        </h3>
 
         <div class="card-description">
           ${tile.description || ""}
@@ -95,7 +104,6 @@ function cardTemplate(item) {
     </article>
   `;
 }
-
 function searchableText(item) {
 
   const tile = item.tile || {};
