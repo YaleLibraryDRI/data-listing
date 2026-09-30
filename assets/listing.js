@@ -67,8 +67,10 @@ const icon =
       <div class="card-body">
 
         <h3 class="card-title">
-          ${tile.title || "Untitled"}
-        </h3>
+          <img
+          	class="resource-type-icon"
+          	src="${icon}"
+          	alt
 
         <div class="card-description">
           ${tile.description || ""}
