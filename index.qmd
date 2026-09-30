@@ -79,7 +79,7 @@ page-layout: full
     href="https://library.yale.edu/about-us/about/library-policies/policies-governing-e-resources-access-and-use"
     target="_blank"
     rel="noopener noreferrer">
-    Yale Library Policies Governing E‑Resources Access and Use
+    here
   </a>.
 </p>
 
