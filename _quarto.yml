@@ -8,15 +8,14 @@ resources:
   - data/yale_library_data_listing.yml
 
 website:
-  title: "Yale Library Data Listing"
+  title: ""
   search: false
   site-url: "https://yalelibrarydri.github.io/data-listing/"
   repo-url: "https://github.com/YaleLibraryDRI/data-listing"
   navbar:
     background: "#00356b"
     foreground: "#ffffff"
-    left:
-      - href: index.qmd
+    logo: assets/yale-library-long.png
   page-footer:
     left: "Yale Library Data Listing"
     right: "Built with Quarto"
