@@ -61,8 +61,15 @@ function cardTemplate(item) {
       <div class="card-body">
 
         <h3 class="card-title">
-          ${tile.title || "Untitled"}
-        </h3>
+
+  ${
+    resourceType
+      ? `
+        <img
+          class="resource-type-icon"
+          src="assets/icons/${resourceType}.svg"
+          alt=""
+          aria
 
         <div class="card-description">
           ${tile.description || ""}
