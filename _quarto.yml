@@ -8,6 +8,7 @@ resources:
 
 website:
   title: "Yale Library Data Listing"
+  search: false
   site-url: "https://yalelibrarydri.github.io/data-listing/"
   repo-url: "https://github.com/YaleLibraryDRI/data-listing"
   navbar:
