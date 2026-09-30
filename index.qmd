@@ -68,7 +68,7 @@ page-layout: full
 <div class="listing-controls">
 
   <div class="control-group">
-    <label for="listing-search">Search</label>
+    <label for="listing-search">Keyword Search</label>
     <input
       type="search"
       id="listing-search"
