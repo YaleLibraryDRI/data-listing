@@ -51,7 +51,9 @@ function getResourceTypeIcon(type) {
       .replace(/\s+/g, "-");
 
   return `
-    assets/icons/${resourceType}.svg
+    <img
+      class="resource-type-icon"
+      src="assets/icons/${resourceType}.svg"
   `;
 }
 
