@@ -4,7 +4,14 @@ page-layout: full
 ---
 ```{=html}
 <div class="listing-intro">
-  <p>Search or filter the Yale Library data listing by subject and access model.</p>
+  <p>Yale Library licenses data resources available to Yale students, faculty, and researchers for academic, non-commercial use.
+    <a
+    href="https://library.yale.edu/about-us/about/library-policies/policies-governing-e-resources-access-and-use"
+    target="_blank"
+    rel="noopener noreferrer">
+    Read about Yale Library policies governing e-resource access and use
+  </a>.
+  </p>
 </div>
 
 <div class="featured-platforms">
