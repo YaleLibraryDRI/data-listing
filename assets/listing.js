@@ -66,11 +66,17 @@ const icon =
     <article class="dataset-card">
       <div class="card-body">
 
-        <h3 class="card-title">
-          <img
-          	class="resource-type-icon"
-          	src="${icon}"
-          	alt
+      <h3 class="card-title">
+
+  ${
+    resourceType
+      ? `assets/icons/${resourceType}.svg`
+      : ""
+  }
+
+  ${tile.title || "Untitled"}
+
+</h3>
 
         <div class="card-description">
           ${tile.description || ""}
