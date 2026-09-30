@@ -5,7 +5,9 @@ const state = {
   search: "",
   subject: "",
   type: "",
-  access: ""
+  access: "",
+  page: 1,
+  pageSize: 25
 };
 
 const els = {
@@ -125,18 +127,102 @@ function filteredItems() {
   });
 }
 
+function renderPagination(totalPages) {
+
+  let pagination =
+    document.getElementById("pagination");
+
+  if (!pagination) {
+
+    pagination =
+      document.createElement("div");
+
+    pagination.id = "pagination";
+
+    els.grid.after(pagination);
+  }
+
+  pagination.innerHTML = `
+    <button
+      id="prev-page"
+      ${state.page === 1 ? "disabled" : ""}
+    >
+      Previous
+    </button>
+
+    <span>
+      Page ${state.page} of ${totalPages}
+    </span>
+
+    <button
+      id="next-page"
+      ${
+        state.page === totalPages
+          ? "disabled"
+          : ""
+      }
+    >
+      Next
+    </button>
+  `;
+
+  document
+    .getElementById("prev-page")
+    ?.addEventListener("click", () => {
+
+      if (state.page > 1) {
+        state.page--;
+        render();
+      }
+    });
+
+  document
+    .getElementById("next-page")
+    ?.addEventListener("click", () => {
+
+      if (state.page < totalPages) {
+        state.page++;
+        render();
+      }
+    });
+}
+
 function render() {
+
   const results = filteredItems();
 
+  const totalPages = Math.max(
+    1,
+    Math.ceil(
+      results.length / state.pageSize
+    )
+  );
+
+  if (state.page > totalPages) {
+    state.page = totalPages;
+  }
+
+  const start =
+    (state.page - 1) * state.pageSize;
+
+  const end =
+    start + state.pageSize;
+
+  const pageResults =
+    results.slice(start, end);
+
   if (els.resultCount) {
+
     els.resultCount.textContent =
-      `${results.length} resources shown`;
+      `${results.length} resources shown (page ${state.page} of ${totalPages})`;
   }
 
   if (!els.grid) return;
 
   els.grid.innerHTML =
-    results.map(cardTemplate).join("");
+    pageResults.map(cardTemplate).join("");
+
+  renderPagination(totalPages);
 }
 
 fetch(DATA_URL)
@@ -146,33 +232,46 @@ fetch(DATA_URL)
     state.items = data.items || [];
 
     state.items.sort((a, b) => {
+
       const aTitle =
-        (a.tile?.title || "").toLowerCase();
+        (a.tile?.title || "")
+          .toLowerCase();
 
       const bTitle =
-        (b.tile?.title || "").toLowerCase();
+        (b.tile?.title || "")
+          .toLowerCase();
 
       return aTitle.localeCompare(bTitle);
     });
 
     fillSelect(
       els.subject,
-      uniqueSorted(state.items, "categories1")
+      uniqueSorted(
+        state.items,
+        "categories1"
+      )
     );
 
     fillSelect(
       els.type,
-      uniqueSorted(state.items, "categories2")
+      uniqueSorted(
+        state.items,
+        "categories2"
+      )
     );
 
     fillSelect(
       els.access,
-      uniqueSorted(state.items, "categories3")
+      uniqueSorted(
+        state.items,
+        "categories3"
+      )
     );
 
     render();
   })
   .catch(error => {
+
     console.error(
       "Failed to load data:",
       error
@@ -180,46 +279,94 @@ fetch(DATA_URL)
   });
 
 if (els.search) {
-  els.search.addEventListener("input", e => {
-    state.search = e.target.value;
-    render();
-  });
+
+  els.search.addEventListener(
+    "input",
+    e => {
+
+      state.search =
+        e.target.value;
+
+      state.page = 1;
+
+      render();
+    }
+  );
 }
 
 if (els.subject) {
-  els.subject.addEventListener("change", e => {
-    state.subject = e.target.value;
-    render();
-  });
+
+  els.subject.addEventListener(
+    "change",
+    e => {
+
+      state.subject =
+        e.target.value;
+
+      state.page = 1;
+
+      render();
+    }
+  );
 }
 
 if (els.type) {
-  els.type.addEventListener("change", e => {
-    state.type = e.target.value;
-    render();
-  });
+
+  els.type.addEventListener(
+    "change",
+    e => {
+
+      state.type =
+        e.target.value;
+
+      state.page = 1;
+
+      render();
+    }
+  );
 }
 
 if (els.access) {
-  els.access.addEventListener("change", e => {
-    state.access = e.target.value;
-    render();
-  });
+
+  els.access.addEventListener(
+    "change",
+    e => {
+
+      state.access =
+        e.target.value;
+
+      state.page = 1;
+
+      render();
+    }
+  );
 }
 
 if (els.clear) {
-  els.clear.addEventListener("click", () => {
 
-    state.search = "";
-    state.subject = "";
-    state.type = "";
-    state.access = "";
+  els.clear.addEventListener(
+    "click",
+    () => {
 
-    if (els.search) els.search.value = "";
-    if (els.subject) els.subject.value = "";
-    if (els.type) els.type.value = "";
-    if (els.access) els.access.value = "";
+      state.search = "";
+      state.subject = "";
+      state.type = "";
+      state.access = "";
+      state.page = 1;
 
-    render();
-  });
+      if (els.search)
+        els.search.value = "";
+
+      if (els.subject)
+        els.subject.value = "";
+
+      if (els.type)
+        els.type.value = "";
+
+      if (els.access)
+        els.access.value = "";
+
+      render();
+    }
+  );
 }

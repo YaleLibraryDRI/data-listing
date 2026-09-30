@@ -379,3 +379,25 @@
     grid-template-columns: 1fr;
   }
 }
+
+#pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+#pagination button {
+  background: #00356b;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 0.45rem 0.8rem;
+  cursor: pointer;
+}
+
+#pagination button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
