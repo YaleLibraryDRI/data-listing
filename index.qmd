@@ -4,18 +4,20 @@ page-layout: full
 ---
 ```{=html}
 <div class="listing-intro">
-  <p>Yale Library licenses data resources available to Yale students, faculty, and researchers for academic, non-commercial use.
-    <a
+ <p>
+  Yale Library licenses data resources for Yale students, faculty, and researchers. Use of these resources is subject to Yale Library’s
+  <a
     href="https://library.yale.edu/about-us/about/library-policies/policies-governing-e-resources-access-and-use"
     target="_blank"
     rel="noopener noreferrer">
-    Read about Yale Library policies governing e-resource access and use
+    e-resource access and use policies
   </a>.
-  For data support, contact the library at
-<a href="mailto:researchdata@yale.edu">
-researchdata@yale.edu
-</a>.
-  </p>
+
+  For data support, contact
+  <a href="mailto:researchdata@yale.edu">
+    researchdata@yale.edu
+  </a>.
+</p>
 </div>
 
 <div class="featured-platforms">
