@@ -7,7 +7,7 @@ const state = {
   type: "",
   access: "",
   page: 1,
-  pageSize: 25
+  pageSize: 24
 };
 
 const els = {
