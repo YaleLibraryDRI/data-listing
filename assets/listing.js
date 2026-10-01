@@ -157,6 +157,33 @@ function filteredItems() {
   });
 }
 
+function updateUrl() {
+
+  const params = new URLSearchParams();
+
+  if (state.subject) {
+    params.set("subject", state.subject);
+  }
+
+  if (state.type) {
+    params.set("type", state.type);
+  }
+
+  if (state.access) {
+    params.set("access", state.access);
+  }
+
+  const query = params.toString();
+
+  history.replaceState(
+    null,
+    "",
+    query
+      ? `?${query}`
+      : window.location.pathname
+  );
+}
+
 function renderPagination(totalPages) {
 
   let pagination =
@@ -253,6 +280,8 @@ function render() {
     pageResults.map(cardTemplate).join("");
 
   renderPagination(totalPages);
+  
+  updateUrl();
 }
 
 fetch(DATA_URL)
@@ -297,6 +326,32 @@ fetch(DATA_URL)
         "categories3"
       )
     );
+    
+    const params =
+  new URLSearchParams(
+    window.location.search
+  );
+
+state.subject =
+  params.get("subject") || "";
+
+state.type =
+  params.get("type") || "";
+
+state.access =
+  params.get("access") || "";
+
+if (els.subject) {
+  els.subject.value = state.subject;
+}
+
+if (els.type) {
+  els.type.value = state.type;
+}
+
+if (els.access) {
+  els.access.value = state.access;
+}
 
     render();
   })
