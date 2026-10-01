@@ -85,7 +85,7 @@ page-layout: full
   </h2>
 
 <p>
-  Browse all Yale Library licensed data resources by keyword search or filter by research area, resource type, or access mode.
+  Search all Yale Library licensed data resources by keyword or browse by filtering by research area, resource type, or access mode.
 </p>
 
 </div>
