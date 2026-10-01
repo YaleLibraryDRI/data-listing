@@ -17,7 +17,7 @@ website:
     foreground: "#ffffff"
     logo: assets/yale-library-long.png
   page-footer:
-    left: "Yale Library Data Listing"
+    left: "Yale Library"
     right: "Built with Quarto"
 
 format:
