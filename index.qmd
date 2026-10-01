@@ -82,6 +82,10 @@ researchdata@yale.edu
     All Yale Library Licensed Data Resources
   </h2>
 
+<p>
+  Browse all Yale Library licensed data resources by keyword search or filter by research area, resource type, or access mode.
+</p>
+
 </div>
 
 <div class="listing-controls">
