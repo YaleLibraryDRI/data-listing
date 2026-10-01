@@ -297,6 +297,31 @@ fetch(DATA_URL)
         "categories3"
       )
     );
+const params =
+  new URLSearchParams(
+    window.location.search
+  );
+
+state.subject =
+  params.get("subject") || "";
+
+state.type =
+  params.get("type") || "";
+
+state.access =
+  params.get("access") || "";
+
+if (els.subject)
+  els.subject.value =
+    state.subject;
+
+if (els.type)
+  els.type.value =
+    state.type;
+
+if (els.access)
+  els.access.value =
+    state.access;
 
     render();
   })
